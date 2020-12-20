@@ -2,29 +2,42 @@
   box-sizing: border-box;
 }
 
-.link,
-.nav,
+a,
+nav,
 .primary,
 .secondary {
   display: flex;
 }
 
-.article,
-.nav {
-  border: 1px solid black;
-}
-
-.h1,
-.header {
-  text-align: center;
-}
-
-.h1,
-.link {
+a,
+h1 {
   font-size: 30px;
 }
 
-.article {
+article,
+nav {
+  border: 1px solid black;
+}
+
+h1,
+header {
+  text-align: center;
+}
+
+a {
+  align-items: center;
+  color: darkslategray;
+  flex: 1;
+  font-weight: bold;
+  padding-left: 1.5rem;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+article {
   flex-basis: 25%;
   padding: 0 1.5rem;
 }
@@ -33,54 +46,41 @@
   flex-basis: 50%;
 }
 
-.h1 {
+h1 {
   font-style: italic;
   font-weight: normal;
 }
 
-.header {
-  font: 60px "Snell Roundhand", sans-serif;
-  padding: 3rem 0;
+header {
+  font: 60px "Snell Roundhand", cursive;
+  margin: 3rem 0;
 }
 
-.img {
+img {
   width: 100%;
 }
 
-.link {
-  align-items: center;
-  color: gray;
-  flex: 1;
-  font-weight: bold;
-  padding-left: 1rem;
-  text-decoration: none;
+nav {
+  flex-basis: 75%;
+  flex-direction: column;
 }
 
-.link:hover {
-  text-decoration: underline;
+nav a:nth-child(1) {
+  background-color: lightgoldenrodyellow;
 }
 
-.link-local {
-  background-color: green;
-}
-
-.link-opinion {
-  background-color: blue;
-}
-
-.link-politics {
-  background-color: yellow;
-}
-
-.link-sports {
-  background-color: purple;
-}
-
-.link-technology {
+nav a:nth-child(2) {
   background-color: cyan;
 }
 
-.nav {
-  flex-basis: 75%;
-  flex-direction: column;
+nav a:nth-child(3) {
+  background-color: lightseagreen;
+}
+
+nav a:nth-child(4) {
+  background-color: dodgerblue;
+}
+
+nav a:nth-child(5) {
+  background-color: hotpink;
 }
