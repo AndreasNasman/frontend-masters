@@ -1,0 +1,73 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+button {
+  align-items: center;
+  background-color: #d8d9db;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  font: inherit;
+  justify-content: center;
+  outline: none;
+  padding: 1rem;
+}
+
+button:hover {
+  background-color: #ebebeb;
+}
+
+button:active {
+  background-color: #bbbcbe;
+}
+
+#calculate,
+.display,
+.operation {
+  color: white;
+}
+
+#calculate,
+.operation {
+  background-color: #df974c;
+}
+
+#calculate:hover,
+.operation:hover {
+  background-color: #dfb07e;
+}
+
+#calculate:active,
+.operation:active {
+  background-color: #dd8d37;
+}
+
+.calculator {
+  background-color: black;
+  display: grid;
+  font: bold 40px "Courier New", Courier, monospace;
+  grid-gap: 2px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.display {
+  grid-column: 1 / -1;
+  overflow: auto;
+  padding: 1rem;
+  text-align: right;
+}
+
+.double {
+  grid-column: span 2;
+}
+
+.triple {
+  grid-column: span 3;
+}
