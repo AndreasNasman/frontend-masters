@@ -1,6 +1,9 @@
 [submodule "Complete Intro to Web Development, v2/intro-to-web-dev-v2"]
 	path = Complete Intro to Web Development, v2/intro-to-web-dev-v2
 	url = https://github.com/AndreasNasman/intro-to-web-dev-v2.git
+[submodule "Introduction to Vue 3/intro-to-vue"]
+	path = Introduction to Vue 3/intro-to-vue
+	url = https://github.com/AndreasNasman/intro-to-vue.git
 [submodule "Visual Studio Code Can Do That?/workshop-vs-code-can-do-that"]
 	path = Visual Studio Code Can Do That?/workshop-vs-code-can-do-that
 	url = https://github.com/AndreasNasman/workshop-vs-code-can-do-that.git
