@@ -1,3 +1,6 @@
+[submodule "Advanced Vue.js Features from the Ground Up/vue-advanced-workshop"]
+	path = Advanced Vue.js Features from the Ground Up/vue-advanced-workshop
+	url = https://github.com/AndreasNasman/vue-advanced-workshop.git
 [submodule "Complete Intro to Web Development, v2/intro-to-web-dev-v2"]
 	path = Complete Intro to Web Development, v2/intro-to-web-dev-v2
 	url = https://github.com/AndreasNasman/intro-to-web-dev-v2.git
