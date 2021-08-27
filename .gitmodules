@@ -4,6 +4,9 @@
 [submodule "Complete Intro to Web Development, v2/intro-to-web-dev-v2"]
 	path = Complete Intro to Web Development, v2/intro-to-web-dev-v2
 	url = https://github.com/AndreasNasman/intro-to-web-dev-v2.git
+[submodule "Introduction to Bash, VIM & Regex/fmmn"]
+	path = Introduction to Bash, VIM & Regex/fmmn
+	url = https://github.com/AndreasNasman/fmmn.git
 [submodule "Introduction to Vue 3/intro-to-vue"]
 	path = Introduction to Vue 3/intro-to-vue
 	url = https://github.com/AndreasNasman/intro-to-vue.git
