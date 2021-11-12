@@ -1,0 +1,4120 @@
+{
+  "date_added": "13280014119751987",
+  "date_modified": "13281279208123355",
+  "guid": "621c5fd5-edb5-431a-9505-46edafd201c8",
+  "id": "2458",
+  "name": "Frontend Masters",
+  "type": "folder",
+  "children": [
+    {
+      "date_added": "13280014119752848",
+      "date_modified": "0",
+      "guid": "a1f4d287-832a-4dd6-aaef-7d0bc3253b68",
+      "id": "2459",
+      "name": "✅ Advanced Vue.js Features from the Ground Up",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13262257145000000",
+          "guid": "db1c418d-a904-4ce8-af7d-5178949a87b8",
+          "id": "2460",
+          "name": "Advanced Workshop - Google Slides",
+          "type": "url",
+          "url": "https://docs.google.com/presentation/d/1TgDx4DN8YqfdndYWMovBcQVPWyKLTNcbo1YS8XlLo9o/edit#slide=id.p"
+        },
+        {
+          "date_added": "13262260422000000",
+          "guid": "ebe81ed2-994f-4e57-aee6-648e17007b4c",
+          "id": "2461",
+          "name": "Object.defineProperty() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty"
+        },
+        {
+          "date_added": "13263747087000000",
+          "guid": "af3b7f04-f34e-446c-99ec-1c1f546f44f0",
+          "id": "2462",
+          "name": "Plugins — Vue.js",
+          "type": "url",
+          "url": "https://vuejs.org/v2/guide/plugins.html"
+        },
+        {
+          "date_added": "13263747107000000",
+          "guid": "8e4cebcd-b345-4a19-9618-45083033fbcc",
+          "id": "2463",
+          "name": "Mixins — Vue.js",
+          "type": "url",
+          "url": "https://vuejs.org/v2/guide/mixins.html#Global-Mixin"
+        },
+        {
+          "date_added": "13263747108000000",
+          "guid": "d67de997-45d0-4fd1-a0a8-88398380f91a",
+          "id": "2464",
+          "name": "API — Vue.js",
+          "type": "url",
+          "url": "https://vuejs.org/v2/api/#vm-options"
+        },
+        {
+          "date_added": "13264693614000000",
+          "guid": "80c5f291-e080-4b9a-9540-f71523bbad1e",
+          "id": "2465",
+          "name": "Vue Template Explorer",
+          "type": "url",
+          "url": "https://template-explorer.vuejs.org/"
+        },
+        {
+          "date_added": "13264760120000000",
+          "guid": "8a61d933-965b-417a-af46-847e326e0f22",
+          "id": "2466",
+          "name": "hyperhype/hyperscript: Create HyperText with JavaScript.",
+          "type": "url",
+          "url": "https://github.com/hyperhype/hyperscript"
+        },
+        {
+          "date_added": "13264760123000000",
+          "guid": "fa850ffd-68c4-4273-8b43-1d214322eeab",
+          "id": "2467",
+          "name": "Render Functions & JSX — Vue.js",
+          "type": "url",
+          "url": "https://vuejs.org/v2/guide/render-function.html#The-Data-Object-In-Depth"
+        },
+        {
+          "date_added": "13266312706000000",
+          "guid": "919d848e-0a22-4a72-a18b-81e5eb29fb98",
+          "id": "2468",
+          "name": "Vuex",
+          "type": "url",
+          "url": "https://vuex.vuejs.org/guide/guide/"
+        },
+        {
+          "date_added": "13266312733000000",
+          "guid": "a6efd0a7-432a-4689-8066-ad272e9944a4",
+          "id": "2469",
+          "name": "Dan on Twitter: \"Flux libraries are like glasses: you’ll know when you need them.\" / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/dan_abramov/status/704304462739939328"
+        },
+        {
+          "date_added": "13267014038000000",
+          "guid": "2233698a-5b97-4272-b61a-c4b1584ed267",
+          "id": "2470",
+          "name": "pillarjs/path-to-regexp: Turn a path string such as `/user/:name` into a regular expression",
+          "type": "url",
+          "url": "https://github.com/pillarjs/path-to-regexp"
+        },
+        {
+          "date_added": "13267116265000000",
+          "guid": "a033fba2-4e58-4e65-a039-1ec9a654270a",
+          "id": "2471",
+          "name": "VeeValidate",
+          "type": "url",
+          "url": "https://vee-validate.logaretm.com/v4/"
+        },
+        {
+          "date_added": "13267116271000000",
+          "guid": "9a4c30f1-d0fe-4f77-95f3-eb1f13df7fdf",
+          "id": "2472",
+          "name": "vuelidate/vuelidate: Simple, lightweight model-based validation for Vue.js",
+          "type": "url",
+          "url": "https://github.com/vuelidate/vuelidate"
+        },
+        {
+          "date_added": "13267195729000000",
+          "guid": "45d7c5e9-b486-4542-b96e-2d92499c2360",
+          "id": "2473",
+          "name": "kazupon/vue-i18n: Internationalization plugin for Vue.js",
+          "type": "url",
+          "url": "https://github.com/kazupon/vue-i18n"
+        },
+        {
+          "date_added": "13267292138000000",
+          "guid": "5006e7d9-377f-424a-95ce-c6eaa35eb5e1",
+          "id": "2474",
+          "name": "karol-f/vue-custom-element: Vue Custom Element - Web Components' Custom Elements for Vue.js",
+          "type": "url",
+          "url": "https://github.com/karol-f/vue-custom-element"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119755066",
+      "date_modified": "13281277306695064",
+      "guid": "fa0f9c21-b18b-46b9-8ca3-9f61d82ba9fb",
+      "id": "2475",
+      "name": "✅ Complete Intro to Web Development, v2",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13229886527000000",
+          "guid": "1093569e-08d7-4691-913f-910d4ca49bd0",
+          "id": "2476",
+          "name": "Intro to Web Dev v2",
+          "type": "url",
+          "url": "https://btholt.github.io/intro-to-web-dev-v2/"
+        },
+        {
+          "date_added": "13229886514000000",
+          "guid": "2cd0e563-3840-44db-be01-b983f1fdbf82",
+          "id": "2477",
+          "name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+          "type": "url",
+          "url": "https://stackoverflow.com/"
+        },
+        {
+          "date_added": "13219236275000000",
+          "guid": "74f11881-dd49-4384-8efc-6dffc85c17d7",
+          "id": "2478",
+          "name": "Front End Happy Hour",
+          "type": "url",
+          "url": "https://frontendhappyhour.com/"
+        },
+        {
+          "date_added": "13219239122000000",
+          "guid": "ee203582-9506-4f30-ac0b-55ba567d1014",
+          "id": "2479",
+          "name": "Brian Holt (@holtbt) | Twitter",
+          "type": "url",
+          "url": "https://twitter.com/holtbt"
+        },
+        {
+          "date_added": "13229886761000000",
+          "guid": "3b78c30f-e89b-4813-9ea4-0556a54b99f4",
+          "id": "2480",
+          "name": "bh (@briantholt) • Instagram photos and videos",
+          "type": "url",
+          "url": "https://www.instagram.com/briantholt/"
+        },
+        {
+          "date_added": "13219239234000000",
+          "guid": "ec948b3d-2a13-4a93-a448-7321d7cff916",
+          "id": "2481",
+          "name": "btholt (Brian Holt)",
+          "type": "url",
+          "url": "https://github.com/btholt"
+        },
+        {
+          "date_added": "13219239236000000",
+          "guid": "61c8110c-06a0-401b-afbd-8bea08f64f07",
+          "id": "2482",
+          "name": "(11) Brian Holt | LinkedIn",
+          "type": "url",
+          "url": "https://www.linkedin.com/in/btholt/"
+        },
+        {
+          "date_added": "13219236411000000",
+          "guid": "5ce60717-20a2-4d07-bf15-4b3a41d48300",
+          "id": "2483",
+          "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/git-in-depth/"
+        },
+        {
+          "date_added": "13252625881000000",
+          "guid": "7356501e-011d-44af-a59a-d8f93a17362b",
+          "id": "2484",
+          "name": "Download Visual Studio Code - Mac, Linux, Windows",
+          "type": "url",
+          "url": "https://code.visualstudio.com/download"
+        },
+        {
+          "date_added": "13252625898000000",
+          "guid": "3fe0d8c4-4381-4cc6-aebe-fb87ea7a2d55",
+          "id": "2485",
+          "name": "iTerm2 - macOS Terminal Replacement",
+          "type": "url",
+          "url": "https://iterm2.com/"
+        },
+        {
+          "date_added": "13252625910000000",
+          "guid": "b0ea3bb7-eb66-40d7-87a8-9b93cf959368",
+          "id": "2486",
+          "name": "Hyper™",
+          "type": "url",
+          "url": "https://hyper.is/"
+        },
+        {
+          "date_added": "13252625921000000",
+          "guid": "7a34f30f-2535-4cab-99c5-257dd9c6fc3c",
+          "id": "2487",
+          "name": "Cmder | Console Emulator",
+          "type": "url",
+          "url": "https://cmder.net/"
+        },
+        {
+          "date_added": "13252625934000000",
+          "guid": "a9cbeba8-28e7-4d3b-b8ca-e7b259b352be",
+          "id": "2488",
+          "name": "Zsh",
+          "type": "url",
+          "url": "https://www.zsh.org/"
+        },
+        {
+          "date_added": "13229944105000000",
+          "guid": "de77e462-c4d2-4c3f-83ae-2980e0c2c6d0",
+          "id": "2489",
+          "name": "Download Firefox — Free Web Browser — Mozilla",
+          "type": "url",
+          "url": "https://www.mozilla.org/en-US/firefox/new/"
+        },
+        {
+          "date_added": "13213443349000000",
+          "guid": "3bf2a4b9-cd89-4e22-91be-c7ed3342be8d",
+          "id": "2490",
+          "name": "Visual Studio Code - Code Editing. Redefined",
+          "type": "url",
+          "url": "https://code.visualstudio.com/"
+        },
+        {
+          "date_added": "13229944118000000",
+          "guid": "05792017-e3d3-4d76-a6fa-c134963b218d",
+          "id": "2491",
+          "name": "Extensions for Visual Studio family of products | Visual Studio Marketplace",
+          "type": "url",
+          "url": "https://marketplace.visualstudio.com/vscode?WT.mc_id=introtowebdev-github-brholt"
+        },
+        {
+          "date_added": "13252626288000000",
+          "guid": "ea34a48d-b6cb-4222-84de-5cd7101a2dc8",
+          "id": "2492",
+          "name": "Sublime Text - A sophisticated text editor for code, markup and prose",
+          "type": "url",
+          "url": "https://www.sublimetext.com/"
+        },
+        {
+          "date_added": "13229944122000000",
+          "guid": "15646b36-03d6-48db-9b55-e4aa4b6df3c3",
+          "id": "2493",
+          "name": "Atom",
+          "type": "url",
+          "url": "https://atom.io/"
+        },
+        {
+          "date_added": "13252626249000000",
+          "guid": "c7d2cfd2-05a9-4931-8b60-ef291a6a4888",
+          "id": "2494",
+          "name": "WebStorm: The Smartest JavaScript IDE by JetBrains",
+          "type": "url",
+          "url": "https://www.jetbrains.com/webstorm/"
+        },
+        {
+          "date_added": "13229944431000000",
+          "guid": "e81be52c-b81d-48a7-af1c-969521ae1835",
+          "id": "2495",
+          "name": "Bash - GNU Project - Free Software Foundation",
+          "type": "url",
+          "url": "https://www.gnu.org/software/bash/"
+        },
+        {
+          "date_added": "13229944434000000",
+          "guid": "9de52c93-0e09-45f4-97c7-b7f11fefa1a7",
+          "id": "2496",
+          "name": "Install Windows Subsystem for Linux (WSL) on Windows 10 | Microsoft Docs",
+          "type": "url",
+          "url": "https://docs.microsoft.com/en-us/windows/wsl/install-win10"
+        },
+        {
+          "date_added": "13229944436000000",
+          "guid": "4b1cd5d0-a304-4c74-923c-6b06a2d9dc64",
+          "id": "2497",
+          "name": "fish shell",
+          "type": "url",
+          "url": "https://fishshell.com/"
+        },
+        {
+          "date_added": "13229944568000000",
+          "guid": "0a6815a7-329d-48fd-aa1b-c113dea45521",
+          "id": "2498",
+          "name": "MDN Web Docs",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/"
+        },
+        {
+          "date_added": "13252626705000000",
+          "guid": "d6c3a958-0f61-439a-b056-4d5ba7e1351a",
+          "id": "2499",
+          "name": "CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/"
+        },
+        {
+          "date_added": "13229944576000000",
+          "guid": "50fe85f1-afd4-42c2-8d26-4cab4cc0abb0",
+          "id": "2500",
+          "name": "A Complete Guide to Flexbox | CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+        },
+        {
+          "date_added": "13229944601000000",
+          "guid": "13c1304f-9abe-4774-8a61-9098f728c5aa",
+          "id": "2501",
+          "name": "Front-end Developer Handbook 2018 · GitBook (Legacy)",
+          "type": "url",
+          "url": "https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details"
+        },
+        {
+          "date_added": "13252626901000000",
+          "guid": "67f0c315-d4e9-4873-9111-d1516169d66a",
+          "id": "2502",
+          "name": "HTML: HyperText Markup Language | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+        },
+        {
+          "date_added": "13229949708000000",
+          "guid": "688d636a-c41d-4770-86ea-97ffa134a17e",
+          "id": "2503",
+          "name": "HTML elements reference - HTML: Hypertext Markup Language | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"
+        },
+        {
+          "date_added": "13229949777000000",
+          "guid": "01b78cf9-aa8f-4540-a9d8-35ad62eb6958",
+          "id": "2504",
+          "name": "Homepage - Material Design",
+          "type": "url",
+          "url": "https://material.io/"
+        },
+        {
+          "date_added": "13229950075000000",
+          "guid": "0fead6de-7af3-4d8e-9a8f-9a07f9f0275b",
+          "id": "2505",
+          "name": "CodePen: Build, Test, and Discover Front-end Code.",
+          "type": "url",
+          "url": "https://codepen.io/"
+        },
+        {
+          "date_added": "13229950079000000",
+          "guid": "ae538c86-37da-45b0-92a5-677ceeb54c05",
+          "id": "2506",
+          "name": "Lorem Ipsum - All the facts - Lipsum generator",
+          "type": "url",
+          "url": "https://www.lipsum.com/"
+        },
+        {
+          "date_added": "13252691271000000",
+          "guid": "347bfa9a-766f-40d6-b306-ae56362b232c",
+          "id": "2507",
+          "name": "harvesthq/chosen: Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.",
+          "type": "url",
+          "url": "https://github.com/harvesthq/chosen"
+        },
+        {
+          "date_added": "13252691274000000",
+          "guid": "e2ceab36-3c9b-45ab-a69c-d2711d583771",
+          "id": "2508",
+          "name": "selectize/selectize.js: Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.",
+          "type": "url",
+          "url": "https://github.com/selectize/selectize.js"
+        },
+        {
+          "date_added": "13252691380000000",
+          "guid": "72478bb3-7a2a-4848-a04f-d72c96f4ec79",
+          "id": "2509",
+          "name": "Named Colors and Hex Equivalents | CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/"
+        },
+        {
+          "date_added": "13230200645000000",
+          "guid": "3277762e-2cb1-48da-bb62-58a528e65a4e",
+          "id": "2510",
+          "name": "CSS Learning Path – Learn CSS, from Laying Out Websites to Performant Animations",
+          "type": "url",
+          "url": "https://frontendmasters.com/learn/css/"
+        },
+        {
+          "date_added": "13230200647000000",
+          "guid": "5575c220-714c-4c67-9c65-68338eee2d63",
+          "id": "2511",
+          "name": "Learn from Sarah Drasner's courses on Frontend Masters",
+          "type": "url",
+          "url": "https://frontendmasters.com/teachers/sarah-drasner/"
+        },
+        {
+          "date_added": "13230200650000000",
+          "guid": "4683cd45-332f-4c81-9bcf-9893e977032b",
+          "id": "2512",
+          "name": "Learn from Shirley Wu's courses on Frontend Masters",
+          "type": "url",
+          "url": "https://frontendmasters.com/teachers/shirley-wu/"
+        },
+        {
+          "date_added": "13230200703000000",
+          "guid": "44f1c349-7568-4191-99b7-dbcf01632d2f",
+          "id": "2513",
+          "name": "CSS Properties Index · Jens Oliver Meiert",
+          "type": "url",
+          "url": "https://meiert.com/en/indices/css-properties/"
+        },
+        {
+          "date_added": "13230200762000000",
+          "guid": "f73a2449-ce3b-4a7f-9b58-8424f5e872d4",
+          "id": "2514",
+          "name": "A Nerd's Guide to Color on the Web | CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/nerds-guide-color-web/"
+        },
+        {
+          "date_added": "13252754914000000",
+          "guid": "6df17b2f-a067-41d6-9b90-bf95c17ea15b",
+          "id": "2515",
+          "name": "The Lengths of CSS | CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/the-lengths-of-css/"
+        },
+        {
+          "date_added": "13230200976000000",
+          "guid": "69838f4c-d0be-497a-9a77-289f21f50fb6",
+          "id": "2516",
+          "name": "Responsive Typography Video Course by Jason Pamental",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/responsive-typography/"
+        },
+        {
+          "date_added": "13230201517000000",
+          "guid": "352d86f8-128a-4611-a1fa-5166d7332a2d",
+          "id": "2517",
+          "name": "CSS Playground",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/ELaxOB"
+        },
+        {
+          "date_added": "13230393570000000",
+          "guid": "0437c5b6-2cda-4fa5-a014-bd180ff5c313",
+          "id": "2518",
+          "name": "Learn the Chrome Developer Tools to Debug and Optimize Sites and Web Apps",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/chrome-dev-tools-v2/"
+        },
+        {
+          "date_added": "13230393911000000",
+          "guid": "5ac50867-d91c-482a-9bb3-ee5bb8f5a573",
+          "id": "2519",
+          "name": "Meet the Pseudo Class Selectors | CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/pseudo-class-selectors/"
+        },
+        {
+          "date_added": "13230393954000000",
+          "guid": "5524d045-45fc-43f7-b4f0-e7c0f3282f93",
+          "id": "2520",
+          "name": "::before / ::after | CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/almanac/selectors/a/after-and-before/"
+        },
+        {
+          "date_added": "13252771171000000",
+          "guid": "4780eebf-2540-44b2-97ae-a684301a7477",
+          "id": "2521",
+          "name": "specificity3.png* : Page 1 @ 100%",
+          "type": "url",
+          "url": "http://www.standardista.com/wp-content/uploads/2012/01/specificity3.pdf"
+        },
+        {
+          "date_added": "13230394063000000",
+          "guid": "a41c9418-6720-4cd4-9e01-1981e861b620",
+          "id": "2522",
+          "name": "Learn CSS In-Depth with Estelle Weyl",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/css-in-depth-v2/"
+        },
+        {
+          "date_added": "13230394079000000",
+          "guid": "8f8cfc4b-dfce-4e9b-9fd9-8b0a421ba524",
+          "id": "2523",
+          "name": "CSS Specificity – Standardista",
+          "type": "url",
+          "url": "http://www.standardista.com/css3/css-specificity/"
+        },
+        {
+          "date_added": "13252771398000000",
+          "guid": "afa56db9-be36-4c05-8140-4e8ee293af36",
+          "id": "2524",
+          "name": "Introduction to the CSS basic box model - CSS: Cascading Style Sheets | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"
+        },
+        {
+          "date_added": "13252771410000000",
+          "guid": "e9915a34-44b7-4e93-8f95-47a44c056bde",
+          "id": "2525",
+          "name": "Inheriting box-sizing Probably Slightly Better Best-Practice | CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/"
+        },
+        {
+          "date_added": "13230394376000000",
+          "guid": "a4e5c399-f935-4833-a8cb-c91ed48211a1",
+          "id": "2526",
+          "name": "Learn CSS Grids and Flexbox for Responsive Web Design",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/css-grids-flexbox/"
+        },
+        {
+          "date_added": "13230394567000000",
+          "guid": "ba9cc932-42ec-45ce-a7db-19fac55025dc",
+          "id": "2527",
+          "name": "* { box-sizing: border-box } FTW - Paul Irish",
+          "type": "url",
+          "url": "https://www.paulirish.com/2012/box-sizing-border-box-ftw/"
+        },
+        {
+          "date_added": "13252852803000000",
+          "guid": "95712c62-492d-4384-a933-f5cc9192beb2",
+          "id": "2528",
+          "name": "Learn Visual Studio Code to Super Charge Your Web Development Productivity",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/visual-studio-code/"
+        },
+        {
+          "date_added": "13230397365000000",
+          "guid": "df25d20e-8cf3-44a0-bf8f-1e0d60074354",
+          "id": "2529",
+          "name": "Learn Emmet & HTML – Visual Studio Code",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/visual-studio-code/emmet-html/"
+        },
+        {
+          "date_added": "13219240686000000",
+          "guid": "d57b27b1-ad58-4346-9d9d-28a8e0c7c61d",
+          "id": "2530",
+          "name": "PlaceCorgi",
+          "type": "url",
+          "url": "http://placecorgi.com/"
+        },
+        {
+          "date_added": "13230630030000000",
+          "guid": "d0b00ec7-f44f-4b98-8b6f-dfd50d705305",
+          "id": "2532",
+          "name": "Google Fonts",
+          "type": "url",
+          "url": "https://fonts.google.com/"
+        },
+        {
+          "date_added": "13230630032000000",
+          "guid": "ce85f822-8d2b-44ee-adef-30963cca37cf",
+          "id": "2533",
+          "name": "Emmet — the essential toolkit for web-developers",
+          "type": "url",
+          "url": "https://emmet.io/"
+        },
+        {
+          "date_added": "13230631118000000",
+          "guid": "759a2022-fd93-4cde-ba2b-d1f0c2e22f82",
+          "id": "2534",
+          "name": "Flexbox Zombies | Mastery Games",
+          "type": "url",
+          "url": "https://flexboxzombies.com/p/flexbox-zombies"
+        },
+        {
+          "date_added": "13230631169000000",
+          "guid": "f484ea08-30f8-45d0-8b26-286b95f0fc74",
+          "id": "2535",
+          "name": "Flexbox Froggy - A game for learning CSS flexbox",
+          "type": "url",
+          "url": "https://flexboxfroggy.com/"
+        },
+        {
+          "date_added": "13219239461000000",
+          "guid": "6c3901ec-8b4d-4016-b576-202bc4d7375b",
+          "id": "2536",
+          "name": "tonsky/FiraCode: Monospaced font with programming ligatures",
+          "type": "url",
+          "url": "https://github.com/tonsky/FiraCode"
+        },
+        {
+          "date_added": "13230822826000000",
+          "guid": "35ab1f0f-8de2-4850-9b04-2f806c26222b",
+          "id": "2537",
+          "name": "JS Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/ELozBz"
+        },
+        {
+          "date_added": "13230823879000000",
+          "guid": "e17262cb-cecf-48d4-a11d-88ff49fda93e",
+          "id": "2538",
+          "name": "Standard built-in objects - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects"
+        },
+        {
+          "date_added": "13213443290000000",
+          "guid": "31200bb0-b1f7-49a7-9224-ffce4294509d",
+          "id": "2539",
+          "name": "TypeScript - JavaScript that scales.",
+          "type": "url",
+          "url": "https://www.typescriptlang.org/"
+        },
+        {
+          "date_added": "13230824271000000",
+          "guid": "d9b927a0-e63a-4b3b-b9e8-f9185d7527dc",
+          "id": "2540",
+          "name": "Learn from Kyle Simpson's courses on Frontend Masters",
+          "type": "url",
+          "url": "https://frontendmasters.com/teachers/kyle-simpson/"
+        },
+        {
+          "date_added": "13253108848000000",
+          "guid": "fff54fe4-a6d8-4cf0-8d97-fe74d1cfc37d",
+          "id": "2541",
+          "name": "Learn Functional Programming in JavaScript (v2) with Kyle Simpson",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/functional-javascript-v2/"
+        },
+        {
+          "date_added": "13230825490000000",
+          "guid": "0178a432-cbf8-4b94-a235-0328902f6b98",
+          "id": "2542",
+          "name": "Hardcore Functional Programming in JavaScript Video Course",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/functional-javascript/"
+        },
+        {
+          "date_added": "13230825526000000",
+          "guid": "c4130366-ea81-4fae-91cc-0215e547bf09",
+          "id": "2543",
+          "name": "Learn JavaScript fundamentals and functional programming techniques to write modern, professional JavaScript!",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/js-fundamentals-functional-v2/"
+        },
+        {
+          "date_added": "13230826395000000",
+          "guid": "6adb49a6-4a61-45ce-812b-49f5e6b8eefc",
+          "id": "2544",
+          "name": "Event Delegation",
+          "type": "url",
+          "url": "https://codepen.io/frontendmasters/pen/ZMPqpX"
+        },
+        {
+          "date_added": "13231120063000000",
+          "guid": "e1d2cf00-9692-43d5-8b4a-2677da780a7b",
+          "id": "2545",
+          "name": "WebAIM: Contrast Checker",
+          "type": "url",
+          "url": "https://webaim.org/resources/contrastchecker/"
+        },
+        {
+          "date_added": "13281269934314870",
+          "guid": "03ad0001-eb81-4a1f-9b7b-cb73a79c46c9",
+          "id": "3633",
+          "name": "Learn JavaScript Performance - Optimize and fix common JavaScript performance issues to make your web apps fast.",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/web-performance/"
+        },
+        {
+          "date_added": "13281270172699962",
+          "guid": "ee27afe9-e211-4a7b-b2a9-1a0f7ae27b0c",
+          "id": "3634",
+          "name": "intro-to-web-dev-v2/calculator.css at master · btholt/intro-to-web-dev-v2",
+          "type": "url",
+          "url": "https://github.com/btholt/intro-to-web-dev-v2/blob/master/static/calculator.css"
+        },
+        {
+          "date_added": "13281270175259259",
+          "guid": "7de95a6b-0937-4e49-8337-984b824dfe06",
+          "id": "3635",
+          "name": "intro-to-web-dev-v2/calculator.html at master · btholt/intro-to-web-dev-v2",
+          "type": "url",
+          "url": "https://github.com/btholt/intro-to-web-dev-v2/blob/master/static/calculator.html"
+        },
+        {
+          "date_added": "13281270177542359",
+          "guid": "e43964bd-bb4d-4b73-a1a6-ea30b20b4a83",
+          "id": "3636",
+          "name": "intro-to-web-dev-v2/calculator.js at master · btholt/intro-to-web-dev-v2",
+          "type": "url",
+          "url": "https://github.com/btholt/intro-to-web-dev-v2/blob/master/static/calculator.js"
+        },
+        {
+          "date_added": "13231162272000000",
+          "guid": "3a7ba0b6-adbd-4ecf-9b9b-4a4d88e7c0dd",
+          "id": "2550",
+          "name": "Dog API",
+          "type": "url",
+          "url": "https://dog.ceo/dog-api/documentation/random"
+        },
+        {
+          "date_added": "13231162276000000",
+          "guid": "0e368c58-e2a6-4b4b-908d-d3bc4d8f16d0",
+          "id": "2551",
+          "name": "Dog API",
+          "type": "url",
+          "url": "https://dog.ceo/dog-api/"
+        },
+        {
+          "date_added": "13231162621000000",
+          "guid": "5942d5f0-b51b-4ac3-8f98-9288b47ec34e",
+          "id": "2552",
+          "name": "Popmotion | JavaScript animation libraries for delightful interfaces",
+          "type": "url",
+          "url": "https://popmotion.io/"
+        },
+        {
+          "date_added": "13253124301000000",
+          "guid": "ee34da22-c74f-4a5a-980a-51b8a9a05baa",
+          "id": "2553",
+          "name": "jQuery",
+          "type": "url",
+          "url": "https://jquery.com/"
+        },
+        {
+          "date_added": "13231162628000000",
+          "guid": "f3cbac88-8f73-4aa5-bb6d-6114bec3f85c",
+          "id": "2554",
+          "name": "UNPKG",
+          "type": "url",
+          "url": "https://unpkg.com/#/"
+        },
+        {
+          "date_added": "13253124343000000",
+          "guid": "5cb591dc-8c8d-4190-86b8-81da0932134c",
+          "id": "2555",
+          "name": "Node.js",
+          "type": "url",
+          "url": "https://nodejs.org/en/"
+        },
+        {
+          "date_added": "13253124417000000",
+          "guid": "1a123d81-244b-4b32-ad26-56dcd47ae939",
+          "id": "2556",
+          "name": "Learn Webpack 4 with Sean Larkin, Core Maintainer of Webpack",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/webpack-fundamentals/"
+        },
+        {
+          "date_added": "13219239792000000",
+          "guid": "5e76553c-8e84-4789-a63b-cfc47e036a4a",
+          "id": "2557",
+          "name": "Parcel",
+          "type": "url",
+          "url": "https://parceljs.org/"
+        },
+        {
+          "date_added": "13253124738000000",
+          "guid": "54b57ba6-d58c-4788-9f5c-a748e40377bf",
+          "id": "2558",
+          "name": "npm | build amazing things",
+          "type": "url",
+          "url": "https://www.npmjs.com/"
+        },
+        {
+          "date_added": "13281277280662798",
+          "guid": "96d71572-12ea-4e5a-b2b9-d6a5aedf8757",
+          "id": "3642",
+          "name": "Git",
+          "type": "url",
+          "url": "https://git-scm.com/"
+        },
+        {
+          "date_added": "13231163810000000",
+          "guid": "d4fae246-bfcc-4166-8103-c65d519500d2",
+          "id": "2560",
+          "name": "GitHub Desktop | Simple collaboration from your desktop",
+          "type": "url",
+          "url": "https://desktop.github.com/"
+        },
+        {
+          "date_added": "13219236397000000",
+          "guid": "557c9f7c-ba4c-4268-a44e-8799ef7e64d1",
+          "id": "2561",
+          "name": "Sourcetree | Free Git GUI for Mac and Windows",
+          "type": "url",
+          "url": "https://www.sourcetreeapp.com/"
+        },
+        {
+          "date_added": "13231163818000000",
+          "guid": "4f084659-0af4-497a-ab9c-35eca6e2566b",
+          "id": "2562",
+          "name": "explainshell.com - match command-line arguments to their help text",
+          "type": "url",
+          "url": "https://explainshell.com/"
+        },
+        {
+          "date_added": "13231163842000000",
+          "guid": "58b0e826-829d-4270-beab-9952a03cf8ed",
+          "id": "2563",
+          "name": "Learn Full Stack Development for Front End Engineers with Jem Young",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/full-stack/"
+        },
+        {
+          "date_added": "13231168710000000",
+          "guid": "e97e5653-91d6-47cc-87b1-a7d6bb1d663e",
+          "id": "2564",
+          "name": "Choose an open source license | Choose a License",
+          "type": "url",
+          "url": "https://choosealicense.com/"
+        },
+        {
+          "date_added": "13231168708000000",
+          "guid": "9cc1d604-c956-4126-bfd4-97e82e5cd6aa",
+          "id": "2565",
+          "name": "GitHub",
+          "type": "url",
+          "url": "https://github.com/"
+        },
+        {
+          "date_added": "13253126769000000",
+          "guid": "1129b0e9-87f2-4a41-9c6a-325b7962d434",
+          "id": "2566",
+          "name": "Express - Node.js web application framework",
+          "type": "url",
+          "url": "https://expressjs.com/"
+        },
+        {
+          "date_added": "13231169451000000",
+          "guid": "bab3490c-c3a6-4aa1-a096-625485f95d3a",
+          "id": "2567",
+          "name": "Math.random() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random"
+        },
+        {
+          "date_added": "13231169790000000",
+          "guid": "ad378c7c-bdc7-45a7-b5f5-c686dc5cee58",
+          "id": "2568",
+          "name": "Learn to use AWS Lambda in production using the Serverless Framework",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/serverless-aws/"
+        },
+        {
+          "date_added": "13231169794000000",
+          "guid": "d6331e72-a09c-4f45-b880-b84729014f11",
+          "id": "2569",
+          "name": "btholt/intro-to-web-dev-v2: Intro to Web Dev, v2",
+          "type": "url",
+          "url": "https://github.com/btholt/intro-to-web-dev-v2"
+        },
+        {
+          "date_added": "13231169836000000",
+          "guid": "0c4127d5-b320-449d-b41b-2087b406880a",
+          "id": "2570",
+          "name": "First Timers Only - Get involved in Open Source and commit code to your first project!",
+          "type": "url",
+          "url": "https://www.firsttimersonly.com/"
+        },
+        {
+          "date_added": "13231169856000000",
+          "guid": "deb9dd8c-cae4-4c5e-85e4-94a1ba4af8c6",
+          "id": "2571",
+          "name": "Beginner Learning Path – Your Path to Becoming a Career-Ready Web Developer!",
+          "type": "url",
+          "url": "https://frontendmasters.com/learn/beginner/"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119769727",
+      "date_modified": "0",
+      "guid": "3810d89d-ec65-49de-933b-d541e24785ed",
+      "id": "2572",
+      "name": "✅ Deep JavaScript Foundations, v3",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13239116488000000",
+          "guid": "41c91857-46c4-41a0-9e2c-293ad9a8be34",
+          "id": "2573",
+          "name": "deepjs",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2019-03-07-deep-javascript-v2/deep-js-foundations-v2.pdf"
+        },
+        {
+          "date_added": "13259751543000000",
+          "guid": "076d7a8f-a413-45d7-b598-947e82234641",
+          "id": "2574",
+          "name": "Kyle Simpson Presents: Code is for Humans",
+          "type": "url",
+          "url": "https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/"
+        },
+        {
+          "date_added": "13235224878000000",
+          "guid": "b3e59686-1da4-4f22-8127-b288c0865d58",
+          "id": "2575",
+          "name": "getify (@getify) / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/getify"
+        },
+        {
+          "date_added": "13235224881000000",
+          "guid": "d79303bc-eca2-4313-a52d-f79fe7487430",
+          "id": "2576",
+          "name": "getify (Kyle Simpson)",
+          "type": "url",
+          "url": "https://github.com/getify"
+        },
+        {
+          "date_added": "13235224871000000",
+          "guid": "6fdce856-3940-48da-b71c-671502646adb",
+          "id": "2577",
+          "name": "Compose Mail - andreas.z.nasman@gmail.com - Gmail",
+          "type": "url",
+          "url": "mailto:getify@gmail.com"
+        },
+        {
+          "date_added": "13238150476000000",
+          "guid": "1d3668d6-a605-4f2a-9ba7-b76b0de8ea54",
+          "id": "2578",
+          "name": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+          "type": "url",
+          "url": "https://github.com/getify/You-Dont-Know-JS"
+        },
+        {
+          "date_added": "13259751724000000",
+          "guid": "2c4b339f-f541-4bbc-8af3-6c362f3488f8",
+          "id": "2579",
+          "name": "Babel · The compiler for next generation JavaScript",
+          "type": "url",
+          "url": "https://babeljs.io/"
+        },
+        {
+          "date_added": "13239117273000000",
+          "guid": "8e8f0903-77b2-4f50-8614-7e7e5373d805",
+          "id": "2580",
+          "name": "ECMAScript® 2018 Language Specification",
+          "type": "url",
+          "url": "https://www.ecma-international.org/ecma-262/9.0/index.html#Title"
+        },
+        {
+          "date_added": "13239117425000000",
+          "guid": "bfa29eb1-8e29-4bea-b548-5bf1da825716",
+          "id": "2581",
+          "name": "You Don't Know JS Yet on Twitter: \"Consider: x = \"5\"; y = x++; That inaccurate mental model would have predicted `x` as \"51\" (\"5\" + 1) and `y` as just \"5\". Instead x will end up as `6`, and `y` will be `5`, not \"5\". The spec says `y = x++` is basically: y = Number(x); x = Number(x) + 1;\" / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/YDKJS/status/1099716798088400899"
+        },
+        {
+          "date_added": "13239117793000000",
+          "guid": "599d8292-15f9-4fed-b6b5-86f48d0e600d",
+          "id": "2582",
+          "name": "ECMAScript® 2018 Language Specification",
+          "type": "url",
+          "url": "https://www.ecma-international.org/ecma-262/9.0/index.html#sec-ecmascript-language-types"
+        },
+        {
+          "date_added": "13239118017000000",
+          "guid": "eb077bc8-5b9e-4eed-95b6-2c201e0e65ab",
+          "id": "2583",
+          "name": "BigInt - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt"
+        },
+        {
+          "date_added": "13239118453000000",
+          "guid": "199a3009-91c7-43dd-a17f-b48f017ff02d",
+          "id": "2584",
+          "name": "let - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#The_temporal_dead_zone_and_typeof"
+        },
+        {
+          "date_added": "13239127417000000",
+          "guid": "f89b7af6-bc65-4e70-84b9-a9b7f254194e",
+          "id": "2585",
+          "name": "ECMAScript® 2018 Language Specification",
+          "type": "url",
+          "url": "https://www.ecma-international.org/ecma-262/9.0/index.html#sec-abstract-operations"
+        },
+        {
+          "date_added": "13239207918000000",
+          "guid": "ccabad4a-24c1-4ba2-bdad-f51dcc3b397f",
+          "id": "2586",
+          "name": "ECMAScript® 2018 Language Specification",
+          "type": "url",
+          "url": "https://www.ecma-international.org/ecma-262/9.0/index.html#sec-strict-equality-comparison"
+        },
+        {
+          "date_added": "13260019387000000",
+          "guid": "3e4c26d9-95fa-4191-a5a7-94ce435e2ed0",
+          "id": "2587",
+          "name": "ESLint - Pluggable JavaScript linter",
+          "type": "url",
+          "url": "https://eslint.org/"
+        },
+        {
+          "date_added": "13239381807000000",
+          "guid": "592af066-5e9f-4313-b710-c3e9cde74f69",
+          "id": "2588",
+          "name": "Learn TypeScript to add strong typing to make your JavaScript apps",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/typescript/"
+        },
+        {
+          "date_added": "13239382197000000",
+          "guid": "eaca0b59-b56d-49c1-89f3-2f13fc1aac9a",
+          "id": "2589",
+          "name": "niieani/typescript-vs-flowtype: Differences between Flowtype and TypeScript -- syntax and usability",
+          "type": "url",
+          "url": "https://github.com/niieani/typescript-vs-flowtype"
+        },
+        {
+          "date_added": "13239382876000000",
+          "guid": "d3e7670c-9584-4465-9708-06e9b29ca7dc",
+          "id": "2590",
+          "name": "Learn Bonus: Typl – Deep JavaScript Foundations, v3",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/deep-javascript-v3/bonus-typl/"
+        },
+        {
+          "date_added": "13235232248000000",
+          "guid": "d6e4556e-2131-403e-ba03-0af519495a03",
+          "id": "2591",
+          "name": "Arrow function expressions - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions"
+        },
+        {
+          "date_added": "13260366217000000",
+          "guid": "411c0c54-e6f5-4364-8b23-4856e39cc943",
+          "id": "2592",
+          "name": "Array.prototype.find() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find"
+        },
+        {
+          "date_added": "13239719789000000",
+          "guid": "53722e12-d807-417a-8491-c811c392bda0",
+          "id": "2593",
+          "name": "Array.prototype.map() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map"
+        },
+        {
+          "date_added": "13239719901000000",
+          "guid": "1c473002-8895-45eb-bc90-548fe6539d8d",
+          "id": "2594",
+          "name": "Array.prototype.sort() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort"
+        },
+        {
+          "date_added": "13239720181000000",
+          "guid": "4dc6027c-ce6d-46b5-994d-862e9281a580",
+          "id": "2595",
+          "name": "Array.prototype.filter() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"
+        },
+        {
+          "date_added": "13260367069000000",
+          "guid": "d9891258-1ec3-4c1d-848c-75ebc9f37ffb",
+          "id": "2596",
+          "name": "Array.prototype.includes() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"
+        },
+        {
+          "date_added": "13240484215000000",
+          "guid": "a11135a8-b42c-4273-b884-55ea0cbcf267",
+          "id": "2597",
+          "name": "The Perl Programming Language - www.perl.org",
+          "type": "url",
+          "url": "https://www.perl.org/"
+        },
+        {
+          "date_added": "13219239583000000",
+          "guid": "79c8c007-c0cf-4a35-b341-771e5335f75d",
+          "id": "2598",
+          "name": "npm | build amazing things",
+          "type": "url",
+          "url": "https://www.npmjs.com/"
+        },
+        {
+          "date_added": "13261323524000000",
+          "guid": "f13cb3b0-f063-47ab-8ce5-28245a0cd0be",
+          "id": "2599",
+          "name": "ECMAScript® 2018 Language Specification",
+          "type": "url",
+          "url": "https://262.ecma-international.org/9.0/#sec-arrow-function-definitions-runtime-semantics-evaluation"
+        },
+        {
+          "date_added": "13240528040000000",
+          "guid": "d5aa497f-601d-4cb1-92fa-5dabb8b53974",
+          "id": "2600",
+          "name": "creating hard-bound methods on classes",
+          "type": "url",
+          "url": "https://gist.github.com/getify/86bed0bb78ccb517c84a6e61ec16adca"
+        },
+        {
+          "date_added": "13261325980000000",
+          "guid": "1a791822-7fd2-4f1e-b046-168aea49862d",
+          "id": "2601",
+          "name": "RunJS - A playground for JavaScript and TypeScript",
+          "type": "url",
+          "url": "https://runjs.app/"
+        },
+        {
+          "date_added": "13240590340000000",
+          "guid": "d5d8edf0-da76-4aab-8b16-f389205a4bf1",
+          "id": "2602",
+          "name": "Object - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
+        },
+        {
+          "date_added": "13261327551000000",
+          "guid": "5b5fef88-8704-4e2b-aaca-e5f0361d0401",
+          "id": "2603",
+          "name": "Object.setPrototypeOf() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf"
+        },
+        {
+          "date_added": "13240591921000000",
+          "guid": "1936e49f-1497-4cc0-95b0-0d6952aee31a",
+          "id": "2604",
+          "name": "Lua: about",
+          "type": "url",
+          "url": "https://www.lua.org/about.html"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119774737",
+      "date_modified": "0",
+      "guid": "d3e38d7c-be8d-429e-8aa6-ee56489d2816",
+      "id": "2605",
+      "name": "✅ Getting Started with JavaScript, v2",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13235215721000000",
+          "guid": "b5e828b9-747d-47ba-916b-dc931a598de6",
+          "id": "2606",
+          "name": "into-js",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2019-05-08-getting-into-javascript/getting-into-javascript.pdf"
+        },
+        {
+          "date_added": "13256592402000000",
+          "guid": "fe585f31-8849-4478-9b56-9ab8d5b41612",
+          "id": "2607",
+          "name": "Compose Mail - andreas.z.nasman@gmail.com - Gmail",
+          "type": "url",
+          "url": "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=getify@gmail.com"
+        },
+        {
+          "date_added": "13256592409000000",
+          "guid": "6284d8b4-7071-4e49-85f5-ffd341c3ee57",
+          "id": "2608",
+          "name": "getify (@getify) / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/getify"
+        },
+        {
+          "date_added": "13256592420000000",
+          "guid": "4f540233-f1c4-42e4-aa6a-c661e1a05aa7",
+          "id": "2609",
+          "name": "getify (Kyle Simpson)",
+          "type": "url",
+          "url": "https://github.com/getify"
+        },
+        {
+          "date_added": "13235234537000000",
+          "guid": "aebe515c-99f2-4d9b-b2eb-169a78267c55",
+          "id": "2610",
+          "name": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+          "type": "url",
+          "url": "https://github.com/getify/You-Dont-Know-JS"
+        },
+        {
+          "date_added": "13235224974000000",
+          "guid": "9be807ed-cf84-4d6b-9b7d-8844e351b172",
+          "id": "2611",
+          "name": "You Don't Know JS: Up & Going by Simpson, Kyle (ebook)",
+          "type": "url",
+          "url": "https://www.ebooks.com/en-us/1993212/you-don-t-know-js-up-going/kyle-simpson/"
+        },
+        {
+          "date_added": "13256642879000000",
+          "guid": "e4afb4e3-a678-4680-a842-a3ba446d48e2",
+          "id": "2612",
+          "name": "RunJS - A playground for JavaScript and TypeScript",
+          "type": "url",
+          "url": "https://runjs.app/"
+        },
+        {
+          "date_added": "13235225126000000",
+          "guid": "f0479644-ab28-4c0a-8cb9-9a7e1ea4de99",
+          "id": "2613",
+          "name": "Chrome DevTools  |  Tools for Web Developers  |  Google Developers",
+          "type": "url",
+          "url": "https://developers.google.com/web/tools/chrome-devtools/"
+        },
+        {
+          "date_added": "13219239588000000",
+          "guid": "e12d0621-2dd8-4ffd-b4b3-3d8ee8569702",
+          "id": "2614",
+          "name": "Node.js",
+          "type": "url",
+          "url": "https://nodejs.org/en/"
+        },
+        {
+          "date_added": "13256592730000000",
+          "guid": "e9f9a12b-dd18-4178-b419-ca8c66cf9fd3",
+          "id": "2615",
+          "name": "Kyle Simpson Presents: Code is for Humans",
+          "type": "url",
+          "url": "https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/"
+        },
+        {
+          "date_added": "13235226778000000",
+          "guid": "5ac30731-5103-4c20-a9bd-73e34b822119",
+          "id": "2616",
+          "name": "George Boole - Wikipedia",
+          "type": "url",
+          "url": "https://en.wikipedia.org/wiki/George_Boole"
+        },
+        {
+          "date_added": "13235227000000000",
+          "guid": "4158d6b2-ae3e-49e7-a0bd-557f9952461e",
+          "id": "2617",
+          "name": "A is for Array by Brandon J Hansen, Paperback | Barnes & Noble®",
+          "type": "url",
+          "url": "https://www.barnesandnoble.com/w/a-is-for-array-brandon-j-hansen/1115440566"
+        },
+        {
+          "date_added": "13235227328000000",
+          "guid": "8af50068-82e5-4cf1-8153-96425a385806",
+          "id": "2618",
+          "name": "typeof - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof"
+        },
+        {
+          "date_added": "13256651123000000",
+          "guid": "5c52bf0c-469a-412e-877a-4ec910e6ebfe",
+          "id": "2619",
+          "name": "Array.prototype.includes() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"
+        },
+        {
+          "date_added": "13235229399000000",
+          "guid": "9e88c093-20ce-4671-88c2-d88577fc5107",
+          "id": "2620",
+          "name": "Array.prototype.push() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"
+        },
+        {
+          "date_added": "13256651267000000",
+          "guid": "336c43f4-47cb-4047-8bd6-7defb34b573c",
+          "id": "2621",
+          "name": "Template literals (Template strings) - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
+        },
+        {
+          "date_added": "13235229706000000",
+          "guid": "0cfb7fc7-9a87-4186-ac71-0abd1dc42c09",
+          "id": "2622",
+          "name": "You-Dont-Know-JS/README.md at 1st-ed · getify/You-Dont-Know-JS",
+          "type": "url",
+          "url": "https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20&%20going/README.md#you-dont-know-js-up--going"
+        },
+        {
+          "date_added": "13235229707000000",
+          "guid": "77c5664a-7a4b-437e-a74c-b1dbfe747f29",
+          "id": "2623",
+          "name": "You-Dont-Know-JS/get-started at 2nd-ed · getify/You-Dont-Know-JS",
+          "type": "url",
+          "url": "https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started"
+        },
+        {
+          "date_added": "13235230509000000",
+          "guid": "fda7b269-5d15-43a8-b485-7c4847f0b89f",
+          "id": "2624",
+          "name": "isNaN() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN"
+        },
+        {
+          "date_added": "13235231976000000",
+          "guid": "70b847b1-8a19-4bca-af1b-1c7d16226364",
+          "id": "2625",
+          "name": "Learn the JavaScript language with Kyle Simpson, author of the popular, You Don't Know JS, book series.",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/deep-javascript-v3/"
+        },
+        {
+          "date_added": "13256912354000000",
+          "guid": "7c65aa44-ae5f-4cb1-ba77-cc58a3cf25ce",
+          "id": "2626",
+          "name": "Arrow function expressions - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions"
+        },
+        {
+          "date_added": "13235232691000000",
+          "guid": "ebacc18b-f8bd-4da4-ab30-5b6705fdafee",
+          "id": "2627",
+          "name": "Ben Alman » Immediately-Invoked Function Expression (IIFE)",
+          "type": "url",
+          "url": "http://benalman.com/news/2010/11/immediately-invoked-function-expression/"
+        },
+        {
+          "date_added": "13235233103000000",
+          "guid": "ba9d1806-f14f-47f0-892a-569cfea285c5",
+          "id": "2628",
+          "name": "You-Dont-Know-JS/scope-closures at 2nd-ed · getify/You-Dont-Know-JS",
+          "type": "url",
+          "url": "https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119823844",
+      "date_modified": "13280853398488270",
+      "guid": "cb054bb2-d6ba-4452-92d9-c32200dec88d",
+      "id": "2950",
+      "name": "✅ Introduction to Bash, VIM & Regex",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13214994044000000",
+          "guid": "95208d52-0d20-4837-a256-516b5bdda810",
+          "id": "2951",
+          "name": "fmmn/unix.md at master · substack/fmmn",
+          "type": "url",
+          "url": "https://github.com/substack/fmmn/blob/master/day1/unix.md"
+        },
+        {
+          "date_added": "13214994047000000",
+          "guid": "996dae8e-2e2a-49f6-b41c-6041504f7fe8",
+          "id": "2952",
+          "name": "fmmn/regex.md at master · substack/fmmn",
+          "type": "url",
+          "url": "https://github.com/substack/fmmn/blob/master/day1/regex.md"
+        },
+        {
+          "date_added": "13214994050000000",
+          "guid": "9a3aa028-05b2-4a28-ad1a-4087e2f6b1b3",
+          "id": "2953",
+          "name": "fmmn/vim.md at master · substack/fmmn",
+          "type": "url",
+          "url": "https://github.com/substack/fmmn/blob/master/day1/vim.md"
+        },
+        {
+          "date_added": "13274533956000000",
+          "guid": "1d64f70c-0f87-4b3a-8688-7e6cc4595f17",
+          "id": "2954",
+          "name": "AT&T Archives: The UNIX Operating System - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=tc4ROCJYbm0"
+        },
+        {
+          "date_added": "13274533968000000",
+          "guid": "d771205c-10f3-4ddd-a45b-a97c272141d4",
+          "id": "2955",
+          "name": "File:Unix history-simple.svg - Wikipedia",
+          "type": "url",
+          "url": "https://en.wikipedia.org/wiki/File:Unix_history-simple.svg"
+        },
+        {
+          "date_added": "13280535850138497",
+          "guid": "5204cf53-616e-4a7d-b58d-acdf428b0387",
+          "id": "3611",
+          "name": "perlreref - Perl Regular Expressions Reference - Perldoc Browser",
+          "type": "url",
+          "url": "https://perldoc.perl.org/perlreref"
+        },
+        {
+          "date_added": "13280535878866557",
+          "guid": "3e83a1d4-0dae-461c-84e9-dca730ef98ed",
+          "id": "3612",
+          "name": "Vim Commands Cheat Sheet",
+          "type": "url",
+          "url": "http://www.fprintf.net/vimCheatSheet.html"
+        },
+        {
+          "date_added": "13280535882784983",
+          "guid": "4df16b2c-5686-4d95-8e4e-1d7e062454da",
+          "id": "3613",
+          "name": "YBlog - Learn Vim Progressively",
+          "type": "url",
+          "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119778343",
+      "date_modified": "13281275121469153",
+      "guid": "a67d8284-cf33-4353-aaed-3a3c8fe7b85c",
+      "id": "2629",
+      "name": "✅ Introduction to Vue 3",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13253179180000000",
+          "guid": "2f3420c4-0feb-4b2c-bcdb-bb8617e50173",
+          "id": "2630",
+          "name": "sdras/intro-to-vue: Workshop Materials for my Introduction to Vue.js Workshop",
+          "type": "url",
+          "url": "https://github.com/sdras/intro-to-vue"
+        },
+        {
+          "date_added": "13253179274000000",
+          "guid": "d5692299-f432-4c22-b1e9-13aa6e05aed0",
+          "id": "2631",
+          "name": "intro-to-vue-3-0.pdf",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-0.pdf"
+        },
+        {
+          "date_added": "13253179315000000",
+          "guid": "99ac8139-072b-4099-ac0d-9edfd4504dce",
+          "id": "2632",
+          "name": "Sarah Drasner (@sarah_edo) / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/sarah_edo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        },
+        {
+          "date_added": "13235409492000000",
+          "guid": "860ccef3-7530-4687-bcd0-e3079c3e1c1d",
+          "id": "2633",
+          "name": "Learn from Will Sentance's courses on Frontend Masters",
+          "type": "url",
+          "url": "https://frontendmasters.com/teachers/will-sentance/"
+        },
+        {
+          "date_added": "13253179769000000",
+          "guid": "b75c02a9-756d-4267-a1e9-e7a782fdb9c6",
+          "id": "2634",
+          "name": "Building Web Applications with Vue by Sarah Drasner",
+          "type": "url",
+          "url": "https://frontendmasters.com/workshops/building-apps-vue/"
+        },
+        {
+          "date_added": "13253180296000000",
+          "guid": "88cc6b56-d02d-43df-ab9f-f141eba3136f",
+          "id": "2635",
+          "name": "Directives Exercise Start",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/vZjozM/"
+        },
+        {
+          "date_added": "13253180338000000",
+          "guid": "aa82f068-4969-4b37-ae9e-2566a8458adb",
+          "id": "2636",
+          "name": "Vue.js devtools - Chrome Web Store",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en"
+        },
+        {
+          "date_added": "13253180347000000",
+          "guid": "c008c203-6197-4f83-a174-808576aa0a0f",
+          "id": "2637",
+          "name": "Vue.js devtools - Chrome Web Store",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg"
+        },
+        {
+          "date_added": "13253180351000000",
+          "guid": "5a573ebc-f97d-417c-8134-a91c8c0cd5ab",
+          "id": "2638",
+          "name": "Vetur - Visual Studio Marketplace",
+          "type": "url",
+          "url": "https://marketplace.visualstudio.com/items?itemName=octref.vetur"
+        },
+        {
+          "date_added": "13253180353000000",
+          "guid": "98e7a27a-4a12-403c-a328-45cd27ce7eb9",
+          "id": "2639",
+          "name": "Vue VSCode Snippets - Visual Studio Marketplace",
+          "type": "url",
+          "url": "https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets"
+        },
+        {
+          "date_added": "13253180768000000",
+          "guid": "9075ebea-ebf8-4e0b-b64c-01ea7e6b6bb5",
+          "id": "2640",
+          "name": "intro-to-vue3-1.pdf",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue3-1.pdf"
+        },
+        {
+          "date_added": "13253181407000000",
+          "guid": "398e66be-f95e-4b77-a4f8-36f19c107ba4",
+          "id": "2641",
+          "name": "Intro to Vue 3: Deck 1",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/11"
+        },
+        {
+          "date_added": "13253181488000000",
+          "guid": "02b0177e-e0f0-400f-bfad-cb8e9191f27a",
+          "id": "2642",
+          "name": "Intro to Vue 3: Deck 1",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/22"
+        },
+        {
+          "date_added": "13253181566000000",
+          "guid": "11097498-c4be-40b1-8067-ff2f1d226cf7",
+          "id": "2643",
+          "name": "Intro to Vue 3: Deck 1",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/29"
+        },
+        {
+          "date_added": "13253183585000000",
+          "guid": "3df34443-80bb-4024-b0a2-f4221ded1bae",
+          "id": "2644",
+          "name": "Intro to Vue 3: Deck 1",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/35"
+        },
+        {
+          "date_added": "13253183722000000",
+          "guid": "289ae7c9-98ce-4aaa-b464-9518ba3b09ba",
+          "id": "2645",
+          "name": "Intro to Vue 3: Deck 1",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/43"
+        },
+        {
+          "date_added": "13253183745000000",
+          "guid": "ace17b84-73bc-434a-b1ff-9f999de1fa55",
+          "id": "2646",
+          "name": "Intro to Vue 3: Deck 1",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/45"
+        },
+        {
+          "date_added": "13253184571000000",
+          "guid": "144d5a67-daf2-4d4c-ba10-4aeae90e01cc",
+          "id": "2647",
+          "name": "Directives Exercise Solution",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/685454ccb793ad59193a369c58b8747b"
+        },
+        {
+          "date_added": "13253185565000000",
+          "guid": "15a07d3c-68ce-44c8-b273-37d4571285db",
+          "id": "2648",
+          "name": "uuid - npm",
+          "type": "url",
+          "url": "https://www.npmjs.com/package/uuid"
+        },
+        {
+          "date_added": "13253185746000000",
+          "guid": "0dadf8ad-d804-4b8d-b9c1-1121b48a4712",
+          "id": "2649",
+          "name": "KeyCode Modifiers | Vue.js",
+          "type": "url",
+          "url": "https://v3.vuejs.org/guide/migration/keycode-modifiers.html#_3-x-syntax"
+        },
+        {
+          "date_added": "13253186356000000",
+          "guid": "9ec7872b-1108-43c6-bddc-f2d61a200f18",
+          "id": "2650",
+          "name": "intro-to-vue3-2.pdf",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue3-2.pdf"
+        },
+        {
+          "date_added": "13253186391000000",
+          "guid": "9e6c65dd-573f-4e89-9d4b-6f2bf7990a17",
+          "id": "2651",
+          "name": "Intro to Vue 3: Deck 2",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/2"
+        },
+        {
+          "date_added": "13253186457000000",
+          "guid": "85d31bb3-1269-4597-9836-a106dc95f987",
+          "id": "2652",
+          "name": "Showing simple event handling",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/75205908c2189487ca91f9b49c1c978a"
+        },
+        {
+          "date_added": "13253187807000000",
+          "guid": "6c713b6e-70da-4f49-9178-760fd5c29bc8",
+          "id": "2653",
+          "name": "beginning methods",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/422d5ce1f61d93ca253e06132b83c598"
+        },
+        {
+          "date_added": "13253188225000000",
+          "guid": "b32d27b1-0cf3-4029-9892-3f497916a98e",
+          "id": "2654",
+          "name": "Vuelidate | A Vue.js model validation library",
+          "type": "url",
+          "url": "https://vuelidate.js.org/"
+        },
+        {
+          "date_added": "13253189457000000",
+          "guid": "0ef4061a-e004-418d-bfdd-a312aef33b98",
+          "id": "2655",
+          "name": "Intro to Vue 3: Deck 2",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/16"
+        },
+        {
+          "date_added": "13253190108000000",
+          "guid": "d4cc09f0-504d-4241-844c-9caa6b85d788",
+          "id": "2656",
+          "name": "Intro to Vue 3: Deck 2",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/19"
+        },
+        {
+          "date_added": "13253190111000000",
+          "guid": "5c45d059-8a25-4362-8280-2563654a88d0",
+          "id": "2657",
+          "name": "Methods and Computed Exercise Start",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/WOyjoj/"
+        },
+        {
+          "date_added": "13253190209000000",
+          "guid": "bb823514-6826-42b6-a4f9-5545dc7e3261",
+          "id": "2658",
+          "name": "Methods and Computed Exercise Solution",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/9405ba833415572d34ec7c3ba13b1608"
+        },
+        {
+          "date_added": "13253193147000000",
+          "guid": "be854f78-ff56-4b23-8db9-db2ea21f3a10",
+          "id": "2659",
+          "name": "cda-locale",
+          "type": "url",
+          "url": "https://cda-locale.netlify.app/"
+        },
+        {
+          "date_added": "13253193163000000",
+          "guid": "87d3b9b8-cbfc-404d-8d70-b9474b8c0437",
+          "id": "2660",
+          "name": "Abel Wang 🦑🎸🤘✊ (@AbelSquidHead) / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/AbelSquidHead"
+        },
+        {
+          "date_added": "13253195782000000",
+          "guid": "290731ab-b47e-4aef-8e4b-ce8bbfe7bebc",
+          "id": "2661",
+          "name": "The introduction to Reactive Programming you've been missing",
+          "type": "url",
+          "url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754"
+        },
+        {
+          "date_added": "13253195827000000",
+          "guid": "a5ca58ee-ae9c-47e8-9ea6-1a8258a5abee",
+          "id": "2662",
+          "name": "Intro to Vue 3: Deck 2",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/35"
+        },
+        {
+          "date_added": "13253195838000000",
+          "guid": "35bac374-cec6-422c-b7c4-84dbd88971bd",
+          "id": "2663",
+          "name": "Proxies and Vue's Reactivity Explained Visually",
+          "type": "url",
+          "url": "https://codepen.io/sdras/full/zYYzjBg"
+        },
+        {
+          "date_added": "13253196287000000",
+          "guid": "2e5480e5-6244-4c02-b213-121ef85a8d62",
+          "id": "2664",
+          "name": "vue-next/packages/reactivity at master · vuejs/vue-next",
+          "type": "url",
+          "url": "https://github.com/vuejs/vue-next/tree/master/packages/reactivity"
+        },
+        {
+          "date_added": "13253196575000000",
+          "guid": "255c6a9f-6c02-42e5-9240-b1265ca00adc",
+          "id": "2665",
+          "name": "Vue Mastery | The Ultimate Learning Resource for Vue.js Developers",
+          "type": "url",
+          "url": "https://www.vuemastery.com/courses/vue3-reactivity/"
+        },
+        {
+          "date_added": "13253197181000000",
+          "guid": "f3414fc6-fe22-4530-a30d-deab25805c0d",
+          "id": "2666",
+          "name": "Vue's watchers/axios to add more info on infinite scroll",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/dRqZOy"
+        },
+        {
+          "date_added": "13253197417000000",
+          "guid": "0cedb38c-77c6-4052-87c4-f713583d30b5",
+          "id": "2667",
+          "name": "Akryum/vue-virtual-scroller: ⚡️ Blazing fast scrolling for any amount of data",
+          "type": "url",
+          "url": "https://github.com/Akryum/vue-virtual-scroller"
+        },
+        {
+          "date_added": "13253197638000000",
+          "guid": "fee48375-fb39-4d84-bb8b-78cc6446b09f",
+          "id": "2668",
+          "name": "Watcher Exercise Problem",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/pogBVjr"
+        },
+        {
+          "date_added": "13253197681000000",
+          "guid": "5958f478-9ae5-493a-b6f7-d542b52b1f2f",
+          "id": "2670",
+          "name": "Watcher Exercise Solution",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/e62a1fffd1b3a40000011837aee1f5dd"
+        },
+        {
+          "date_added": "13253202023000000",
+          "guid": "3f4bdbca-b03e-41de-82dc-ca5482a6a849",
+          "id": "2671",
+          "name": "Intro to Vue 3: Deck 2",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/72"
+        },
+        {
+          "date_added": "13253612159000000",
+          "guid": "c028b5a3-2afd-4920-8625-bd4302542f0f",
+          "id": "2672",
+          "name": "intro-to-vue-3-3.pdf",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-3.pdf"
+        },
+        {
+          "date_added": "13253612177000000",
+          "guid": "a0bda43d-18e7-4cec-986b-000136e9a081",
+          "id": "2673",
+          "name": "Intro to Vue 3: Deck 3",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue-3-3?token=NLsRwMvr"
+        },
+        {
+          "date_added": "13253612684000000",
+          "guid": "b66e17e7-9452-4d2d-9fe6-76337ed2b888",
+          "id": "2674",
+          "name": "child component using and not using props",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/5a34f6ed12cf954202c6d38f1ceba633"
+        },
+        {
+          "date_added": "13253614167000000",
+          "guid": "abfe7ff7-28e9-4935-ab04-35c5a9529321",
+          "id": "2675",
+          "name": "Emit with Params",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/666f76cb09ab151c13b551a552ed2996"
+        },
+        {
+          "date_added": "13253614553000000",
+          "guid": "62ec11dc-b39f-4e25-8954-85e00c5240ab",
+          "id": "2676",
+          "name": "Slots Example: Named Slots",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/bd5bcb6c54654770994ad02d0b3194d4"
+        },
+        {
+          "date_added": "13253617569000000",
+          "guid": "8c2cb583-2d59-4494-a5c6-d8cb4b353797",
+          "id": "2677",
+          "name": "components exercise problem",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/OgBmYV/"
+        },
+        {
+          "date_added": "13253617842000000",
+          "guid": "5d762ddf-9ec4-402c-bc33-5249020bfa85",
+          "id": "2678",
+          "name": "components exercise solution",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/owaWwd"
+        },
+        {
+          "date_added": "13253620998000000",
+          "guid": "08b047c7-86ff-4bd4-9395-9b2cea79e30e",
+          "id": "2679",
+          "name": "intro-to-vue-3-4.pdf",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-4.pdf"
+        },
+        {
+          "date_added": "13253621017000000",
+          "guid": "f1fe1972-4706-471f-b546-b783bfe19e59",
+          "id": "2680",
+          "name": "Intro to Vue 3: Deck 4",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue-3-4?token=0IQFDZvK"
+        },
+        {
+          "date_added": "13253621655000000",
+          "guid": "bbe60d28-f549-48b3-b6fa-6590308fb5b7",
+          "id": "2681",
+          "name": "vercel/hyperpower: Hyper particle effects extension",
+          "type": "url",
+          "url": "https://github.com/vercel/hyperpower"
+        },
+        {
+          "date_added": "13253622096000000",
+          "guid": "f2b542d3-4205-4c09-be38-2691224eba56",
+          "id": "2682",
+          "name": "What does the 'h' stand for in Vue's render method? | CSS-Tricks",
+          "type": "url",
+          "url": "https://css-tricks.com/what-does-the-h-stand-for-in-vues-render-method/"
+        },
+        {
+          "date_added": "13281272968689185",
+          "guid": "e1264e2c-9528-41f9-896f-279857a9dd74",
+          "id": "3638",
+          "name": "Backpack Shop Counter Components 2",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/2751def77693975f59bc72a237f1ba89"
+        },
+        {
+          "date_added": "13253636697000000",
+          "guid": "068f76b9-8458-43e2-b56d-da63af87553b",
+          "id": "2683",
+          "name": "hub · an extension to command-line git",
+          "type": "url",
+          "url": "https://hub.github.com/"
+        },
+        {
+          "date_added": "13253637049000000",
+          "guid": "3d4db588-c753-4803-9bdd-ddb03cf9591c",
+          "id": "2684",
+          "name": "Repository permissions and linking | Netlify Docs",
+          "type": "url",
+          "url": "https://docs.netlify.com/configure-builds/repo-permissions-linking/"
+        },
+        {
+          "date_added": "13253663204000000",
+          "guid": "de24ae0d-d530-472c-8198-821423941b6f",
+          "id": "2685",
+          "name": "Intro to Vue 3: Deck 4",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue-3-4?token=0IQFDZvK#/10"
+        },
+        {
+          "date_added": "13253699198000000",
+          "guid": "a1aa6ad3-7c83-43c8-be4e-d5eebae16457",
+          "id": "2686",
+          "name": "intro-to-vue-3-5.pdf",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-5.pdf"
+        },
+        {
+          "date_added": "13253699219000000",
+          "guid": "88a48dd2-9263-4702-a7bd-a7797bc07c64",
+          "id": "2687",
+          "name": "Intro to Vue 3: Deck 5",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue-3-5?token=YXhIwtpW"
+        },
+        {
+          "date_added": "13253699912000000",
+          "guid": "f862e3c3-d244-4ee7-9a28-42029156b2c5",
+          "id": "2688",
+          "name": "Animate.css | A cross-browser library of CSS animations.",
+          "type": "url",
+          "url": "https://animate.style/"
+        },
+        {
+          "date_added": "13253700017000000",
+          "guid": "06e8d28a-4b7a-4b95-ad07-77967f85403a",
+          "id": "2689",
+          "name": "Val Head (@vlh) / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/vlh?lang=en"
+        },
+        {
+          "date_added": "13253700323000000",
+          "guid": "60cd8b14-06fa-4643-8cb5-b19a13f0e1f8",
+          "id": "2690",
+          "name": "Ball Bouncing Exercise, v3",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/eYZyqrW"
+        },
+        {
+          "date_added": "13253704466000000",
+          "guid": "4ab940ae-c5e1-40e0-a0be-32a8d52387e4",
+          "id": "2691",
+          "name": "Vue-controlled Wall-E",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/YZBGNp"
+        },
+        {
+          "date_added": "13253704617000000",
+          "guid": "08d45fa4-45dc-41aa-a574-f94423f6b506",
+          "id": "2692",
+          "name": "Netlify Reaches One Million Devs!",
+          "type": "url",
+          "url": "https://million-devs.netlify.com/?utm_source=csstricks&utm_medium=milliondevs-sd&utm_campaign=devex"
+        },
+        {
+          "date_added": "13253714396000000",
+          "guid": "e41aae1d-5d19-4689-99f8-a71325b3c58f",
+          "id": "2693",
+          "name": "intro-to-vue-3-6.pdf",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-6.pdf"
+        },
+        {
+          "date_added": "13253714415000000",
+          "guid": "196ec792-2804-4d84-bdd9-233abca1ccba",
+          "id": "2694",
+          "name": "Intro to Vue 3: Deck 6",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue-3-6?token=yidUZcRL"
+        },
+        {
+          "date_added": "13253714452000000",
+          "guid": "86d0076b-a632-4bf1-9917-53f742b66e05",
+          "id": "2695",
+          "name": "Vue 3 Live Release Evan You Creator Vuejs - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=Vp5ANvd88x0"
+        },
+        {
+          "date_added": "13253715755000000",
+          "guid": "2e45bb92-1e72-4797-9ddb-007851e1b36e",
+          "id": "2696",
+          "name": "Introduction | Vue.js",
+          "type": "url",
+          "url": "https://v3.vuejs.org/guide/composition-api-introduction.html"
+        },
+        {
+          "date_added": "13253715773000000",
+          "guid": "3330b4a0-fe77-4923-8918-ba2ca303b645",
+          "id": "2697",
+          "name": "antfu/vueuse: 🧰 Collection of essential Vue Composition Utilities for Vue 2 and 3",
+          "type": "url",
+          "url": "https://github.com/antfu/vueuse"
+        },
+        {
+          "date_added": "13281273377289578",
+          "guid": "5e178310-a1a6-4267-8bc6-5640d93f2896",
+          "id": "3639",
+          "name": "Composition API Exercise, Refactor this",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/PoNPdNb"
+        },
+        {
+          "date_added": "13253717741000000",
+          "guid": "a758767d-e1a6-4a99-8807-1fa11169f746",
+          "id": "2698",
+          "name": "Composition API Exercise, Solution",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/zYqvJqy?editors=1010"
+        },
+        {
+          "date_added": "13253720094000000",
+          "guid": "ff9db1b5-75a1-456c-9997-2571da2d3618",
+          "id": "2699",
+          "name": "intro-to-vue-3-7.pdf",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-7.pdf"
+        },
+        {
+          "date_added": "13253720112000000",
+          "guid": "3a011a10-26bc-424c-96c8-38e1468a2669",
+          "id": "2700",
+          "name": "Intro to Vue 3: Deck 7",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue-3-7?token=YvT8ZUzV"
+        },
+        {
+          "date_added": "13253720788000000",
+          "guid": "0357dc8d-c5e5-4d47-916f-778e648be512",
+          "id": "2701",
+          "name": "comment app- x-template",
+          "type": "url",
+          "url": "https://codepen.io/sdras/pen/xxZeRyg"
+        },
+        {
+          "date_added": "13253726891000000",
+          "guid": "f86e96c5-edc1-451b-a4a7-2e7895b668f8",
+          "id": "2702",
+          "name": "Intro to Vue 3: Deck 7",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue-3-7?token=YvT8ZUzV#/21"
+        },
+        {
+          "date_added": "13253726945000000",
+          "guid": "36b0b579-83b8-4fef-b5cb-f4ca63da4f9f",
+          "id": "2703",
+          "name": "sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions",
+          "type": "url",
+          "url": "https://github.com/sdras/ecommerce-netlify"
+        },
+        {
+          "date_added": "13253726991000000",
+          "guid": "f625823a-d917-419a-8db5-840ef0e43e86",
+          "id": "2704",
+          "name": "Intro to Vue 3: Deck 7",
+          "type": "url",
+          "url": "https://slides.com/sdrasner/intro-to-vue-3-7?token=YvT8ZUzV#/24"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119789116",
+      "date_modified": "0",
+      "guid": "b918d00c-2bbb-4abe-9486-9b7ac6f9223d",
+      "id": "2705",
+      "name": "✅ JavaScript: From Fundamentals to Functional JS, v2",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13238604492000000",
+          "guid": "32aa4347-33a8-4039-8038-1a3c1d28375a",
+          "id": "2706",
+          "name": "Fundamentals to Functional Day 1 v2",
+          "type": "url",
+          "url": "https://slides.com/bgando/f2f-final-day-1"
+        },
+        {
+          "date_added": "13238604498000000",
+          "guid": "7ac32757-1be0-4e9f-95d9-0febfdfc5512",
+          "id": "2707",
+          "name": "Fundamentals to Functional Day 2 v2",
+          "type": "url",
+          "url": "https://slides.com/bgando/f2f-final-day-2"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119789535",
+      "date_modified": "0",
+      "guid": "5fce8394-e40a-49c1-bb09-b61e425a063e",
+      "id": "2708",
+      "name": "✅ JavaScript: The Hard Parts, v2",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13235235590000000",
+          "guid": "c877ce16-4de0-40c1-b189-5fd6500be13a",
+          "id": "2709",
+          "name": "javascript-hard-parts-v2.pdf",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2019-09-18-javascript-hard-parts-v2/javascript-hard-parts-v2.pdf"
+        },
+        {
+          "date_added": "13235240362000000",
+          "guid": "d7fc7890-a16d-48d6-828f-6f1ff0e8778c",
+          "id": "2710",
+          "name": "✨ Learn the fundamentals of functional programming in JavaScript to write code at complex scale. – Will Sentance’s Hard Parts course series.",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/functional-js-fundamentals/"
+        },
+        {
+          "date_added": "13235404030000000",
+          "guid": "eab55199-b1b5-43e1-8116-983840bfeb65",
+          "id": "2711",
+          "name": "CS Bin",
+          "type": "url",
+          "url": "http://csbin.io/callbacks"
+        },
+        {
+          "date_added": "13235404034000000",
+          "guid": "ccf9938a-c255-4b70-b9fb-18119915977f",
+          "id": "2712",
+          "name": "cs-bin-solutions/callbacks.js at master · CodesmithLLC/cs-bin-solutions",
+          "type": "url",
+          "url": "https://github.com/CodesmithLLC/cs-bin-solutions/blob/master/callbacks.js"
+        },
+        {
+          "date_added": "13258987643000000",
+          "guid": "b7eded6a-fcb2-4815-bbf7-a72db0aa8e8d",
+          "id": "2713",
+          "name": "Learn from Will Sentance's courses on Frontend Masters",
+          "type": "url",
+          "url": "https://frontendmasters.com/teachers/will-sentance/"
+        },
+        {
+          "date_added": "13235423607000000",
+          "guid": "a87d2e4d-2f85-40b4-8e0f-98addc0a505d",
+          "id": "2714",
+          "name": "I never understood JavaScript closures - DailyJS - Medium",
+          "type": "url",
+          "url": "https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8"
+        },
+        {
+          "date_added": "13235423610000000",
+          "guid": "6f18637e-0f3f-4756-8d10-8b051431dfb1",
+          "id": "2715",
+          "name": "If Hemingway Wrote JavaScript | No Starch Press",
+          "type": "url",
+          "url": "https://nostarch.com/hemingway"
+        },
+        {
+          "date_added": "13235430449000000",
+          "guid": "f820de33-95e1-45ae-9635-d9da84c3a023",
+          "id": "2716",
+          "name": "CS Bin",
+          "type": "url",
+          "url": "http://csbin.io/closures"
+        },
+        {
+          "date_added": "13235430451000000",
+          "guid": "ff50ebdb-f3e3-49f3-b97f-272faefa24a8",
+          "id": "2717",
+          "name": "cs-bin-solutions/closures.js at master · CodesmithLLC/cs-bin-solutions",
+          "type": "url",
+          "url": "https://github.com/CodesmithLLC/cs-bin-solutions/blob/master/closures.js"
+        },
+        {
+          "date_added": "13235428087000000",
+          "guid": "e3fd3747-664b-4c33-b792-05b1afda8743",
+          "id": "2718",
+          "name": "Tasks, microtasks, queues and schedules - JakeArchibald.com",
+          "type": "url",
+          "url": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/"
+        },
+        {
+          "date_added": "13235430375000000",
+          "guid": "c23f2863-b46d-4f42-a299-b716518a1c80",
+          "id": "2719",
+          "name": "CS Bin",
+          "type": "url",
+          "url": "http://csbin.io/async"
+        },
+        {
+          "date_added": "13235430377000000",
+          "guid": "751e7115-ca07-495d-91d7-f9d437f4a936",
+          "id": "2720",
+          "name": "cs-bin-solutions/async.js at master · CodesmithLLC/cs-bin-solutions",
+          "type": "url",
+          "url": "https://github.com/CodesmithLLC/cs-bin-solutions/blob/master/async.js"
+        },
+        {
+          "date_added": "13235687127000000",
+          "guid": "1e06a422-99d7-4754-8e28-281f0ec27630",
+          "id": "2721",
+          "name": "Web APIs | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API"
+        },
+        {
+          "date_added": "13235687246000000",
+          "guid": "97c61c1d-6f3a-4e96-80d1-16c7b7b09bd3",
+          "id": "2722",
+          "name": "Learn the Hard Parts of Servers & Node.js with Will Sentance",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/servers-node-js/"
+        },
+        {
+          "date_added": "13235731733000000",
+          "guid": "974a790f-a330-4f6a-9ac6-08e77ac45a1a",
+          "id": "2723",
+          "name": "Object.getPrototypeOf() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf"
+        },
+        {
+          "date_added": "13235731762000000",
+          "guid": "37f32ca8-27d2-4d37-a3a8-780f142cf8fa",
+          "id": "2724",
+          "name": "Learn the Fundamentals of Object Oriented Programming in JavaScript",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/object-oriented-js/"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119791865",
+      "date_modified": "0",
+      "guid": "892b7893-cdad-4116-a5fa-786d579bea6b",
+      "id": "2725",
+      "name": "✅ VIM Fundamentals",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13267522157000000",
+          "guid": "98e218e4-e1e0-456c-a59d-15d5e8066ebd",
+          "id": "2726",
+          "name": "Vim Fundamentals",
+          "type": "url",
+          "url": "https://theprimeagen.github.io/vim-fundamentals/"
+        },
+        {
+          "date_added": "13267527507000000",
+          "guid": "1cd63203-a110-4ebe-afc1-e1c77635fc1a",
+          "id": "2727",
+          "name": "ThePrimeagen - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw"
+        },
+        {
+          "date_added": "13267527512000000",
+          "guid": "b4c01a7f-3503-4347-bc04-f159100e370e",
+          "id": "2728",
+          "name": "ThePrimeagen - Twitch",
+          "type": "url",
+          "url": "https://www.twitch.tv/theprimeagen?ab_channel=theprimeagen"
+        },
+        {
+          "date_added": "13250455268000000",
+          "guid": "0c83a4d6-eb58-46a2-bfb5-01ef763b9706",
+          "id": "2729",
+          "name": "Home | SpaceVim",
+          "type": "url",
+          "url": "https://spacevim.org/"
+        },
+        {
+          "date_added": "13267527790000000",
+          "guid": "1768c79d-02a4-461b-88c8-00f76024251d",
+          "id": "2730",
+          "name": "Onivim 2 - Modal Editing from the Future",
+          "type": "url",
+          "url": "https://onivim.io/"
+        },
+        {
+          "date_added": "13183746929000000",
+          "guid": "50364b4c-f786-4aef-a926-5e183724d6bd",
+          "id": "2731",
+          "name": "VIM Adventures",
+          "type": "url",
+          "url": "https://vim-adventures.com/"
+        },
+        {
+          "date_added": "13267548744000000",
+          "guid": "7afa0a0f-bce3-40e9-a7f0-bc09b61d1972",
+          "id": "2732",
+          "name": "What is a File Format? - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=VVdmmN0su6E"
+        },
+        {
+          "date_added": "13267549649000000",
+          "guid": "165af7ee-e56b-49bd-84e3-762473141881",
+          "id": "2733",
+          "name": "ThePrimeagen/vim-fundamentals: a gatsby starter project to help you create educational materials",
+          "type": "url",
+          "url": "https://github.com/ThePrimeagen/vim-fundamentals"
+        },
+        {
+          "date_added": "13267628308000000",
+          "guid": "a35d4cff-abe8-4a84-b58a-b333bdb6ca0e",
+          "id": "2734",
+          "name": "vim-fundamentals/exercise-0-hjkl-x.md at master · ThePrimeagen/vim-fundamentals",
+          "type": "url",
+          "url": "https://github.com/ThePrimeagen/vim-fundamentals/blob/master/lessons/exercise-0-hjkl-x.md"
+        },
+        {
+          "date_added": "13270029966000000",
+          "guid": "2cf2917c-cbff-4fa7-b345-f5f8ad9e4c9a",
+          "id": "2735",
+          "name": "nvim-telescope/telescope.nvim: Find, Filter, Preview, Pick. All lua, all the time.",
+          "type": "url",
+          "url": "https://github.com/nvim-telescope/telescope.nvim"
+        },
+        {
+          "date_added": "13274137110000000",
+          "guid": "5e2bf2e8-4a81-404f-a9ff-805dc91313cc",
+          "id": "2736",
+          "name": "junegunn/vim-plug: Minimalist Vim Plugin Manager",
+          "type": "url",
+          "url": "https://github.com/junegunn/vim-plug"
+        },
+        {
+          "date_added": "13274137364000000",
+          "guid": "133f46dc-6c02-4c5c-87a4-b8c84f8a9fda",
+          "id": "2737",
+          "name": "junegunn/fzf.vim: fzf vim",
+          "type": "url",
+          "url": "https://github.com/junegunn/fzf.vim"
+        },
+        {
+          "date_added": "13274391653000000",
+          "guid": "be46bd74-323a-437b-963a-cecdc284b0d8",
+          "id": "2738",
+          "name": "ayu-theme/ayu-vim: Modern theme for modern VIMs",
+          "type": "url",
+          "url": "https://github.com/ayu-theme/ayu-vim"
+        },
+        {
+          "date_added": "13274392212000000",
+          "guid": "6f83dffd-5490-4a1e-8f1a-811a90bddb80",
+          "id": "2739",
+          "name": "BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+          "type": "url",
+          "url": "https://github.com/BurntSushi/ripgrep"
+        },
+        {
+          "date_added": "13274397188000000",
+          "guid": "6b3e7cb0-f052-4b55-80c5-f6a5a7062b43",
+          "id": "2740",
+          "name": "Welcome to Regex Licensing! :: Regex Licensing",
+          "type": "url",
+          "url": "https://regexlicensing.org/"
+        },
+        {
+          "date_added": "13274481347000000",
+          "guid": "6a07b1fd-94cb-43b1-b5db-fc3aec4c2745",
+          "id": "2741",
+          "name": "tpope (Tim Pope)",
+          "type": "url",
+          "url": "https://github.com/tpope"
+        },
+        {
+          "date_added": "13274484448000000",
+          "guid": "ac5f2637-b140-441b-8749-2ac3bb8246b1",
+          "id": "2742",
+          "name": "Vimways ~ Writing a Vim Plugin",
+          "type": "url",
+          "url": "https://vimways.org/2019/writing-vim-plugin/"
+        },
+        {
+          "date_added": "13274485242000000",
+          "guid": "34567382-8f1e-49f5-ba85-a32b10f5b6a5",
+          "id": "2743",
+          "name": "tpope/vim-fugitive: fugitive.vim: A Git wrapper so awesome, it should be illegal",
+          "type": "url",
+          "url": "https://github.com/tpope/vim-fugitive"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119822609",
+      "date_modified": "13281279087753217",
+      "guid": "8a3f9443-1bbd-46b8-a044-4ee4f6d931e1",
+      "id": "2941",
+      "name": "✅ Visual Studio Code Can Do That?",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13219278477000000",
+          "guid": "9aeeaf3d-5f37-4b69-a0da-fd79271faa21",
+          "id": "2942",
+          "name": "burkeholland/workshop-vs-code-can-do-that: The VS Code Can Do That workshop for Frontend Masters",
+          "type": "url",
+          "url": "https://github.com/burkeholland/workshop-vs-code-can-do-that"
+        },
+        {
+          "date_added": "13219278351000000",
+          "guid": "24e6cd51-2b98-4968-b764-253a65d353d6",
+          "id": "2559",
+          "name": "Git",
+          "type": "url",
+          "url": "https://git-scm.com/"
+        },
+        {
+          "date_added": "13281277356105019",
+          "guid": "0313a7bc-0907-4826-9f79-8d8a6ac6e0ce",
+          "id": "3643",
+          "name": "Node.js",
+          "type": "url",
+          "url": "https://nodejs.org/en/"
+        },
+        {
+          "date_added": "13219278364000000",
+          "guid": "5244410e-1c48-4178-8e94-402b560da834",
+          "id": "2944",
+          "name": "About Docker Engine - Community | Docker Documentation",
+          "type": "url",
+          "url": "https://docs.docker.com/install/"
+        },
+        {
+          "date_added": "13219278369000000",
+          "guid": "9d2f70e3-5154-4faa-a716-9b35d8eff1a2",
+          "id": "2945",
+          "name": "VS Code Can Do That - Visual Studio Marketplace",
+          "type": "url",
+          "url": "https://marketplace.visualstudio.com/items?itemName=burkeholland.vs-code-can-do-that"
+        },
+        {
+          "date_added": "13219278371000000",
+          "guid": "f5343c80-2b8d-4051-930b-76447cca88cd",
+          "id": "2946",
+          "name": "#FiveThings About Create React App - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=9t2GWFegnkQ"
+        },
+        {
+          "date_added": "13281277527510621",
+          "guid": "824f147c-d52a-4965-8ce8-f367c78d636b",
+          "id": "3645",
+          "name": "VS Code Can Do That Workshop - VS Code Can Do That - Workshop",
+          "type": "url",
+          "url": "https://burkeholland.gitbook.io/vs-code-can-do-that/"
+        },
+        {
+          "date_added": "13281277662618593",
+          "guid": "c77d4a35-2ef9-4f2e-80da-6135121cc43d",
+          "id": "3646",
+          "name": "tonsky/FiraCode: Free monospaced font with programming ligatures",
+          "type": "url",
+          "url": "https://github.com/tonsky/FiraCode"
+        },
+        {
+          "date_added": "13219403347000000",
+          "guid": "76cce6e3-dbb6-47ee-8ecf-e411f936129d",
+          "id": "2947",
+          "name": "Bulma: Free, open source, and modern CSS framework based on Flexbox",
+          "type": "url",
+          "url": "https://bulma.io/"
+        },
+        {
+          "date_added": "13281278903511132",
+          "guid": "2b8fda4a-d6af-4278-a082-6bd9479070e6",
+          "id": "3647",
+          "name": "Node.js app hosting &amp; deployment | Microsoft Azure",
+          "type": "url",
+          "url": "https://azure.microsoft.com/en-gb/develop/nodejs/?WT.mc_id=frontendmasters-workshop-buhollan"
+        },
+        {
+          "date_added": "13281278908310381",
+          "guid": "958427b0-b8c1-44b4-84d1-ea358fee4e15",
+          "id": "3648",
+          "name": "Visual Studio Code Azure Extensions",
+          "type": "url",
+          "url": "https://code.visualstudio.com/docs/azure/extensions?WT.mc_id=frontendmasters-workshop-buhollan"
+        },
+        {
+          "date_added": "13219587863000000",
+          "guid": "be026a68-9e36-41f1-8746-9760e2024756",
+          "id": "2948",
+          "name": "Please, everyone, put your entire development environment in Github",
+          "type": "url",
+          "url": "https://www.freecodecamp.org/news/put-your-dev-env-in-github/"
+        },
+        {
+          "date_added": "13281279052637760",
+          "guid": "f57261c3-d0f5-40b4-a1f0-ffad34461d34",
+          "id": "3649",
+          "name": "burkeholland/i-love-lamp: Project for Git exercise",
+          "type": "url",
+          "url": "https://github.com/burkeholland/i-love-lamp"
+        },
+        {
+          "date_added": "13281279087753217",
+          "guid": "454a29d6-4a07-4562-b660-827615827d9a",
+          "id": "3650",
+          "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/git-in-depth/"
+        },
+        {
+          "date_added": "13219590154000000",
+          "guid": "ad39ff0f-25ca-4d84-98d7-1f3638ea9bc0",
+          "id": "2949",
+          "name": "GitLens — Git supercharged - Visual Studio Marketplace",
+          "type": "url",
+          "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119794397",
+      "date_modified": "0",
+      "guid": "0c89de77-0ecd-49df-8981-b6e39ebea619",
+      "id": "2744",
+      "name": "❌ Angular Core",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13219270124000000",
+          "guid": "0d698642-d4ae-44f2-afcc-b2a32cbc502f",
+          "id": "2745",
+          "name": "onehungrymind/angular-core-workshop: Code for the \"Angular Core\" Course on Frontend Masters",
+          "type": "url",
+          "url": "https://github.com/onehungrymind/angular-core-workshop"
+        },
+        {
+          "date_added": "13203170021000000",
+          "guid": "df6046a1-83d6-44c7-bb16-5640f2b82fdf",
+          "id": "2746",
+          "name": "Angular",
+          "type": "url",
+          "url": "https://angular.io/"
+        },
+        {
+          "date_added": "13203170039000000",
+          "guid": "e52a346e-794e-4d40-b4ba-fd4ef6a808de",
+          "id": "2747",
+          "name": "Angular CLI",
+          "type": "url",
+          "url": "https://cli.angular.io/"
+        },
+        {
+          "date_added": "13219270208000000",
+          "guid": "8a04f252-2417-41bd-8b22-de7b3d05705c",
+          "id": "2748",
+          "name": "Develop Like Google - Nrwl (Narwhal Technologies Inc)",
+          "type": "url",
+          "url": "https://nrwl.io/"
+        },
+        {
+          "date_added": "13203170175000000",
+          "guid": "384f0424-397c-4a9d-a95c-bb0c3ec81c34",
+          "id": "2749",
+          "name": "Angular Material",
+          "type": "url",
+          "url": "https://material.angular.io/"
+        },
+        {
+          "date_added": "13219270686000000",
+          "guid": "78bf2dfb-ef50-47cd-a5c2-584ddaface1b",
+          "id": "2750",
+          "name": "Home · onehungrymind/angular-core-workshop Wiki",
+          "type": "url",
+          "url": "https://github.com/onehungrymind/angular-core-workshop/wiki"
+        },
+        {
+          "date_added": "13219271918000000",
+          "guid": "a1d2041a-5ea1-4288-8aa5-20f9808de95b",
+          "id": "2751",
+          "name": "tc39/proposal-optional-chaining",
+          "type": "url",
+          "url": "https://github.com/tc39/proposal-optional-chaining"
+        },
+        {
+          "date_added": "13219273159000000",
+          "guid": "21be2c3e-342f-49ea-a7f0-728874c89b53",
+          "id": "2752",
+          "name": "ngTasty Leonardo Zizzamia - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=e6J_JZaIOAQ"
+        },
+        {
+          "date_added": "13219273162000000",
+          "guid": "b909b579-d84f-4ad3-bb7c-2634e1c2283b",
+          "id": "2753",
+          "name": "Angular - HttpClient",
+          "type": "url",
+          "url": "https://angular.io/guide/http"
+        },
+        {
+          "date_added": "13219273164000000",
+          "guid": "0f5d3ebb-c89a-404b-b186-26e6e80bbe9e",
+          "id": "2754",
+          "name": "typicode/json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+          "type": "url",
+          "url": "https://github.com/typicode/json-server"
+        },
+        {
+          "date_added": "13219273167000000",
+          "guid": "0a23830f-b85d-4978-b2a2-bf916da50215",
+          "id": "2755",
+          "name": "Angular - Observables",
+          "type": "url",
+          "url": "https://angular.io/guide/observables"
+        },
+        {
+          "date_added": "13219274386000000",
+          "guid": "0047eed6-bd03-4a07-8954-4e6f89a381dd",
+          "id": "2756",
+          "name": "Slider | Angular Material",
+          "type": "url",
+          "url": "https://material.angular.io/components/slider/api"
+        },
+        {
+          "date_added": "13219274396000000",
+          "guid": "643dd49d-854a-48e7-87cc-bb972c7d06b7",
+          "id": "2757",
+          "name": "Head First Design Patterns - O'Reilly Media",
+          "type": "url",
+          "url": "http://shop.oreilly.com/product/9780596007126.do"
+        },
+        {
+          "date_added": "13219274398000000",
+          "guid": "841a125c-aff4-4d85-aad0-b6fbdeb2ab12",
+          "id": "2758",
+          "name": "Angular Router: Preloading Modules - Angular",
+          "type": "url",
+          "url": "https://vsavkin.com/angular-router-preloading-modules-ba3c75e424cb"
+        },
+        {
+          "date_added": "13219274401000000",
+          "guid": "65856243-2bfa-4ade-8014-69b83cab9f01",
+          "id": "2759",
+          "name": "Learn Test-Driven Development – JavaScript Testing Practices and Principles",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/testing-practices-principles/test-driven-development/"
+        },
+        {
+          "date_added": "13219274517000000",
+          "guid": "20a67a9e-41c0-4a5c-be83-5f2cde107f24",
+          "id": "2760",
+          "name": "onehungrymind/angular-testing-quickstart: Testing Examples in Angular",
+          "type": "url",
+          "url": "https://github.com/onehungrymind/angular-testing-quickstart"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119796898",
+      "date_modified": "0",
+      "guid": "d8233f0d-f116-431e-b3bc-c06cb0f94cd7",
+      "id": "2761",
+      "name": "❌ Complete Intro to React, v5",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13219236176000000",
+          "guid": "9c6f99db-7c8f-4a6c-86a0-98f6fe80a613",
+          "id": "2762",
+          "name": "btholt/complete-intro-to-react-v5: The Complete Intro to React, the fifth version",
+          "type": "url",
+          "url": "https://github.com/btholt/complete-intro-to-react-v5"
+        },
+        {
+          "date_added": "13219236202000000",
+          "guid": "164380fd-5f8d-4563-b7cd-2cc0d49bb283",
+          "id": "2763",
+          "name": "Complete Intro to React v5",
+          "type": "url",
+          "url": "https://btholt.github.io/complete-intro-to-react-v5/"
+        },
+        {
+          "date_added": "13219239092000000",
+          "guid": "7bddcc99-cd74-42e1-ab3c-94a6e168a113",
+          "id": "2764",
+          "name": "Issues · btholt/complete-intro-to-react-v5",
+          "type": "url",
+          "url": "https://github.com/btholt/complete-intro-to-react-v5/issues"
+        },
+        {
+          "date_added": "13219239103000000",
+          "guid": "a6ea0cde-7633-437a-9bbf-a5c2d7d2ed9e",
+          "id": "2765",
+          "name": "btholt/complete-intro-to-react-v5 at gh-pages-src",
+          "type": "url",
+          "url": "https://github.com/btholt/complete-intro-to-react-v5/tree/gh-pages-src"
+        },
+        {
+          "date_added": "13219236363000000",
+          "guid": "9bc8223a-260d-4288-8595-aab503fbad74",
+          "id": "2766",
+          "name": "#VetsWhoCode",
+          "type": "url",
+          "url": "https://vetswhocode.io/"
+        },
+        {
+          "date_added": "13219236364000000",
+          "guid": "05306876-36a8-44ca-bd0d-53f3f292fe45",
+          "id": "2767",
+          "name": "Concatenate – Web Design & Development Evolved",
+          "type": "url",
+          "url": "https://concatenate.io/"
+        },
+        {
+          "date_added": "13219239232000000",
+          "guid": "ae1dfba0-352c-48d7-97e2-0fc1166036c8",
+          "id": "2768",
+          "name": "Content Unavailable • Instagram",
+          "type": "url",
+          "url": "https://www.instagram.com/briantholt/?hl=en"
+        },
+        {
+          "date_added": "13219239364000000",
+          "guid": "9919e36f-cce2-4aa4-92b0-3b6068b7167e",
+          "id": "2769",
+          "name": "Cheat Sheet",
+          "type": "url",
+          "url": "https://docs.emmet.io/cheat-sheet/"
+        },
+        {
+          "date_added": "13219239366000000",
+          "guid": "6735de45-87c4-4917-8089-9fece0f8e0f1",
+          "id": "2770",
+          "name": "https://raw.githubusercontent.com/btholt/complete-intro-to-react-v5/master/src/style.css",
+          "type": "url",
+          "url": "https://raw.githubusercontent.com/btholt/complete-intro-to-react-v5/master/src/style.css"
+        },
+        {
+          "date_added": "13219239379000000",
+          "guid": "a9c68cab-9385-4cfb-bc27-d5e32a77dca9",
+          "id": "2771",
+          "name": "Dank Mono",
+          "type": "url",
+          "url": "https://dank.sh/"
+        },
+        {
+          "date_added": "13219239554000000",
+          "guid": "13509f9a-e6b9-49b9-8bfe-e9ea3f98a831",
+          "id": "2772",
+          "name": "Learn Destructuring – JavaScript: The Recent Parts",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/js-recent-parts/destructuring/"
+        },
+        {
+          "date_added": "13219239701000000",
+          "guid": "59ce3117-0c03-43b8-b46b-7bd845e1103d",
+          "id": "2773",
+          "name": "Prettier · Opinionated Code Formatter",
+          "type": "url",
+          "url": "https://prettier.io/"
+        },
+        {
+          "date_added": "13219239704000000",
+          "guid": "7154218e-ff81-4506-9e22-428d16638ff0",
+          "id": "2774",
+          "name": "JSHint, a JavaScript Code Quality Tool",
+          "type": "url",
+          "url": "https://jshint.com/"
+        },
+        {
+          "date_added": "13219239707000000",
+          "guid": "acac4f40-3f5b-4b7d-b8cf-57e7a3a10c4d",
+          "id": "2775",
+          "name": "JSLint: The JavaScript Code Quality Tool",
+          "type": "url",
+          "url": "https://www.jslint.com/"
+        },
+        {
+          "date_added": "13219239789000000",
+          "guid": "223d34e3-5d03-491e-ab0a-3091d4364010",
+          "id": "2776",
+          "name": "Complete Intro to React feat. Redux, Router v4, Flow, Jest & more with Brian Holt",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/react/"
+        },
+        {
+          "date_added": "13219239868000000",
+          "guid": "6b5da642-f876-45dd-bdc7-834c6a65860f",
+          "id": "2777",
+          "name": "Browserify",
+          "type": "url",
+          "url": "http://browserify.org/"
+        },
+        {
+          "date_added": "13219239871000000",
+          "guid": "e66e008c-ba4f-4acc-be18-cb2903ab9f0a",
+          "id": "2778",
+          "name": "rollup.js",
+          "type": "url",
+          "url": "https://rollupjs.org/guide/en/"
+        },
+        {
+          "date_added": "13219240044000000",
+          "guid": "5ccc43ed-0b7d-4e65-a1f5-e24487f45238",
+          "id": "2779",
+          "name": "Learn to Build Scalable, Performant React Apps with TypeScript, Redux and more, with Brian Holt",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/intermediate-react-v2/"
+        },
+        {
+          "date_added": "13219240248000000",
+          "guid": "02977261-32b8-449d-ae6c-838d87aa38e7",
+          "id": "2780",
+          "name": "Celebrating Over 20 Years of Pet Adoption | Petfinder",
+          "type": "url",
+          "url": "https://www.petfinder.com/"
+        },
+        {
+          "date_added": "13219240476000000",
+          "guid": "9962eb83-aaa3-4a04-9044-a726d81367e7",
+          "id": "2781",
+          "name": "Learn d3.js v4 with Shirley Wu and become an expert in data visualization",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/d3-v4/"
+        },
+        {
+          "date_added": "13219240586000000",
+          "guid": "04111118-fc9b-4e9d-86f8-efa9c4004430",
+          "id": "2782",
+          "name": "React Developer Tools – Get this Extension for 🦊 Firefox (en-US)",
+          "type": "url",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/react-devtools/"
+        },
+        {
+          "date_added": "13219240588000000",
+          "guid": "212c1e34-b09e-41ee-8511-ceccfeaadc6c",
+          "id": "2783",
+          "name": "React Developer Tools - Chrome Web Store",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en"
+        },
+        {
+          "date_added": "13219240628000000",
+          "guid": "84063e65-99c8-4629-a2e5-2dc971912d6f",
+          "id": "2784",
+          "name": "Learn Async Functions – JavaScript: The Recent Parts",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/js-recent-parts/async-functions/"
+        },
+        {
+          "date_added": "13219240738000000",
+          "guid": "370868f5-c004-4167-8a3c-b3d6527a7637",
+          "id": "2785",
+          "name": "Navi",
+          "type": "url",
+          "url": "https://frontarm.com/navi/en/"
+        },
+        {
+          "date_added": "13219240787000000",
+          "guid": "7f6b2afe-a7bf-4391-9eb7-63499db8a73c",
+          "id": "2786",
+          "name": "Reach Router - Overview",
+          "type": "url",
+          "url": "https://reach.tech/router"
+        },
+        {
+          "date_added": "13219240944000000",
+          "guid": "4bb92984-f913-41d4-a12e-1ff3f1077467",
+          "id": "2787",
+          "name": "Learn to Fix and Debug Common JavaScript Errors with Todd Gardner",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/debugging-javascript/"
+        },
+        {
+          "date_added": "13219241107000000",
+          "guid": "c6176dbf-6591-4651-9902-64cbf101d954",
+          "id": "2788",
+          "name": "Error Boundaries – React",
+          "type": "url",
+          "url": "https://reactjs.org/docs/error-boundaries.html"
+        },
+        {
+          "date_added": "13219241112000000",
+          "guid": "19f402d7-4f3e-4f7a-9f6c-74b12f711364",
+          "id": "2789",
+          "name": "Azure Monitor | Microsoft Azure",
+          "type": "url",
+          "url": "https://azure.microsoft.com/en-us/services/monitor/"
+        },
+        {
+          "date_added": "13219241119000000",
+          "guid": "44bb16a5-c20e-4685-ac88-d06b650c8306",
+          "id": "2790",
+          "name": "JavaScript Error Tracking from TrackJS",
+          "type": "url",
+          "url": "https://trackjs.com/"
+        },
+        {
+          "date_added": "13219241132000000",
+          "guid": "9263f41c-1658-4d42-96c7-2a314135ee71",
+          "id": "2791",
+          "name": "Application Monitoring and Error Tracking Software | Sentry",
+          "type": "url",
+          "url": "https://sentry.io/welcome/"
+        },
+        {
+          "date_added": "13219241216000000",
+          "guid": "c3e0584d-4cca-4cd6-9ed6-1da846847a3a",
+          "id": "2792",
+          "name": "Redux · A Predictable State Container for JS Apps",
+          "type": "url",
+          "url": "https://redux.js.org/"
+        },
+        {
+          "date_added": "13219241226000000",
+          "guid": "83756b8a-326a-4201-8dd3-e248e6bdd61b",
+          "id": "2793",
+          "name": "Context – React",
+          "type": "url",
+          "url": "https://reactjs.org/docs/context.html"
+        },
+        {
+          "date_added": "13219241423000000",
+          "guid": "d137ae1f-c06f-42e1-85c1-62e3f09bd39b",
+          "id": "2794",
+          "name": "Preact | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+          "type": "url",
+          "url": "https://preactjs.com/"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119801690",
+      "date_modified": "0",
+      "guid": "de67f9ae-5357-4e5a-a281-c7c538bd92b2",
+      "id": "2795",
+      "name": "❌ Four Semesters of Computer Science in 5 Hours",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13234011184000000",
+          "guid": "34b709fa-4102-42ee-a3f9-0fc6f6fa3984",
+          "id": "2796",
+          "name": "btholt/four-semesters-of-cs",
+          "type": "url",
+          "url": "https://github.com/btholt/four-semesters-of-cs"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119802000",
+      "date_modified": "0",
+      "guid": "034cd8f3-394c-49d3-852b-84eb3df5e3cb",
+      "id": "2797",
+      "name": "❌ Intermediate React, v2",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13219270343000000",
+          "guid": "b14f9fde-2e7e-4e2b-ae36-db8144cd1cfc",
+          "id": "2798",
+          "name": "btholt/complete-intro-to-react-v5: The Complete Intro to React, the fifth version",
+          "type": "url",
+          "url": "https://github.com/btholt/complete-intro-to-react-v5"
+        },
+        {
+          "date_added": "13219270349000000",
+          "guid": "ec3e133e-092d-427b-8fc8-727d1b409aef",
+          "id": "2799",
+          "name": "Complete Intro to React v5",
+          "type": "url",
+          "url": "https://btholt.github.io/complete-intro-to-react-v5/"
+        },
+        {
+          "date_added": "13219236258000000",
+          "guid": "a11bc64b-3873-47be-b3c4-b56d3085f0ab",
+          "id": "2800",
+          "name": "Learn React Using Hooks to Build Real-World Applications with Brian Holt",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/complete-react-v5/"
+        },
+        {
+          "date_added": "13219236452000000",
+          "guid": "6c24dee4-2573-46a8-8c58-e179a7e95304",
+          "id": "2801",
+          "name": "‎Frontend Masters on the App Store",
+          "type": "url",
+          "url": "https://apps.apple.com/us/app/frontend-masters/id1383780486"
+        },
+        {
+          "date_added": "13219236454000000",
+          "guid": "711a38ea-b3d1-4837-8ff5-0bf24c57e8ed",
+          "id": "2802",
+          "name": "Frontend Masters - Javascript Courses - Apps on Google Play",
+          "type": "url",
+          "url": "https://play.google.com/store/apps/details?id=in.mjg.frontendmasters.store&hl=en_US"
+        },
+        {
+          "date_added": "13219236512000000",
+          "guid": "6506a797-dd86-4a8a-a811-60e37a4255fe",
+          "id": "2803",
+          "name": "hooks-examples - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/zr90v4jorp"
+        },
+        {
+          "date_added": "13219236662000000",
+          "guid": "cc7bf024-bb4a-4e57-9180-28bf57971d07",
+          "id": "2804",
+          "name": "Learn Origin of Closure – Deep JavaScript Foundations, v3",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/deep-javascript-v3/origin-of-closure/"
+        },
+        {
+          "date_added": "13219237383000000",
+          "guid": "9235c184-e922-462d-8140-98b437ac7c2d",
+          "id": "2805",
+          "name": "Emotion - Introduction",
+          "type": "url",
+          "url": "https://emotion.sh/docs/introduction"
+        },
+        {
+          "date_added": "13219237385000000",
+          "guid": "5e47ef1d-73da-4eba-8b45-039ad66fc663",
+          "id": "2806",
+          "name": "styled-components: Ecosystem",
+          "type": "url",
+          "url": "https://www.styled-components.com/ecosystem"
+        },
+        {
+          "date_added": "13219237454000000",
+          "guid": "93b49c2f-5393-445f-a14c-acf860045ac8",
+          "id": "2807",
+          "name": "Learn the Essentials of SVG – the Scalable Graphics Format – and Animation",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/svg-essentials-animation/"
+        },
+        {
+          "date_added": "13219237456000000",
+          "guid": "d2076402-cb2a-4b91-91fe-7ab4d416a5bc",
+          "id": "2808",
+          "name": "Learn Motion Design in CSS with Rachel Nabors, Animation Expert",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/motion-design-css/"
+        },
+        {
+          "date_added": "13219237500000000",
+          "guid": "91e496cf-1142-498b-a744-7f3cb6f2f841",
+          "id": "2809",
+          "name": "CSS-TAG Houdini Editor Drafts",
+          "type": "url",
+          "url": "https://drafts.css-houdini.org/"
+        },
+        {
+          "date_added": "13219237643000000",
+          "guid": "a0a45a0c-46ce-446d-8afe-66ce10cf6aa4",
+          "id": "2810",
+          "name": "Introduction to Node.js Course – Learn Server Side JavaScript",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/node-js/"
+        },
+        {
+          "date_added": "13219237764000000",
+          "guid": "afe9d6e4-038c-43f1-a71a-4797a182a487",
+          "id": "2811",
+          "name": "EJS -- Embedded JavaScript templates",
+          "type": "url",
+          "url": "https://ejs.co/"
+        },
+        {
+          "date_added": "13219237770000000",
+          "guid": "0b2576ec-0a92-4bc9-a601-047840ae430b",
+          "id": "2812",
+          "name": "Handlebars",
+          "type": "url",
+          "url": "https://handlebarsjs.com/"
+        },
+        {
+          "date_added": "13219237953000000",
+          "guid": "bd3a5a1e-c8c3-4ef6-b579-3b36e431e910",
+          "id": "2813",
+          "name": "Learn the Fundamentals of TypeScript 3 to Add Type Checking to Your JavaScript",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/typescript-v2/"
+        },
+        {
+          "date_added": "13219238151000000",
+          "guid": "eb73eec7-a0fa-4d14-839c-4f0446425dbf",
+          "id": "2814",
+          "name": "Advanced Types · TypeScript",
+          "type": "url",
+          "url": "https://www.typescriptlang.org/docs/handbook/advanced-types.html"
+        },
+        {
+          "date_added": "13219238204000000",
+          "guid": "c392d9f9-4fb6-4c7c-beeb-8ace66e089d0",
+          "id": "2815",
+          "name": "Brian Holt on Twitter: \"In general, my stream-of-consciousness when converting a JavaScript project to TypeScript. 00%: 🤩 10%: 😅 20%: 😕 30%: 😠 40%: 😡 50%: 🤬 60% - 100%: 😍\"",
+          "type": "url",
+          "url": "https://twitter.com/holtbt/status/1033471112988901376"
+        },
+        {
+          "date_added": "13219238355000000",
+          "guid": "0c357172-9643-45bc-90dc-535154f64129",
+          "id": "2816",
+          "name": "Learn to managing state in React applications with Redux, MobX, Redux Sagas & more!",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/react-state/"
+        },
+        {
+          "date_added": "13219238479000000",
+          "guid": "7f526ca9-12b2-4983-ab5d-4277bd2a817e",
+          "id": "2817",
+          "name": "Learn React Context – Complete Intro to React, v5",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/complete-react-v5/react-context/"
+        },
+        {
+          "date_added": "13219238556000000",
+          "guid": "a33c6136-d6ac-481e-bf69-7b990ea3dc70",
+          "id": "2818",
+          "name": "redux-utilities/flux-standard-action: A human-friendly standard for Flux action objects.",
+          "type": "url",
+          "url": "https://github.com/redux-utilities/flux-standard-action"
+        },
+        {
+          "date_added": "13219238631000000",
+          "guid": "c291dcd0-512e-468b-bf59-ffc9208cf5c6",
+          "id": "2819",
+          "name": "Redux DevTools - Chrome Web Store",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en"
+        },
+        {
+          "date_added": "13219238633000000",
+          "guid": "3b1fe1d8-4ea7-4a20-bf0d-d79ecec491ae",
+          "id": "2820",
+          "name": "Redux DevTools – Get this Extension for 🦊 Firefox (en-US)",
+          "type": "url",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/"
+        },
+        {
+          "date_added": "13219238700000000",
+          "guid": "a89bdd34-3cc7-4b07-80cf-993704919c02",
+          "id": "2821",
+          "name": "Learn Redux Thunks & Dispatch – Intermediate React",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/intermediate-react/redux-thunks-dispatch/"
+        },
+        {
+          "date_added": "13219238714000000",
+          "guid": "f4c06d1a-e5e6-40c9-a757-ed77d78b4db4",
+          "id": "2822",
+          "name": "Learn to Test React Applications with Jest, react-testing-library and Cypress",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/testing-react/"
+        },
+        {
+          "date_added": "13219238730000000",
+          "guid": "68a2eb8c-6aba-453e-812c-f73f480b7726",
+          "id": "2823",
+          "name": "Learn Configuring Mocha – Complete Introduction to React (feat. Redux and React Router)",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/react-intro/configuring-mocha/"
+        },
+        {
+          "date_added": "13219238841000000",
+          "guid": "1a953a69-8293-4eb2-9da4-f090b2f16bea",
+          "id": "2824",
+          "name": "Istanbul, a JavaScript test coverage tool.",
+          "type": "url",
+          "url": "https://istanbul.js.org/"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119806271",
+      "date_modified": "0",
+      "guid": "3af96f3d-ad42-4dfa-945d-3f8f2939bd57",
+      "id": "2825",
+      "name": "❌ Introduction to Node.js",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13220224277000000",
+          "guid": "c9508413-3e9d-4654-91e2-df5d5da83bbf",
+          "id": "2826",
+          "name": "FrontendMasters/intro-node-js: [Course] Code for Introduction to Node.js",
+          "type": "url",
+          "url": "https://github.com/frontendmasters/intro-node-js"
+        },
+        {
+          "date_added": "13220224431000000",
+          "guid": "8879d169-02b6-4fe5-b4a8-e90e9252a038",
+          "id": "2827",
+          "name": "Intro to Nodejs",
+          "type": "url",
+          "url": "https://slides.com/scotups/deck/fullscreen#/"
+        },
+        {
+          "date_added": "13220224637000000",
+          "guid": "3b5367dc-77bb-4328-b5c7-e08cb1d4270f",
+          "id": "2828",
+          "name": "V8 JavaScript engine",
+          "type": "url",
+          "url": "https://v8.dev/"
+        },
+        {
+          "date_added": "13220224685000000",
+          "guid": "a088b2f5-260f-47d6-a83a-5dc4658c337b",
+          "id": "2829",
+          "name": "SpiderMonkey: The Mozilla JavaScript runtime - Mozilla | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey"
+        },
+        {
+          "date_added": "13220224688000000",
+          "guid": "0a6a4b13-4fa4-4d64-a37b-ae54c19dd944",
+          "id": "2830",
+          "name": "WebKit",
+          "type": "url",
+          "url": "https://webkit.org/"
+        },
+        {
+          "date_added": "13220224734000000",
+          "guid": "d837ff71-bf5a-403a-a699-c60eee7d6794",
+          "id": "2831",
+          "name": "ry (Ry Dahl)",
+          "type": "url",
+          "url": "https://github.com/ry"
+        },
+        {
+          "date_added": "13220225204000000",
+          "guid": "8360e84d-f3c7-428b-adab-5455bfcdac79",
+          "id": "2832",
+          "name": "gulp.js - The streaming build system",
+          "type": "url",
+          "url": "https://gulpjs.com/"
+        },
+        {
+          "date_added": "13220225405000000",
+          "guid": "647895ca-1455-4ea1-be54-c853137bdd71",
+          "id": "2833",
+          "name": "Build cross-platform, desktop applications in JavaScript with Electron",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/electron/"
+        },
+        {
+          "date_added": "13220225446000000",
+          "guid": "4e8713e1-accc-4ca2-bd34-f81d1dc35acf",
+          "id": "2834",
+          "name": "Build JavaScript Robotics & Internet of Things (IoT) Projects with Node.js",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/nodebots/"
+        },
+        {
+          "date_added": "13220225943000000",
+          "guid": "8d9c2f8f-7ebb-4333-979d-4391e3e5ebb5",
+          "id": "2835",
+          "name": "Enterprise Container Platform | Docker",
+          "type": "url",
+          "url": "https://www.docker.com/"
+        },
+        {
+          "date_added": "13220226260000000",
+          "guid": "029ef85e-7b4a-4b46-8b9e-828c8b3c84cd",
+          "id": "2836",
+          "name": "Download | Node.js",
+          "type": "url",
+          "url": "https://nodejs.org/en/download/"
+        },
+        {
+          "date_added": "13220226414000000",
+          "guid": "72883e2b-82f8-4e2b-be32-b3825e0db8af",
+          "id": "2837",
+          "name": "nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "type": "url",
+          "url": "https://github.com/nvm-sh/nvm#installation"
+        },
+        {
+          "date_added": "13220226652000000",
+          "guid": "669585f0-764d-4d40-bfd2-f179c2dadffc",
+          "id": "2838",
+          "name": "Issues · FrontendMasters/intro-node-js",
+          "type": "url",
+          "url": "https://github.com/FrontendMasters/intro-node-js/issues"
+        },
+        {
+          "date_added": "13220227535000000",
+          "guid": "b481a839-d6b2-4bc8-8349-6c8d21a1d712",
+          "id": "2839",
+          "name": "Can I use... Support tables for HTML5, CSS3, etc",
+          "type": "url",
+          "url": "https://caniuse.com/"
+        },
+        {
+          "date_added": "13220227748000000",
+          "guid": "0df3b5b2-1bc7-44f6-8f5c-1fb1dcefa277",
+          "id": "2840",
+          "name": "CommonJS Notes",
+          "type": "url",
+          "url": "https://requirejs.org/docs/commonjs.html"
+        },
+        {
+          "date_added": "13220566542000000",
+          "guid": "fc1c23b5-0675-4007-8a8a-57b4a047edbd",
+          "id": "2841",
+          "name": "Jest · 🃏 Delightful JavaScript Testing",
+          "type": "url",
+          "url": "https://jestjs.io/"
+        },
+        {
+          "date_added": "13220568266000000",
+          "guid": "a39271f5-2c17-49c6-aa45-015ae3ed8a2c",
+          "id": "2842",
+          "name": "UTF-8 - MDN Web Docs Glossary: Definitions of Web-related terms | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Glossary/UTF-8"
+        },
+        {
+          "date_added": "13220569846000000",
+          "guid": "e32f5786-bc48-4124-a043-381e1d879f68",
+          "id": "2843",
+          "name": "Lodash",
+          "type": "url",
+          "url": "https://lodash.com/"
+        },
+        {
+          "date_added": "13220569904000000",
+          "guid": "3ed47b13-72a1-4884-a6f5-fe92dadbd291",
+          "id": "2844",
+          "name": "How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript • The Register",
+          "type": "url",
+          "url": "https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/"
+        },
+        {
+          "date_added": "13220570135000000",
+          "guid": "b25872a9-3864-4ee4-a62a-059bb4664c6a",
+          "id": "2845",
+          "name": "Yarn",
+          "type": "url",
+          "url": "https://yarnpkg.com/en/"
+        },
+        {
+          "date_added": "13220964820000000",
+          "guid": "21935b2e-c09c-41b7-918d-f28955f38782",
+          "id": "2846",
+          "name": "Simple explanation of Semi-Supervised Learning and Pseudo Labeling",
+          "type": "url",
+          "url": "https://towardsdatascience.com/simple-explanation-of-semi-supervised-learning-and-pseudo-labeling-c2218e8c769b"
+        },
+        {
+          "date_added": "13221175415000000",
+          "guid": "2081caf2-d964-490a-8ee6-d4e159743d53",
+          "id": "2847",
+          "name": "JSON.stringify() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify"
+        },
+        {
+          "date_added": "13221175421000000",
+          "guid": "425c06e3-00a7-451a-8a00-1c209cab5699",
+          "id": "2848",
+          "name": "inquirer - npm",
+          "type": "url",
+          "url": "https://www.npmjs.com/package/inquirer"
+        },
+        {
+          "date_added": "13221176430000000",
+          "guid": "8fb0f7d5-2194-48d5-b271-724edf16a66a",
+          "id": "2849",
+          "name": "Promise.all() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all"
+        },
+        {
+          "date_added": "13221176459000000",
+          "guid": "ec11fa9c-6d87-444d-92a1-bea1d423a054",
+          "id": "2850",
+          "name": "Getting Started | bluebird",
+          "type": "url",
+          "url": "http://bluebirdjs.com/docs/getting-started.html"
+        },
+        {
+          "date_added": "13224806843000000",
+          "guid": "dff91dbf-9430-4c38-9634-65e9d934f010",
+          "id": "2851",
+          "name": "mime - npm",
+          "type": "url",
+          "url": "https://www.npmjs.com/package/mime"
+        },
+        {
+          "date_added": "13221433522000000",
+          "guid": "404569d1-3ec0-4b87-9209-bc7bd7c4930b",
+          "id": "2852",
+          "name": "NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy",
+          "type": "url",
+          "url": "https://www.nginx.com/"
+        },
+        {
+          "date_added": "13221433576000000",
+          "guid": "89220755-7771-40ef-8db6-58af2abc490f",
+          "id": "2853",
+          "name": "Util | Node.js v8.17.0 Documentation",
+          "type": "url",
+          "url": "https://nodejs.org/dist/latest-v8.x/docs/api/util.html#util_util_promisify_original"
+        },
+        {
+          "date_added": "13224807674000000",
+          "guid": "7a0b0e22-ffb8-44dd-81fa-5d278b545c66",
+          "id": "2854",
+          "name": "WebStorm: The Smartest JavaScript IDE by JetBrains",
+          "type": "url",
+          "url": "https://www.jetbrains.com/webstorm/"
+        },
+        {
+          "date_added": "13224807851000000",
+          "guid": "0bfa5118-64b5-4afb-8f3e-932b81f38e54",
+          "id": "2855",
+          "name": "Karma - Spectacular Test Runner for Javascript",
+          "type": "url",
+          "url": "https://karma-runner.github.io/latest/index.html"
+        },
+        {
+          "date_added": "13224808522000000",
+          "guid": "ba72a3db-b904-4f38-a819-2e3958b2ce9e",
+          "id": "2856",
+          "name": "ariya/phantomjs: Scriptable Headless Browser",
+          "type": "url",
+          "url": "https://github.com/ariya/phantomjs"
+        },
+        {
+          "date_added": "13224808586000000",
+          "guid": "4aa65256-c7d8-4324-ac0e-f61617904472",
+          "id": "2857",
+          "name": "Automated testing with Headless Chrome  |  Web  |  Google Developers",
+          "type": "url",
+          "url": "https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai"
+        },
+        {
+          "date_added": "13231169449000000",
+          "guid": "c1061495-0bcc-4671-916c-c4287ba51d2e",
+          "id": "2858",
+          "name": "Express - Node.js web application framework",
+          "type": "url",
+          "url": "https://expressjs.com/"
+        },
+        {
+          "date_added": "13233783455000000",
+          "guid": "26deca2a-b12d-4547-80ce-ae98521bbd1c",
+          "id": "2859",
+          "name": "HTTPie – command line HTTP client",
+          "type": "url",
+          "url": "https://httpie.org/"
+        },
+        {
+          "date_added": "13233785144000000",
+          "guid": "fef4793e-d38c-457b-9cd1-c24fa530dbd6",
+          "id": "2860",
+          "name": "Process | Node.js v14.2.0 Documentation",
+          "type": "url",
+          "url": "https://nodejs.org/api/process.html#process_process_env"
+        },
+        {
+          "date_added": "13233785145000000",
+          "guid": "aba8bb67-4143-4358-b120-ef9e05cc045c",
+          "id": "2861",
+          "name": "Cloud Application Platform | Heroku",
+          "type": "url",
+          "url": "https://www.heroku.com/home"
+        },
+        {
+          "date_added": "13233786274000000",
+          "guid": "a1d878f9-d4b0-47e0-9df3-2412780e1e65",
+          "id": "2862",
+          "name": "Getting Started on Heroku with Node.js | Heroku Dev Center",
+          "type": "url",
+          "url": "https://devcenter.heroku.com/articles/getting-started-with-nodejs"
+        },
+        {
+          "date_added": "13233786333000000",
+          "guid": "52fbddea-9eff-4dc6-847a-c51862f90929",
+          "id": "2863",
+          "name": "Learn Full Stack to Setup and Deploy Modern, Secure Web Applications with Nginx and Node.js",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/full-stack-v2/"
+        },
+        {
+          "date_added": "13233831198000000",
+          "guid": "029f10c4-2514-4388-a31a-7c093bf78b20",
+          "id": "2864",
+          "name": "Express routing",
+          "type": "url",
+          "url": "https://expressjs.com/en/guide/routing.html"
+        },
+        {
+          "date_added": "13219239787000000",
+          "guid": "340d02e8-d252-4ec4-839a-b7e898298bdb",
+          "id": "2865",
+          "name": "Learn Webpack 4 with Sean Larkin, Core Maintainer of Webpack",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/webpack-fundamentals/"
+        },
+        {
+          "date_added": "13233831361000000",
+          "guid": "72709ab1-1f04-47d8-af1a-42cda5711df3",
+          "id": "2866",
+          "name": "tj/commander.js: node.js command-line interfaces made easy",
+          "type": "url",
+          "url": "https://github.com/tj/commander.js/"
+        },
+        {
+          "date_added": "13233831364000000",
+          "guid": "a221b839-4a8b-4799-9053-2f19c321975f",
+          "id": "2867",
+          "name": "Babel · The compiler for next generation JavaScript",
+          "type": "url",
+          "url": "https://babeljs.io/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&spec=false&loose=false&code_lz=Q&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Creact%2Cstage-2%2Cenv&prettier=false&targets=&version=7.9.6&externalPlugins="
+        },
+        {
+          "date_added": "13233831892000000",
+          "guid": "32bbe90e-d63f-4ef9-94eb-63f3a533becf",
+          "id": "2868",
+          "name": "Tipe",
+          "type": "url",
+          "url": "https://tipe.io/"
+        },
+        {
+          "date_added": "13233831895000000",
+          "guid": "db097f02-a1d2-48ee-9ed3-524531b56154",
+          "id": "2869",
+          "name": "GatsbyJS",
+          "type": "url",
+          "url": "https://www.gatsbyjs.org/"
+        },
+        {
+          "date_added": "13233831899000000",
+          "guid": "3b515217-940d-446a-ae79-f28fb13c1cf9",
+          "id": "2870",
+          "name": "Learn Introducing Vue CLI – Introduction to Vue.js",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/vue/introducing-vue-cli/"
+        },
+        {
+          "date_added": "13233831903000000",
+          "guid": "cc407fdf-ae66-4bde-b22c-9a1bb2c746ee",
+          "id": "2871",
+          "name": "Nuxt.js - The Vue.js Framework",
+          "type": "url",
+          "url": "https://nuxtjs.org/"
+        },
+        {
+          "date_added": "13233831909000000",
+          "guid": "2dd8e330-682e-47b7-b441-767f44ac5669",
+          "id": "2872",
+          "name": "Next.js by Vercel - The React Framework",
+          "type": "url",
+          "url": "https://nextjs.org/"
+        },
+        {
+          "date_added": "13233831914000000",
+          "guid": "a01cea7d-de36-4b68-b364-c5d693074f4a",
+          "id": "2873",
+          "name": "Scott Moss (@scotups) / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/scotups"
+        },
+        {
+          "date_added": "13233831918000000",
+          "guid": "345c6656-afcf-46ec-aec4-1d50c1a95a81",
+          "id": "2874",
+          "name": "Learn how to build REST and GraphQL APIs with Node.js with Express & MongoDB",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/api-node-rest-graphql/"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119813338",
+      "date_modified": "0",
+      "guid": "3d1e006b-010a-4516-85df-258002f4522e",
+      "id": "2875",
+      "name": "❌ JavaScript: The Recent Parts",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13235225355000000",
+          "guid": "29df3153-2380-4528-a442-6cf9b22a2133",
+          "id": "2876",
+          "name": "Kyle Simpson Presents: Code is for Humans",
+          "type": "url",
+          "url": "https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/"
+        },
+        {
+          "date_added": "13240595928000000",
+          "guid": "96982ad3-cc48-4a68-ac05-30e8170663c9",
+          "id": "2877",
+          "name": "jsrecent",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2019-03-09-js-recent-parts/js-recent-parts.pdf"
+        },
+        {
+          "date_added": "13219239892000000",
+          "guid": "92ac1f64-84c4-4d22-b3a5-c904e5ef2868",
+          "id": "2878",
+          "name": "Babel · The compiler for next generation JavaScript",
+          "type": "url",
+          "url": "https://babeljs.io/"
+        },
+        {
+          "date_added": "13235229489000000",
+          "guid": "0423596c-16d2-4734-901a-5bf9459533eb",
+          "id": "2879",
+          "name": "Template literals (Template strings) - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
+        },
+        {
+          "date_added": "13241636221000000",
+          "guid": "9a2147e2-0d80-4bd3-a923-c00e562383e4",
+          "id": "2880",
+          "name": "Destructuring assignment - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment"
+        },
+        {
+          "date_added": "13229944120000000",
+          "guid": "1684842c-a3c3-4cc0-a5a5-14c193ccadaa",
+          "id": "2881",
+          "name": "Sublime Text - A sophisticated text editor for code, markup and prose",
+          "type": "url",
+          "url": "https://www.sublimetext.com/"
+        },
+        {
+          "date_added": "13241636597000000",
+          "guid": "887dad13-d6d2-420c-81a2-fa206c114df7",
+          "id": "2882",
+          "name": "JSFiddle - Code Playground",
+          "type": "url",
+          "url": "https://jsfiddle.net/"
+        },
+        {
+          "date_added": "13238150137000000",
+          "guid": "7c198efc-9e55-497d-981e-ca6209fa1bef",
+          "id": "2883",
+          "name": "ESLint - Pluggable JavaScript linter",
+          "type": "url",
+          "url": "https://eslint.org/"
+        },
+        {
+          "date_added": "13247066156000000",
+          "guid": "d343fcfd-4104-4318-8363-6cc3c1df6664",
+          "id": "2884",
+          "name": "Underscore.js",
+          "type": "url",
+          "url": "https://underscorejs.org/"
+        },
+        {
+          "date_added": "13239719701000000",
+          "guid": "fbae7d8e-0a0a-4349-a44d-e4e80ce20fa6",
+          "id": "2885",
+          "name": "Array.prototype.find() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find"
+        },
+        {
+          "date_added": "13247067125000000",
+          "guid": "4fbdab37-70c4-435e-8b1a-6eee24d3921b",
+          "id": "2886",
+          "name": "Array.prototype.findIndex() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"
+        },
+        {
+          "date_added": "13235229331000000",
+          "guid": "7d5fa267-6079-47af-b12f-3461c3123143",
+          "id": "2887",
+          "name": "Array.prototype.includes() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"
+        },
+        {
+          "date_added": "13247067345000000",
+          "guid": "a6ef8472-1563-4e2b-904a-d1c34e009b61",
+          "id": "2888",
+          "name": "Array.prototype.flat() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat"
+        },
+        {
+          "date_added": "13247067348000000",
+          "guid": "bf5d59e5-257d-4149-85f7-7befacc011bc",
+          "id": "2889",
+          "name": "Array.prototype.flatMap() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap"
+        },
+        {
+          "date_added": "13247067353000000",
+          "guid": "e9ee4efc-a9dc-4f90-8699-9d3932c315cf",
+          "id": "2890",
+          "name": "smooshgate - Twitter Search / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/search?q=smooshgate&src=typd"
+        },
+        {
+          "date_added": "13213443880000000",
+          "guid": "c9c73d29-9ce2-4b43-a20b-9f2cfedc76a2",
+          "id": "2891",
+          "name": "Learn Functional Programming in JavaScript (v2) with Kyle Simpson",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/functional-javascript-v2/"
+        },
+        {
+          "date_added": "13247153084000000",
+          "guid": "805ad6b6-5c2d-460b-9561-860d15a9d893",
+          "id": "2892",
+          "name": "Iterators and generators - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators"
+        },
+        {
+          "date_added": "13247249774000000",
+          "guid": "53195bcc-ca6b-44de-9e73-42f371b9cf64",
+          "id": "2893",
+          "name": "RegExp - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
+        },
+        {
+          "date_added": "13247250696000000",
+          "guid": "74dd9427-50f2-4f56-b463-e6b0f6ee2a87",
+          "id": "2894",
+          "name": "RegExp.prototype.dotAll - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/dotAll"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119816037",
+      "date_modified": "0",
+      "guid": "2f9f90d4-df61-47ea-a55f-4b366f31ab38",
+      "id": "2895",
+      "name": "❌ Python Fundamentals",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13221434037000000",
+          "guid": "0354cf1c-87f2-4405-9db8-d288c77d4f42",
+          "id": "2896",
+          "name": "Learn Python :: Learn Python by Nina Zakharenko",
+          "type": "url",
+          "url": "https://www.learnpython.dev/"
+        },
+        {
+          "date_added": "13221434048000000",
+          "guid": "34004d04-bd8b-4826-a1d6-354450a9b638",
+          "id": "2897",
+          "name": "nnja/python: Front End Masters Python - Course Website at https://learnpython.dev",
+          "type": "url",
+          "url": "https://github.com/nnja/python"
+        },
+        {
+          "date_added": "13221434159000000",
+          "guid": "7ab8d9aa-6148-4710-be7c-890080504bc7",
+          "id": "2898",
+          "name": "Nina Zakharenko 💜🐍 (@nnja) | Twitter",
+          "type": "url",
+          "url": "https://twitter.com/nnja"
+        },
+        {
+          "date_added": "13221434163000000",
+          "guid": "76472e3b-df84-4357-84d4-4d613852059b",
+          "id": "2899",
+          "name": "LinkedIn",
+          "type": "url",
+          "url": "https://www.linkedin.com/nnja"
+        },
+        {
+          "date_added": "13221434168000000",
+          "guid": "640a0ebb-a9f3-4a97-8ba1-1fc41cd74487",
+          "id": "2900",
+          "name": "nnja (Nina Zakharenko)",
+          "type": "url",
+          "url": "https://github.com/nnja/"
+        },
+        {
+          "date_added": "13221434330000000",
+          "guid": "90bfb16d-f0b1-4a82-8dad-d259c901919e",
+          "id": "2901",
+          "name": "Python - Visual Studio Marketplace",
+          "type": "url",
+          "url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
+        },
+        {
+          "date_added": "13224287312000000",
+          "guid": "217e0738-639b-4ddb-ab26-c32369611989",
+          "id": "2902",
+          "name": "python/cpython: The Python programming language",
+          "type": "url",
+          "url": "https://github.com/python/cpython"
+        },
+        {
+          "date_added": "13224287388000000",
+          "guid": "8227268f-6a33-4de1-bcc3-00264197dc8a",
+          "id": "2903",
+          "name": "PEP 8: The Style Guide for Python Code",
+          "type": "url",
+          "url": "https://pep8.org/"
+        },
+        {
+          "date_added": "13224289826000000",
+          "guid": "f6b38394-10d6-4a23-b5cf-cde03454eb0a",
+          "id": "2904",
+          "name": "The Naming of Ducks: Where Dynamic Types Meet Smart Conventions - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=YklKUuDpX5c"
+        },
+        {
+          "date_added": "13224462017000000",
+          "guid": "baccc2c7-b06b-41d1-ae44-f0cff2e2e942",
+          "id": "2905",
+          "name": "Curses Programming with Python — Python 3.8.1 documentation",
+          "type": "url",
+          "url": "https://docs.python.org/3/howto/curses.html"
+        },
+        {
+          "date_added": "13224679444000000",
+          "guid": "60e549c8-04d6-4f96-9958-bc7efe4350ff",
+          "id": "2906",
+          "name": "Chapter 1: Introduction - An Introduction to APIs | Zapier",
+          "type": "url",
+          "url": "https://zapier.com/learn/apis/chapter-1-introduction-to-apis/"
+        },
+        {
+          "date_added": "13224679533000000",
+          "guid": "e5943776-d364-4767-bd04-0b32b53ce25b",
+          "id": "2907",
+          "name": "Learn to Build APIs in Node.js – Model data and REST APIs with Express and MongoDB",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/api-design-nodejs-v3/"
+        },
+        {
+          "date_added": "13224679566000000",
+          "guid": "329988d5-b898-4b98-870f-58088fae0578",
+          "id": "2908",
+          "name": "Hyper Text Coffee Pot Control Protocol - Wikipedia",
+          "type": "url",
+          "url": "https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol"
+        },
+        {
+          "date_added": "13224679609000000",
+          "guid": "b4f10ce5-b4bf-418d-928a-21ee2a6be9c4",
+          "id": "2909",
+          "name": "Requests: HTTP for Humans™ — Requests 2.22.0 documentation",
+          "type": "url",
+          "url": "https://2.python-requests.org//en/master/"
+        },
+        {
+          "date_added": "13224681865000000",
+          "guid": "ffd5a576-d988-4865-8533-0540c90baf2f",
+          "id": "2910",
+          "name": "Search | GitHub Developer Guide",
+          "type": "url",
+          "url": "https://developer.github.com/v3/search/"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119817980",
+      "date_modified": "0",
+      "guid": "e7dade58-e4ca-48b8-aa58-bf61b98ab948",
+      "id": "2911",
+      "name": "❌ State Management in Pure React, v2",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13233832326000000",
+          "guid": "a432f6cc-4b82-49e5-906f-29df83420826",
+          "id": "2912",
+          "name": "React State - Speaker Deck",
+          "type": "url",
+          "url": "https://speakerdeck.com/stevekinney/react-state"
+        },
+        {
+          "date_added": "13233832331000000",
+          "guid": "4e1654cf-b9e7-4d98-af76-0dfb315b861e",
+          "id": "2913",
+          "name": "FrontendMasters/pure-react-state-management: Pure React State Management course documentation",
+          "type": "url",
+          "url": "https://github.com/FrontendMasters/pure-react-state-management"
+        },
+        {
+          "date_added": "13233832864000000",
+          "guid": "202815ed-45be-4151-a508-e65b2a2ad513",
+          "id": "2914",
+          "name": "Steve Kinney (@stevekinney) / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/stevekinney?lang=en"
+        },
+        {
+          "date_added": "13233833580000000",
+          "guid": "24e7737b-9434-4e6d-a972-3b4619b2dacc",
+          "id": "2915",
+          "name": "Learn Redux and MobX for Managing State in Large React Applications",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/redux-mobx/"
+        },
+        {
+          "date_added": "13233833488000000",
+          "guid": "0e6fa837-bffe-489d-9abd-759573289970",
+          "id": "2916",
+          "name": "stevekinney/simple-counter-react-state",
+          "type": "url",
+          "url": "https://github.com/stevekinney/simple-counter-react-state"
+        },
+        {
+          "date_added": "13233933678000000",
+          "guid": "b8df9f2e-f743-41f8-b924-2c77bd886c1b",
+          "id": "2917",
+          "name": "simple-counter (boilerplate) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-boilerplate-kdvtq?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233839251000000",
+          "guid": "c4467d04-d9b0-4d4a-86dc-1870eb8224e3",
+          "id": "2918",
+          "name": "simple-counter (adds increment, decrement, & reset) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-adds-increment-decrement-reset-rlrc3?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233840006000000",
+          "guid": "7fb20540-4123-4db5-9e44-7aacb9deae80",
+          "id": "2919",
+          "name": "simple-counter (setState function and callback) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-setstate-function-and-callback-u0ev5?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233840480000000",
+          "guid": "d89ad1b9-9308-438e-9f2b-11da6366bb30",
+          "id": "2920",
+          "name": "simple-counter (adds localStorage support, exercise starter for syncing document.title) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-adds-localstorage-support-exercise-starter-wxubb?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233840595000000",
+          "guid": "c6385120-14ca-48df-809e-d74166fbfba9",
+          "id": "2921",
+          "name": "simple-counter - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/github/stevekinney/simple-counter-react-state/tree/exercise-document-title"
+        },
+        {
+          "date_added": "13233840829000000",
+          "guid": "0cdc8e7a-d06d-4538-8425-618185a6966a",
+          "id": "2922",
+          "name": "simple-counter (syncing document.title solution) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-syncing-documenttitle-solution-in6r9?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233851551000000",
+          "guid": "fd9e2d3b-4c4c-4bf1-a573-f83b473c76d1",
+          "id": "2923",
+          "name": "simple-counter (refactored to use hooks) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-refactored-to-use-hooks-ndwcr?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233933136000000",
+          "guid": "7755ebd8-9e82-4985-8130-8df37af9a7fd",
+          "id": "2924",
+          "name": "simple-counter (set value with a function) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-set-value-with-a-function-gxshy?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233933606000000",
+          "guid": "a990dd24-1346-4eb1-abc8-7f37f6205060",
+          "id": "2925",
+          "name": "simple-counter (update document.title with useEffect) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-update-documenttitle-with-useeffect-hjedr?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233934010000000",
+          "guid": "c39b378e-2615-4641-a944-6c9ec918fcf2",
+          "id": "2926",
+          "name": "simple-counter (useEffect local storage exercise) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-useeffect-local-storage-exercise-64x3e?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233934015000000",
+          "guid": "22fb53af-cdf1-4c97-9be4-b6398cbe84dc",
+          "id": "2927",
+          "name": "simple-counter - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/github/stevekinney/simple-counter-react-state/tree/exercise-use-effect"
+        },
+        {
+          "date_added": "13233935046000000",
+          "guid": "0fd21db7-e566-410f-b7f4-da5f0143d9a8",
+          "id": "2928",
+          "name": "simple-counter (useEffect local storage solution) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-useeffect-local-storage-solution-m854x?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233935746000000",
+          "guid": "bf7bf909-fde2-461e-8a19-9f08a8ca2e45",
+          "id": "2929",
+          "name": "simple-counter (useLocalStorage custom hook) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-uselocalstorage-custom-hook-hxvnm?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13233936178000000",
+          "guid": "b6a5c5ea-35dc-490b-a4cd-337fc0459c0b",
+          "id": "2930",
+          "name": "simple-counter - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/github/stevekinney/simple-counter-react-state/tree/example-use-local-storage"
+        },
+        {
+          "date_added": "13233936265000000",
+          "guid": "759660eb-a9cb-41ef-abd4-55292bfcc03d",
+          "id": "2931",
+          "name": "simple-counter (useRef) - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/simple-counter-useref-x7x8p?module=%2Fsrc%2FCounter.js"
+        },
+        {
+          "date_added": "13234004267000000",
+          "guid": "2244cfae-6213-40ff-a5e3-840081619a62",
+          "id": "2932",
+          "name": "grudge-list - CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/s/github/stevekinney/grudges-react-state"
+        },
+        {
+          "date_added": "13235170743000000",
+          "guid": "851496dc-4780-4b96-a695-7346133cdc9b",
+          "id": "2933",
+          "name": "[ESLint] Feedback for 'exhaustive-deps' lint rule · Issue #14920 · facebook/react",
+          "type": "url",
+          "url": "https://github.com/facebook/react/issues/14920"
+        },
+        {
+          "date_added": "13235214170000000",
+          "guid": "b9fd82c1-5290-4b37-aab4-9513d7e80948",
+          "id": "2934",
+          "name": "Collection of React Hooks",
+          "type": "url",
+          "url": "https://nikgraf.github.io/react-hooks/"
+        },
+        {
+          "date_added": "13235214205000000",
+          "guid": "aec39f09-dd77-42d4-8da5-6502a0f7c056",
+          "id": "2935",
+          "name": "DinosaurJS",
+          "type": "url",
+          "url": "https://dinosaurjs.org/"
+        }
+      ]
+    },
+    {
+      "date_added": "13280014119821684",
+      "date_modified": "0",
+      "guid": "eaca7329-c9cb-4bec-bba5-fb68cb215c59",
+      "id": "2936",
+      "name": "❌ TypeScript 3 Fundamentals, v2",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13213443226000000",
+          "guid": "8db8b763-2755-4aa1-b6be-34e643a37347",
+          "id": "2937",
+          "name": "mike-works/typescript-fundamentals: 👨‍🏫 Mike's TypeScript Fundamentals Course",
+          "type": "url",
+          "url": "https://github.com/mike-works/typescript-fundamentals"
+        },
+        {
+          "date_added": "13213443265000000",
+          "guid": "a57770d6-4346-41b8-9587-e66c599a5ac4",
+          "id": "2938",
+          "name": "TypeScript Fundamentals v2.pdf - Google Drive",
+          "type": "url",
+          "url": "https://drive.google.com/file/d/170oHzpLNeprUa-TMmOAnSU4caEFDSb3e/view"
+        },
+        {
+          "date_added": "13213443647000000",
+          "guid": "71c8af86-ba8e-4e69-aacd-2a1c307081ae",
+          "id": "2939",
+          "name": "microsoft/dtslint: A utility built on TSLint for linting TypeScript declaration (.d.ts) files.",
+          "type": "url",
+          "url": "https://github.com/Microsoft/dtslint"
+        },
+        {
+          "date_added": "13213443933000000",
+          "guid": "2554ea7e-704e-4d91-9f48-e384f79a6299",
+          "id": "2940",
+          "name": "typescript-fundamentals/index.ts at v2-fem · mike-works/typescript-fundamentals",
+          "type": "url",
+          "url": "https://github.com/mike-works/typescript-fundamentals/blob/v2-fem/challenges/dict/src/index.ts"
+        }
+      ]
+    },
+    {
+      "date_added": "13258675776000000",
+      "guid": "ddbb245f-4e68-4afb-aca9-c82a0820dd21",
+      "id": "2956",
+      "name": "Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!",
+      "type": "url",
+      "url": "https://frontendmasters.com/"
+    },
+    {
+      "date_added": "13276634300000000",
+      "guid": "feb7ad0e-7e81-4f22-b09e-a3966670f255",
+      "id": "2957",
+      "name": "Frontend Masters Guides",
+      "type": "url",
+      "url": "https://frontendmasters.com/books/"
+    }
+  ]
+}
