@@ -3940,7 +3940,7 @@
     },
     {
       "date_added": "13280014119813338",
-      "date_modified": "13281295184572779",
+      "date_modified": "13281370043659618",
       "guid": "3d1e006b-010a-4516-85df-258002f4522e",
       "id": "2875",
       "name": "💡 JavaScript: The Recent Parts",
@@ -4097,6 +4097,38 @@
           "name": "RegExp.prototype.dotAll - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/dotAll"
+        },
+        {
+          "date_added": "13281369950063328",
+          "guid": "cc5155fa-a581-4900-9b7d-31e23d0a34e1",
+          "id": "3651",
+          "name": "tj/co: The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)",
+          "type": "url",
+          "url": "https://github.com/tj/co"
+        },
+        {
+          "date_added": "13281369957069239",
+          "guid": "189a0462-b82b-4649-a73f-00dfb1d3d697",
+          "id": "3652",
+          "name": "Koa - next generation web framework for node.js",
+          "type": "url",
+          "url": "https://koajs.com/"
+        },
+        {
+          "date_added": "13281369974341109",
+          "guid": "aaade85d-ef0f-49ff-9e38-b5d7aeb7718d",
+          "id": "3653",
+          "name": "Getting Started | bluebird",
+          "type": "url",
+          "url": "http://bluebirdjs.com/docs/getting-started.html"
+        },
+        {
+          "date_added": "13281370043659618",
+          "guid": "305d51d6-2961-43df-83b3-e7ea5145b50c",
+          "id": "3654",
+          "name": "async function - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function"
         }
       ]
     },

@@ -1,32 +1,34 @@
 function getFile(file) {
-	return new Promise(function(resolve){
-		fakeAjax(file,resolve);
-	});
+  return new Promise(function (resolve) {
+    fakeAjax(file, resolve);
+  });
 }
 
 async function loadFiles(files) {
-	// request all files concurrently
+  // request all files concurrently
+  const promises = files.map(getFile);
 
-	// print in order, sequentially
+  // print in order, sequentially
+  for (const promise of promises) {
+    console.log(await promise);
+  }
 }
 
-loadFiles(["file1","file2","file3"]);
-
+loadFiles(["file1", "file2", "file3"]);
 
 // **************************************
 
+function fakeAjax(url, cb) {
+  var fake_responses = {
+    file1: "The first text",
+    file2: "The middle text",
+    file3: "The last text",
+  };
+  var randomDelay = (Math.round(Math.random() * 1e4) % 8000) + 1000;
 
-function fakeAjax(url,cb) {
-	var fake_responses = {
-		"file1": "The first text",
-		"file2": "The middle text",
-		"file3": "The last text"
-	};
-	var randomDelay = (Math.round(Math.random() * 1E4) % 8000) + 1000;
+  console.log("Requesting: " + url);
 
-	console.log("Requesting: " + url);
-
-	setTimeout(function(){
-		cb(fake_responses[url]);
-	},randomDelay);
+  setTimeout(function () {
+    cb(fake_responses[url]);
+  }, randomDelay);
 }
