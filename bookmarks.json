@@ -2223,6 +2223,240 @@
       ]
     },
     {
+      "date_added": "13280014119813338",
+      "date_modified": "13281371580730547",
+      "guid": "3d1e006b-010a-4516-85df-258002f4522e",
+      "id": "2875",
+      "name": "✅ JavaScript: The Recent Parts",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13240595928000000",
+          "guid": "96982ad3-cc48-4a68-ac05-30e8170663c9",
+          "id": "2877",
+          "name": "jsrecent",
+          "type": "url",
+          "url": "https://static.frontendmasters.com/resources/2019-03-09-js-recent-parts/js-recent-parts.pdf"
+        },
+        {
+          "date_added": "13235225355000000",
+          "guid": "29df3153-2380-4528-a442-6cf9b22a2133",
+          "id": "2876",
+          "name": "Kyle Simpson Presents: Code is for Humans",
+          "type": "url",
+          "url": "https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/"
+        },
+        {
+          "date_added": "13219239892000000",
+          "guid": "92ac1f64-84c4-4d22-b3a5-c904e5ef2868",
+          "id": "2878",
+          "name": "Babel · The compiler for next generation JavaScript",
+          "type": "url",
+          "url": "https://babeljs.io/"
+        },
+        {
+          "date_added": "13235229489000000",
+          "guid": "0423596c-16d2-4734-901a-5bf9459533eb",
+          "id": "2879",
+          "name": "Template literals (Template strings) - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
+        },
+        {
+          "date_added": "13241636221000000",
+          "guid": "9a2147e2-0d80-4bd3-a923-c00e562383e4",
+          "id": "2880",
+          "name": "Destructuring assignment - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment"
+        },
+        {
+          "date_added": "13229944120000000",
+          "guid": "1684842c-a3c3-4cc0-a5a5-14c193ccadaa",
+          "id": "2881",
+          "name": "Sublime Text - A sophisticated text editor for code, markup and prose",
+          "type": "url",
+          "url": "https://www.sublimetext.com/"
+        },
+        {
+          "date_added": "13241636597000000",
+          "guid": "887dad13-d6d2-420c-81a2-fa206c114df7",
+          "id": "2882",
+          "name": "JSFiddle - Code Playground",
+          "type": "url",
+          "url": "https://jsfiddle.net/"
+        },
+        {
+          "date_added": "13238150137000000",
+          "guid": "7c198efc-9e55-497d-981e-ca6209fa1bef",
+          "id": "2883",
+          "name": "ESLint - Pluggable JavaScript linter",
+          "type": "url",
+          "url": "https://eslint.org/"
+        },
+        {
+          "date_added": "13247066156000000",
+          "guid": "d343fcfd-4104-4318-8363-6cc3c1df6664",
+          "id": "2884",
+          "name": "Underscore.js",
+          "type": "url",
+          "url": "https://underscorejs.org/"
+        },
+        {
+          "date_added": "13239719701000000",
+          "guid": "fbae7d8e-0a0a-4349-a44d-e4e80ce20fa6",
+          "id": "2885",
+          "name": "Array.prototype.find() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find"
+        },
+        {
+          "date_added": "13247067125000000",
+          "guid": "4fbdab37-70c4-435e-8b1a-6eee24d3921b",
+          "id": "2886",
+          "name": "Array.prototype.findIndex() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"
+        },
+        {
+          "date_added": "13235229331000000",
+          "guid": "7d5fa267-6079-47af-b12f-3461c3123143",
+          "id": "2887",
+          "name": "Array.prototype.includes() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"
+        },
+        {
+          "date_added": "13247067345000000",
+          "guid": "a6ef8472-1563-4e2b-904a-d1c34e009b61",
+          "id": "2888",
+          "name": "Array.prototype.flat() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat"
+        },
+        {
+          "date_added": "13247067348000000",
+          "guid": "bf5d59e5-257d-4149-85f7-7befacc011bc",
+          "id": "2889",
+          "name": "Array.prototype.flatMap() - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap"
+        },
+        {
+          "date_added": "13247067353000000",
+          "guid": "e9ee4efc-a9dc-4f90-8699-9d3932c315cf",
+          "id": "2890",
+          "name": "smooshgate - Twitter Search / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/search?q=smooshgate&src=typd"
+        },
+        {
+          "date_added": "13213443880000000",
+          "guid": "c9c73d29-9ce2-4b43-a20b-9f2cfedc76a2",
+          "id": "2891",
+          "name": "Learn Functional Programming in JavaScript (v2) with Kyle Simpson",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/functional-javascript-v2/"
+        },
+        {
+          "date_added": "13247153084000000",
+          "guid": "805ad6b6-5c2d-460b-9561-860d15a9d893",
+          "id": "2892",
+          "name": "Iterators and generators - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators"
+        },
+        {
+          "date_added": "13247249774000000",
+          "guid": "53195bcc-ca6b-44de-9e73-42f371b9cf64",
+          "id": "2893",
+          "name": "RegExp - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
+        },
+        {
+          "date_added": "13247250696000000",
+          "guid": "74dd9427-50f2-4f56-b463-e6b0f6ee2a87",
+          "id": "2894",
+          "name": "RegExp.prototype.dotAll - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/dotAll"
+        },
+        {
+          "date_added": "13281369950063328",
+          "guid": "cc5155fa-a581-4900-9b7d-31e23d0a34e1",
+          "id": "3651",
+          "name": "tj/co: The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)",
+          "type": "url",
+          "url": "https://github.com/tj/co"
+        },
+        {
+          "date_added": "13281369957069239",
+          "guid": "189a0462-b82b-4649-a73f-00dfb1d3d697",
+          "id": "3652",
+          "name": "Koa - next generation web framework for node.js",
+          "type": "url",
+          "url": "https://koajs.com/"
+        },
+        {
+          "date_added": "13281369974341109",
+          "guid": "aaade85d-ef0f-49ff-9e38-b5d7aeb7718d",
+          "id": "3653",
+          "name": "Getting Started | bluebird",
+          "type": "url",
+          "url": "http://bluebirdjs.com/docs/getting-started.html"
+        },
+        {
+          "date_added": "13281370043659618",
+          "guid": "305d51d6-2961-43df-83b3-e7ea5145b50c",
+          "id": "3654",
+          "name": "async function - JavaScript | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function"
+        },
+        {
+          "date_added": "13281371042329627",
+          "guid": "5ff0838f-568c-4029-a2b3-535d6dc2e8f3",
+          "id": "3655",
+          "name": "getify/fasy: FP iterators that are both eager and asynchronous",
+          "type": "url",
+          "url": "https://github.com/getify/fasy"
+        },
+        {
+          "date_added": "13281371387763444",
+          "guid": "71751443-0eb4-4469-8308-51ad7203c8af",
+          "id": "3656",
+          "name": "Communicating sequential processes - Wikipedia",
+          "type": "url",
+          "url": "https://en.wikipedia.org/wiki/Communicating_sequential_processes"
+        },
+        {
+          "date_added": "13281371497201744",
+          "guid": "152685c5-fb3c-4851-9fd2-42d2c225fa82",
+          "id": "3657",
+          "name": "YOW! Conference 2018 - Kyle Simpson - Cancel All My Appointments - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=VDaKLQE03ss"
+        },
+        {
+          "date_added": "13281371547988311",
+          "guid": "26cdc9e8-ace1-472a-be0c-389350b60aa7",
+          "id": "3658",
+          "name": "Fetch API - Web APIs | MDN",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
+        },
+        {
+          "date_added": "13281371580730547",
+          "guid": "3e9211fa-8778-40fe-9d38-e259acb65c4a",
+          "id": "3659",
+          "name": "getify/CAF: Cancelable Async Flows (CAF)",
+          "type": "url",
+          "url": "https://github.com/getify/caf"
+        }
+      ]
+    },
+    {
       "date_added": "13280014119791865",
       "date_modified": "0",
       "guid": "892b7893-cdad-4116-a5fa-786d579bea6b",
@@ -3935,200 +4169,6 @@
           "name": "typescript-fundamentals/index.ts at v2-fem · mike-works/typescript-fundamentals",
           "type": "url",
           "url": "https://github.com/mike-works/typescript-fundamentals/blob/v2-fem/challenges/dict/src/index.ts"
-        }
-      ]
-    },
-    {
-      "date_added": "13280014119813338",
-      "date_modified": "13281370043659618",
-      "guid": "3d1e006b-010a-4516-85df-258002f4522e",
-      "id": "2875",
-      "name": "💡 JavaScript: The Recent Parts",
-      "type": "folder",
-      "children": [
-        {
-          "date_added": "13240595928000000",
-          "guid": "96982ad3-cc48-4a68-ac05-30e8170663c9",
-          "id": "2877",
-          "name": "jsrecent",
-          "type": "url",
-          "url": "https://static.frontendmasters.com/resources/2019-03-09-js-recent-parts/js-recent-parts.pdf"
-        },
-        {
-          "date_added": "13235225355000000",
-          "guid": "29df3153-2380-4528-a442-6cf9b22a2133",
-          "id": "2876",
-          "name": "Kyle Simpson Presents: Code is for Humans",
-          "type": "url",
-          "url": "https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/"
-        },
-        {
-          "date_added": "13219239892000000",
-          "guid": "92ac1f64-84c4-4d22-b3a5-c904e5ef2868",
-          "id": "2878",
-          "name": "Babel · The compiler for next generation JavaScript",
-          "type": "url",
-          "url": "https://babeljs.io/"
-        },
-        {
-          "date_added": "13235229489000000",
-          "guid": "0423596c-16d2-4734-901a-5bf9459533eb",
-          "id": "2879",
-          "name": "Template literals (Template strings) - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
-        },
-        {
-          "date_added": "13241636221000000",
-          "guid": "9a2147e2-0d80-4bd3-a923-c00e562383e4",
-          "id": "2880",
-          "name": "Destructuring assignment - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment"
-        },
-        {
-          "date_added": "13229944120000000",
-          "guid": "1684842c-a3c3-4cc0-a5a5-14c193ccadaa",
-          "id": "2881",
-          "name": "Sublime Text - A sophisticated text editor for code, markup and prose",
-          "type": "url",
-          "url": "https://www.sublimetext.com/"
-        },
-        {
-          "date_added": "13241636597000000",
-          "guid": "887dad13-d6d2-420c-81a2-fa206c114df7",
-          "id": "2882",
-          "name": "JSFiddle - Code Playground",
-          "type": "url",
-          "url": "https://jsfiddle.net/"
-        },
-        {
-          "date_added": "13238150137000000",
-          "guid": "7c198efc-9e55-497d-981e-ca6209fa1bef",
-          "id": "2883",
-          "name": "ESLint - Pluggable JavaScript linter",
-          "type": "url",
-          "url": "https://eslint.org/"
-        },
-        {
-          "date_added": "13247066156000000",
-          "guid": "d343fcfd-4104-4318-8363-6cc3c1df6664",
-          "id": "2884",
-          "name": "Underscore.js",
-          "type": "url",
-          "url": "https://underscorejs.org/"
-        },
-        {
-          "date_added": "13239719701000000",
-          "guid": "fbae7d8e-0a0a-4349-a44d-e4e80ce20fa6",
-          "id": "2885",
-          "name": "Array.prototype.find() - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find"
-        },
-        {
-          "date_added": "13247067125000000",
-          "guid": "4fbdab37-70c4-435e-8b1a-6eee24d3921b",
-          "id": "2886",
-          "name": "Array.prototype.findIndex() - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"
-        },
-        {
-          "date_added": "13235229331000000",
-          "guid": "7d5fa267-6079-47af-b12f-3461c3123143",
-          "id": "2887",
-          "name": "Array.prototype.includes() - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"
-        },
-        {
-          "date_added": "13247067345000000",
-          "guid": "a6ef8472-1563-4e2b-904a-d1c34e009b61",
-          "id": "2888",
-          "name": "Array.prototype.flat() - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat"
-        },
-        {
-          "date_added": "13247067348000000",
-          "guid": "bf5d59e5-257d-4149-85f7-7befacc011bc",
-          "id": "2889",
-          "name": "Array.prototype.flatMap() - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap"
-        },
-        {
-          "date_added": "13247067353000000",
-          "guid": "e9ee4efc-a9dc-4f90-8699-9d3932c315cf",
-          "id": "2890",
-          "name": "smooshgate - Twitter Search / Twitter",
-          "type": "url",
-          "url": "https://twitter.com/search?q=smooshgate&src=typd"
-        },
-        {
-          "date_added": "13213443880000000",
-          "guid": "c9c73d29-9ce2-4b43-a20b-9f2cfedc76a2",
-          "id": "2891",
-          "name": "Learn Functional Programming in JavaScript (v2) with Kyle Simpson",
-          "type": "url",
-          "url": "https://frontendmasters.com/courses/functional-javascript-v2/"
-        },
-        {
-          "date_added": "13247153084000000",
-          "guid": "805ad6b6-5c2d-460b-9561-860d15a9d893",
-          "id": "2892",
-          "name": "Iterators and generators - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators"
-        },
-        {
-          "date_added": "13247249774000000",
-          "guid": "53195bcc-ca6b-44de-9e73-42f371b9cf64",
-          "id": "2893",
-          "name": "RegExp - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
-        },
-        {
-          "date_added": "13247250696000000",
-          "guid": "74dd9427-50f2-4f56-b463-e6b0f6ee2a87",
-          "id": "2894",
-          "name": "RegExp.prototype.dotAll - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/dotAll"
-        },
-        {
-          "date_added": "13281369950063328",
-          "guid": "cc5155fa-a581-4900-9b7d-31e23d0a34e1",
-          "id": "3651",
-          "name": "tj/co: The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)",
-          "type": "url",
-          "url": "https://github.com/tj/co"
-        },
-        {
-          "date_added": "13281369957069239",
-          "guid": "189a0462-b82b-4649-a73f-00dfb1d3d697",
-          "id": "3652",
-          "name": "Koa - next generation web framework for node.js",
-          "type": "url",
-          "url": "https://koajs.com/"
-        },
-        {
-          "date_added": "13281369974341109",
-          "guid": "aaade85d-ef0f-49ff-9e38-b5d7aeb7718d",
-          "id": "3653",
-          "name": "Getting Started | bluebird",
-          "type": "url",
-          "url": "http://bluebirdjs.com/docs/getting-started.html"
-        },
-        {
-          "date_added": "13281370043659618",
-          "guid": "305d51d6-2961-43df-83b3-e7ea5145b50c",
-          "id": "3654",
-          "name": "async function - JavaScript | MDN",
-          "type": "url",
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function"
         }
       ]
     },
