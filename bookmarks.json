@@ -3800,10 +3800,10 @@
     },
     {
       "date_added": "13280014119816037",
-      "date_modified": "0",
+      "date_modified": "13281396611806522",
       "guid": "2f9f90d4-df61-47ea-a55f-4b366f31ab38",
       "id": "2895",
-      "name": "❌ Python Fundamentals",
+      "name": "💡 Python Fundamentals",
       "type": "folder",
       "children": [
         {
@@ -3845,6 +3845,14 @@
           "name": "nnja (Nina Zakharenko)",
           "type": "url",
           "url": "https://github.com/nnja/"
+        },
+        {
+          "date_added": "13281392487958466",
+          "guid": "3fb3ef58-01f7-414d-8085-4069418bf817",
+          "id": "3660",
+          "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/git-in-depth/"
         },
         {
           "date_added": "13221434330000000",
