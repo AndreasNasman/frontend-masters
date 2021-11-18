@@ -2457,6 +2457,144 @@
       ]
     },
     {
+      "date_added": "13280014119816037",
+      "date_modified": "13281715814910451",
+      "guid": "2f9f90d4-df61-47ea-a55f-4b366f31ab38",
+      "id": "2895",
+      "name": "✅ Python Fundamentals",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13221434037000000",
+          "guid": "0354cf1c-87f2-4405-9db8-d288c77d4f42",
+          "id": "2896",
+          "name": "Learn Python :: Learn Python by Nina Zakharenko",
+          "type": "url",
+          "url": "https://www.learnpython.dev/"
+        },
+        {
+          "date_added": "13221434048000000",
+          "guid": "34004d04-bd8b-4826-a1d6-354450a9b638",
+          "id": "2897",
+          "name": "nnja/python: Front End Masters Python - Course Website at https://learnpython.dev",
+          "type": "url",
+          "url": "https://github.com/nnja/python"
+        },
+        {
+          "date_added": "13221434159000000",
+          "guid": "7ab8d9aa-6148-4710-be7c-890080504bc7",
+          "id": "2898",
+          "name": "Nina Zakharenko 💜🐍 (@nnja) | Twitter",
+          "type": "url",
+          "url": "https://twitter.com/nnja"
+        },
+        {
+          "date_added": "13221434163000000",
+          "guid": "76472e3b-df84-4357-84d4-4d613852059b",
+          "id": "2899",
+          "name": "LinkedIn",
+          "type": "url",
+          "url": "https://www.linkedin.com/nnja"
+        },
+        {
+          "date_added": "13221434168000000",
+          "guid": "640a0ebb-a9f3-4a97-8ba1-1fc41cd74487",
+          "id": "2900",
+          "name": "nnja (Nina Zakharenko)",
+          "type": "url",
+          "url": "https://github.com/nnja/"
+        },
+        {
+          "date_added": "13281392487958466",
+          "guid": "3fb3ef58-01f7-414d-8085-4069418bf817",
+          "id": "3660",
+          "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/git-in-depth/"
+        },
+        {
+          "date_added": "13221434330000000",
+          "guid": "90bfb16d-f0b1-4a82-8dad-d259c901919e",
+          "id": "2901",
+          "name": "Python - Visual Studio Marketplace",
+          "type": "url",
+          "url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
+        },
+        {
+          "date_added": "13224287312000000",
+          "guid": "217e0738-639b-4ddb-ab26-c32369611989",
+          "id": "2902",
+          "name": "python/cpython: The Python programming language",
+          "type": "url",
+          "url": "https://github.com/python/cpython"
+        },
+        {
+          "date_added": "13224287388000000",
+          "guid": "8227268f-6a33-4de1-bcc3-00264197dc8a",
+          "id": "2903",
+          "name": "PEP 8: The Style Guide for Python Code",
+          "type": "url",
+          "url": "https://pep8.org/"
+        },
+        {
+          "date_added": "13224289826000000",
+          "guid": "f6b38394-10d6-4a23-b5cf-cde03454eb0a",
+          "id": "2904",
+          "name": "The Naming of Ducks: Where Dynamic Types Meet Smart Conventions - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=YklKUuDpX5c"
+        },
+        {
+          "date_added": "13224462017000000",
+          "guid": "baccc2c7-b06b-41d1-ae44-f0cff2e2e942",
+          "id": "2905",
+          "name": "Curses Programming with Python — Python 3.8.1 documentation",
+          "type": "url",
+          "url": "https://docs.python.org/3/howto/curses.html"
+        },
+        {
+          "date_added": "13224679444000000",
+          "guid": "60e549c8-04d6-4f96-9958-bc7efe4350ff",
+          "id": "2906",
+          "name": "Chapter 1: Introduction - An Introduction to APIs | Zapier",
+          "type": "url",
+          "url": "https://zapier.com/learn/apis/chapter-1-introduction-to-apis/"
+        },
+        {
+          "date_added": "13224679533000000",
+          "guid": "e5943776-d364-4767-bd04-0b32b53ce25b",
+          "id": "2907",
+          "name": "Learn to Build APIs in Node.js – Model data and REST APIs with Express and MongoDB",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/api-design-nodejs-v3/"
+        },
+        {
+          "date_added": "13224679566000000",
+          "guid": "329988d5-b898-4b98-870f-58088fae0578",
+          "id": "2908",
+          "name": "Hyper Text Coffee Pot Control Protocol - Wikipedia",
+          "type": "url",
+          "url": "https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol"
+        },
+        {
+          "date_added": "13281715814910451",
+          "guid": "122e20db-a007-4583-9a03-a88da4af892b",
+          "id": "3791",
+          "name": "Requests: HTTP for Humans™ — Requests 2.26.0 documentation",
+          "type": "url",
+          "url": "https://docs.python-requests.org/en/master/"
+        },
+        {
+          "date_added": "13224681865000000",
+          "guid": "ffd5a576-d988-4865-8533-0540c90baf2f",
+          "id": "2910",
+          "name": "Search | GitHub Developer Guide",
+          "type": "url",
+          "url": "https://developer.github.com/v3/search/"
+        }
+      ]
+    },
+    {
       "date_added": "13280014119791865",
       "date_modified": "0",
       "guid": "892b7893-cdad-4116-a5fa-786d579bea6b",
@@ -3795,144 +3933,6 @@
           "name": "Learn how to build REST and GraphQL APIs with Node.js with Express & MongoDB",
           "type": "url",
           "url": "https://frontendmasters.com/courses/api-node-rest-graphql/"
-        }
-      ]
-    },
-    {
-      "date_added": "13280014119816037",
-      "date_modified": "13281396611806522",
-      "guid": "2f9f90d4-df61-47ea-a55f-4b366f31ab38",
-      "id": "2895",
-      "name": "💡 Python Fundamentals",
-      "type": "folder",
-      "children": [
-        {
-          "date_added": "13221434037000000",
-          "guid": "0354cf1c-87f2-4405-9db8-d288c77d4f42",
-          "id": "2896",
-          "name": "Learn Python :: Learn Python by Nina Zakharenko",
-          "type": "url",
-          "url": "https://www.learnpython.dev/"
-        },
-        {
-          "date_added": "13221434048000000",
-          "guid": "34004d04-bd8b-4826-a1d6-354450a9b638",
-          "id": "2897",
-          "name": "nnja/python: Front End Masters Python - Course Website at https://learnpython.dev",
-          "type": "url",
-          "url": "https://github.com/nnja/python"
-        },
-        {
-          "date_added": "13221434159000000",
-          "guid": "7ab8d9aa-6148-4710-be7c-890080504bc7",
-          "id": "2898",
-          "name": "Nina Zakharenko 💜🐍 (@nnja) | Twitter",
-          "type": "url",
-          "url": "https://twitter.com/nnja"
-        },
-        {
-          "date_added": "13221434163000000",
-          "guid": "76472e3b-df84-4357-84d4-4d613852059b",
-          "id": "2899",
-          "name": "LinkedIn",
-          "type": "url",
-          "url": "https://www.linkedin.com/nnja"
-        },
-        {
-          "date_added": "13221434168000000",
-          "guid": "640a0ebb-a9f3-4a97-8ba1-1fc41cd74487",
-          "id": "2900",
-          "name": "nnja (Nina Zakharenko)",
-          "type": "url",
-          "url": "https://github.com/nnja/"
-        },
-        {
-          "date_added": "13281392487958466",
-          "guid": "3fb3ef58-01f7-414d-8085-4069418bf817",
-          "id": "3660",
-          "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
-          "type": "url",
-          "url": "https://frontendmasters.com/courses/git-in-depth/"
-        },
-        {
-          "date_added": "13221434330000000",
-          "guid": "90bfb16d-f0b1-4a82-8dad-d259c901919e",
-          "id": "2901",
-          "name": "Python - Visual Studio Marketplace",
-          "type": "url",
-          "url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
-        },
-        {
-          "date_added": "13224287312000000",
-          "guid": "217e0738-639b-4ddb-ab26-c32369611989",
-          "id": "2902",
-          "name": "python/cpython: The Python programming language",
-          "type": "url",
-          "url": "https://github.com/python/cpython"
-        },
-        {
-          "date_added": "13224287388000000",
-          "guid": "8227268f-6a33-4de1-bcc3-00264197dc8a",
-          "id": "2903",
-          "name": "PEP 8: The Style Guide for Python Code",
-          "type": "url",
-          "url": "https://pep8.org/"
-        },
-        {
-          "date_added": "13224289826000000",
-          "guid": "f6b38394-10d6-4a23-b5cf-cde03454eb0a",
-          "id": "2904",
-          "name": "The Naming of Ducks: Where Dynamic Types Meet Smart Conventions - YouTube",
-          "type": "url",
-          "url": "https://www.youtube.com/watch?v=YklKUuDpX5c"
-        },
-        {
-          "date_added": "13224462017000000",
-          "guid": "baccc2c7-b06b-41d1-ae44-f0cff2e2e942",
-          "id": "2905",
-          "name": "Curses Programming with Python — Python 3.8.1 documentation",
-          "type": "url",
-          "url": "https://docs.python.org/3/howto/curses.html"
-        },
-        {
-          "date_added": "13224679444000000",
-          "guid": "60e549c8-04d6-4f96-9958-bc7efe4350ff",
-          "id": "2906",
-          "name": "Chapter 1: Introduction - An Introduction to APIs | Zapier",
-          "type": "url",
-          "url": "https://zapier.com/learn/apis/chapter-1-introduction-to-apis/"
-        },
-        {
-          "date_added": "13224679533000000",
-          "guid": "e5943776-d364-4767-bd04-0b32b53ce25b",
-          "id": "2907",
-          "name": "Learn to Build APIs in Node.js – Model data and REST APIs with Express and MongoDB",
-          "type": "url",
-          "url": "https://frontendmasters.com/courses/api-design-nodejs-v3/"
-        },
-        {
-          "date_added": "13224679566000000",
-          "guid": "329988d5-b898-4b98-870f-58088fae0578",
-          "id": "2908",
-          "name": "Hyper Text Coffee Pot Control Protocol - Wikipedia",
-          "type": "url",
-          "url": "https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol"
-        },
-        {
-          "date_added": "13224679609000000",
-          "guid": "b4f10ce5-b4bf-418d-928a-21ee2a6be9c4",
-          "id": "2909",
-          "name": "Requests: HTTP for Humans™ — Requests 2.22.0 documentation",
-          "type": "url",
-          "url": "https://2.python-requests.org//en/master/"
-        },
-        {
-          "date_added": "13224681865000000",
-          "guid": "ffd5a576-d988-4865-8533-0540c90baf2f",
-          "id": "2910",
-          "name": "Search | GitHub Developer Guide",
-          "type": "url",
-          "url": "https://developer.github.com/v3/search/"
         }
       ]
     },
