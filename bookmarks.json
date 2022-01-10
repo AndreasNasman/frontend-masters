@@ -1,6 +1,6 @@
 {
   "date_added": "13280014119751987",
-  "date_modified": "13281279208123355",
+  "date_modified": "13286318566613490",
   "guid": "621c5fd5-edb5-431a-9505-46edafd201c8",
   "id": "2458",
   "name": "Frontend Masters",
@@ -3060,7 +3060,7 @@
           "date_added": "13219236363000000",
           "guid": "9bc8223a-260d-4288-8595-aab503fbad74",
           "id": "2766",
-          "name": "#VetsWhoCode",
+          "name": "#VetsWhoCode 🇺🇸 | Retool - Retrain - Relaunch",
           "type": "url",
           "url": "https://vetswhocode.io/"
         },
@@ -4177,6 +4177,56 @@
           "name": "typescript-fundamentals/index.ts at v2-fem · mike-works/typescript-fundamentals",
           "type": "url",
           "url": "https://github.com/mike-works/typescript-fundamentals/blob/v2-fem/challenges/dict/src/index.ts"
+        }
+      ]
+    },
+    {
+      "date_added": "13286318480577590",
+      "date_modified": "13286321164924909",
+      "guid": "ab84ae3d-87b9-413e-a4a8-25146c0ffdb7",
+      "id": "3904",
+      "name": "💡 Complete Intro to Linux and the Command-Line",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13286318566613490",
+          "guid": "1835be93-629c-47f9-a3e2-7a8eca2186af",
+          "id": "3905",
+          "name": "Complete Intro to Linux and the CLI",
+          "type": "url",
+          "url": "https://btholt.github.io/complete-intro-to-linux-and-the-cli/"
+        },
+        {
+          "date_added": "13286318594173040",
+          "guid": "0d2a66d0-5af4-4519-97f3-66acef8e74e5",
+          "id": "3906",
+          "name": "btholt/complete-intro-to-linux-and-the-cli: 🐧 The Complete Intro to Linux and the Command Line, as taught for Frontend Masters",
+          "type": "url",
+          "url": "https://github.com/btholt/complete-intro-to-linux-and-the-cli"
+        },
+        {
+          "date_added": "13286320872582578",
+          "guid": "58247fcd-a897-4f4d-bfc0-d803ef1b4968",
+          "id": "3907",
+          "name": "Home - AnnieCannons",
+          "type": "url",
+          "url": "https://anniecannons.com/"
+        },
+        {
+          "date_added": "13286320876247248",
+          "guid": "c6279cb1-41de-40d2-b5ed-71efc25b6900",
+          "id": "3908",
+          "name": "The Last Mile – Paving The Road To Success",
+          "type": "url",
+          "url": "https://thelastmile.org/"
+        },
+        {
+          "date_added": "13286321164924909",
+          "guid": "2a4cf399-e8f2-4fd0-a08f-31383c633c57",
+          "id": "3909",
+          "name": "#VetsWhoCode 🇺🇸 | Retool - Retrain - Relaunch",
+          "type": "url",
+          "url": "https://vetswhocode.io/"
         }
       ]
     },
