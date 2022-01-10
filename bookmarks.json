@@ -4182,7 +4182,7 @@
     },
     {
       "date_added": "13286318480577590",
-      "date_modified": "13286321164924909",
+      "date_modified": "13286326989183934",
       "guid": "ab84ae3d-87b9-413e-a4a8-25146c0ffdb7",
       "id": "3904",
       "name": "💡 Complete Intro to Linux and the Command-Line",
@@ -4227,6 +4227,78 @@
           "name": "#VetsWhoCode 🇺🇸 | Retool - Retrain - Relaunch",
           "type": "url",
           "url": "https://vetswhocode.io/"
+        },
+        {
+          "date_added": "13286321370886842",
+          "guid": "1f585096-6745-409b-96ee-168b003e0364",
+          "id": "3910",
+          "name": "Linux vs. Unix: What's the difference? | Opensource.com",
+          "type": "url",
+          "url": "https://opensource.com/article/18/5/differences-between-linux-and-unix"
+        },
+        {
+          "date_added": "13286321840277484",
+          "guid": "1d68cef3-2cac-4e55-9263-2af4be9a4513",
+          "id": "3911",
+          "name": "Red Hat - We make open source technologies for the enterprise",
+          "type": "url",
+          "url": "https://www.redhat.com/en"
+        },
+        {
+          "date_added": "13286321845421495",
+          "guid": "2ba16eac-896e-49c1-8793-de1186634be2",
+          "id": "3912",
+          "name": "Publisher of Ubuntu | Canonical",
+          "type": "url",
+          "url": "https://canonical.com/"
+        },
+        {
+          "date_added": "13286322033152602",
+          "guid": "155b37b0-2626-4f12-8b7c-0858d41b91b9",
+          "id": "3913",
+          "name": "Debian -- The Universal Operating System",
+          "type": "url",
+          "url": "https://www.debian.org/"
+        },
+        {
+          "date_added": "13286322138746054",
+          "guid": "0a2fee2d-6e2b-4753-861c-f139576e8ed4",
+          "id": "3914",
+          "name": "Enterprise Open Source and Linux | Ubuntu",
+          "type": "url",
+          "url": "https://ubuntu.com/"
+        },
+        {
+          "date_added": "13286326827361691",
+          "guid": "d0b7f9db-f42c-496f-9101-5e2db7e7d96e",
+          "id": "3915",
+          "name": "Multipass orchestrates virtual Ubuntu instances",
+          "type": "url",
+          "url": "https://multipass.run/"
+        },
+        {
+          "date_added": "13286326960592280",
+          "guid": "4a649738-2131-4872-b9e3-d2f0c24cdffb",
+          "id": "3916",
+          "name": "Installing Multipass for Windows | Multipass documentation",
+          "type": "url",
+          "url": "https://multipass.run/docs/installing-on-windows"
+        },
+        {
+          "date_added": "13286326968079986",
+          "guid": "35b913e0-9cbd-4871-aa73-6527de58e28c",
+          "id": "3917",
+          "name": "Installing Multipass on macOS | Multipass documentation",
+          "type": "url",
+          "url": "https://multipass.run/docs/installing-on-macos"
+        },
+        {
+          "date_added": "13286326989183934",
+          "guid": "fba9dd87-6211-44e4-ac55-55c1e307540d",
+          "id": "3918",
+          "name": "Oracle VM VirtualBox",
+          "type": "url",
+          "url": "https://www.virtualbox.org/"
         }
       ]
     },
