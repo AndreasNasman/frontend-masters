@@ -3,7 +3,7 @@
   "title": "Frontend Masters",
   "index": 0,
   "dateAdded": 1644081529011000,
-  "lastModified": 1656930474166000,
+  "lastModified": 1657177009123000,
   "id": 17,
   "typeCode": 2,
   "type": "text/x-moz-place-container",
@@ -670,6 +670,7 @@
           "lastModified": 1656320357000000,
           "id": 77,
           "typeCode": 1,
+          "iconuri": "https://frontendmasters.com/apple-touch-icon.png",
           "type": "text/x-moz-place",
           "uri": "https://frontendmasters.com/courses/chrome-dev-tools-v2/"
         },
@@ -935,6 +936,7 @@
           "lastModified": 1656320357000000,
           "id": 101,
           "typeCode": 1,
+          "iconuri": "https://frontendmasters.com/apple-touch-icon.png",
           "type": "text/x-moz-place",
           "uri": "https://frontendmasters.com/courses/js-fundamentals-functional-v2/"
         },
@@ -1848,6 +1850,7 @@
           "lastModified": 1656320357000000,
           "id": 183,
           "typeCode": 1,
+          "iconuri": "https://frontendmasters.com/apple-touch-icon.png",
           "type": "text/x-moz-place",
           "uri": "https://frontendmasters.com/courses/deep-javascript-v3/"
         },
@@ -2965,6 +2968,7 @@
           "lastModified": 1656320357000000,
           "id": 284,
           "typeCode": 1,
+          "iconuri": "http://csbin.io/favicon.png",
           "type": "text/x-moz-place",
           "uri": "http://csbin.io/closures"
         },
@@ -5166,6 +5170,7 @@
           "lastModified": 1656320357000000,
           "id": 482,
           "typeCode": 1,
+          "iconuri": "https://www.nginx.com/wp-content/uploads/2019/10/favicon-48x48.ico",
           "type": "text/x-moz-place",
           "uri": "https://www.nginx.com/"
         },
@@ -5750,7 +5755,7 @@
       "title": "💡 Complete Intro to Linux and the Command-Line",
       "index": 19,
       "dateAdded": 1644081529011000,
-      "lastModified": 1656930474166000,
+      "lastModified": 1657177009123000,
       "id": 535,
       "typeCode": 2,
       "type": "text/x-moz-place-container",
@@ -5967,6 +5972,42 @@
           "iconuri": "https://www.howtogeek.com/public/images/192x192.png",
           "type": "text/x-moz-place",
           "uri": "https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/"
+        },
+        {
+          "guid": "SEA-pCuW0RO1",
+          "title": "Diffie–Hellman key exchange - Wikipedia",
+          "index": 19,
+          "dateAdded": 1657016910429000,
+          "lastModified": 1657016913025000,
+          "id": 1429,
+          "typeCode": 1,
+          "iconuri": "https://en.wikipedia.org/static/apple-touch/wikipedia.png",
+          "type": "text/x-moz-place",
+          "uri": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange"
+        },
+        {
+          "guid": "Azh1UPNDntOV",
+          "title": "JosefZIla/bash2048: Bash implementation of 2048 game",
+          "index": 20,
+          "dateAdded": 1657090494721000,
+          "lastModified": 1657090494721000,
+          "id": 1430,
+          "typeCode": 1,
+          "iconuri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/JosefZIla/bash2048"
+        },
+        {
+          "guid": "Yc0kN6QyY9TJ",
+          "title": "Learn Augment Python, Control Flow and APIs with Nina Zakharenko",
+          "index": 21,
+          "dateAdded": 1657177009123000,
+          "lastModified": 1657177009123000,
+          "id": 1431,
+          "typeCode": 1,
+          "iconuri": "https://frontendmasters.com/apple-touch-icon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://frontendmasters.com/courses/python/"
         }
       ]
     },
