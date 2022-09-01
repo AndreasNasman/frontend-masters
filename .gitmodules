@@ -13,6 +13,9 @@
 [submodule "Introduction to Vue 3/intro-to-vue"]
 	path = Introduction to Vue 3/intro-to-vue
 	url = https://github.com/AndreasNasman/intro-to-vue.git
+[submodule "JavaScript Testing Practices and Principles/testing-workshop"]
+	path = JavaScript Testing Practices and Principles/testing-workshop
+	url = https://github.com/AndreasNasman/testing-workshop.git
 [submodule "VIM Fundamentals/vim-fundamentals"]
 	path = VIM Fundamentals/vim-fundamentals
 	url = https://github.com/AndreasNasman/vim-fundamentals.git
