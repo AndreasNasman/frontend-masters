@@ -3,7 +3,7 @@
   "title": "Frontend Masters",
   "index": 0,
   "dateAdded": 1644081529011000,
-  "lastModified": 1662056502226000,
+  "lastModified": 1662060934919000,
   "id": 1330,
   "typeCode": 2,
   "type": "text/x-moz-place-container",
@@ -1585,7 +1585,7 @@
           "lastModified": 1656359483000000,
           "id": 1436,
           "typeCode": 1,
-          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "iconUri": "https://github.com/fluidicon.png",
           "type": "text/x-moz-place",
           "uri": "https://github.com/"
         },
@@ -4641,7 +4641,7 @@
       "title": "💡 JavaScript Testing Practices and Principles",
       "index": 14,
       "dateAdded": 1662028535353000,
-      "lastModified": 1662056502226000,
+      "lastModified": 1662060934919000,
       "id": 2762,
       "typeCode": 2,
       "type": "text/x-moz-place-container",
@@ -4763,6 +4763,41 @@
           "iconUri": "https://frontendmasters.com/apple-touch-icon.png",
           "type": "text/x-moz-place",
           "uri": "https://frontendmasters.com/courses/testing-react/"
+        },
+        {
+          "guid": "pGdHfwDSQ_nv",
+          "title": "Testing Practices and Principles",
+          "index": 10,
+          "dateAdded": 1662056645005000,
+          "lastModified": 1662056645005000,
+          "id": 2773,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://slides.com/kentcdodds/testing-principles#/6"
+        },
+        {
+          "guid": "UplFxNWuY6gM",
+          "title": "But really, what is a JavaScript test?",
+          "index": 11,
+          "dateAdded": 1662056648557000,
+          "lastModified": 1662056648557000,
+          "id": 2774,
+          "typeCode": 1,
+          "iconUri": "https://kentcdodds.com/favicons/apple-touch-icon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://kentcdodds.com/blog/but-really-what-is-a-javascript-test"
+        },
+        {
+          "guid": "s_RQHazWrxvK",
+          "title": "Jest · 🃏 Delightful JavaScript Testing",
+          "index": 12,
+          "dateAdded": 1662060934919000,
+          "lastModified": 1662060934919000,
+          "id": 2775,
+          "typeCode": 1,
+          "iconUri": "https://jestjs.io/img/jest.png",
+          "type": "text/x-moz-place",
+          "uri": "https://jestjs.io/"
         }
       ]
     },
