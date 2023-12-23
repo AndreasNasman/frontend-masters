@@ -7,6 +7,9 @@
 [submodule "Complete Intro to Web Development, v2/intro-to-web-dev-v2"]
 	path = Complete Intro to Web Development, v2/intro-to-web-dev-v2
 	url = https://github.com/AndreasNasman/intro-to-web-dev-v2.git
+[submodule "Four Semesters of Computer Science in 5 Hours/four-semesters-of-cs"]
+	path = Four Semesters of Computer Science in 5 Hours/four-semesters-of-cs
+	url = https://github.com/AndreasNasman/four-semesters-of-cs.git
 [submodule "Introduction to Bash, VIM & Regex/fmmn"]
 	path = Introduction to Bash, VIM & Regex/fmmn
 	url = https://github.com/AndreasNasman/fmmn.git
