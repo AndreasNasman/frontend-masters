@@ -3800,7 +3800,7 @@
     {
       "date_added": "13347842711691810",
       "date_last_used": "0",
-      "date_modified": "13347968567614521",
+      "date_modified": "13348005234624650",
       "guid": "a453d2ac-201e-4cb7-bac5-949950d4a3f8",
       "id": "1340",
       "name": "💡 Four Semesters of Computer Science in 5 Hours",
@@ -3856,7 +3856,7 @@
         },
         {
           "date_added": "13347968563370297",
-          "date_last_used": "0",
+          "date_last_used": "13348004888967329",
           "guid": "d503c627-1875-4dd3-9d0e-b85c27f0d6fa",
           "id": "1345",
           "meta_info": {
@@ -3868,7 +3868,7 @@
         },
         {
           "date_added": "13347968567614521",
-          "date_last_used": "13347970307166796",
+          "date_last_used": "13348005051194333",
           "guid": "3d7ab3cd-ef6d-48a0-96db-63d5cd21b03e",
           "id": "1346",
           "meta_info": {
@@ -3877,6 +3877,42 @@
           "name": "Visualized Algo: Bubble Sort",
           "type": "url",
           "url": "https://codepen.io/btholt/pen/KdYPqa?editors=001"
+        },
+        {
+          "date_added": "13347970776281300",
+          "date_last_used": "0",
+          "guid": "0014105f-547a-4273-848c-ac34c5e7cb02",
+          "id": "1347",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Insertion Sort Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/mVMMxj?editors=001"
+        },
+        {
+          "date_added": "13347970780583039",
+          "date_last_used": "13348005051923291",
+          "guid": "26d8d0a0-ea20-4e4a-b561-cf120c9f0a83",
+          "id": "1348",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Insertion Sort",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/meYQPd?editors=001"
+        },
+        {
+          "date_added": "13348005234624650",
+          "date_last_used": "0",
+          "guid": "ce447e2d-e403-47e1-aff5-9c8bed958a1c",
+          "id": "1349",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell",
+          "type": "url",
+          "url": "https://www.bigocheatsheet.com/"
         }
       ]
     },
