@@ -3800,7 +3800,7 @@
     {
       "date_added": "13347842711691810",
       "date_last_used": "0",
-      "date_modified": "13348250214704853",
+      "date_modified": "13348311296328469",
       "guid": "a453d2ac-201e-4cb7-bac5-949950d4a3f8",
       "id": "1340",
       "name": "💡 Four Semesters of Computer Science in 5 Hours",
@@ -3994,6 +3994,30 @@
           "name": "Visualized Data Structures: Array List",
           "type": "url",
           "url": "https://codepen.io/btholt/pen/dGOaXX?editors=001"
+        },
+        {
+          "date_added": "13348311293406682",
+          "date_last_used": "0",
+          "guid": "74ad938d-743d-4019-a25d-980ee2acc4dd",
+          "id": "1357",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algorithms: Linked List Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/adLxEd?editors=001"
+        },
+        {
+          "date_added": "13348311296328469",
+          "date_last_used": "13348335123407945",
+          "guid": "98ab33d2-c03a-4588-8594-f0dc91fab825",
+          "id": "1358",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algorithms: Linked List",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/eJBBEY?editors=001"
         }
       ]
     },
