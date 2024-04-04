@@ -3800,7 +3800,7 @@
     {
       "date_added": "13347842711691810",
       "date_last_used": "0",
-      "date_modified": "13355952726112434",
+      "date_modified": "13356733311063212",
       "guid": "a453d2ac-201e-4cb7-bac5-949950d4a3f8",
       "id": "1340",
       "name": "💡 Four Semesters of Computer Science in 5 Hours",
@@ -4057,7 +4057,7 @@
         },
         {
           "date_added": "13355952726112434",
-          "date_last_used": "13355959060120930",
+          "date_last_used": "13356728510510021",
           "guid": "f3d2a362-48d4-490b-ad31-028c08e8a714",
           "id": "1394",
           "meta_info": {
@@ -4066,6 +4066,102 @@
           "name": "Visualized Data Structure: AVL Tree",
           "type": "url",
           "url": "https://codepen.io/btholt/pen/rxLOOp?editors=001"
+        },
+        {
+          "date_added": "13356730711654338",
+          "date_last_used": "0",
+          "guid": "3ab99453-3970-4122-b2df-bb68132e1ae4",
+          "id": "1396",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Hash Table Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/gPeayV?editors=001"
+        },
+        {
+          "date_added": "13356730715665835",
+          "date_last_used": "0",
+          "guid": "9772af8a-1bed-4e15-b7c7-65fa5001ed01",
+          "id": "1397",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Hash Table",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/NxXLJz?editors=001"
+        },
+        {
+          "date_added": "13356732965324661",
+          "date_last_used": "0",
+          "guid": "dc41b50d-1d2f-4c31-9376-e39275c171dc",
+          "id": "1398",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Map Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/QyQxVP?editors=0010"
+        },
+        {
+          "date_added": "13356732968068413",
+          "date_last_used": "0",
+          "guid": "d0957994-608e-4b91-9c39-5d42a07550b1",
+          "id": "1399",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Map",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/Ywevex?editors=0010"
+        },
+        {
+          "date_added": "13356733161831225",
+          "date_last_used": "0",
+          "guid": "cb90e281-d308-44cc-840f-ee2cbc55571c",
+          "id": "1400",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Reduce Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/VeQVVq?editors=0010"
+        },
+        {
+          "date_added": "13356733163698317",
+          "date_last_used": "0",
+          "guid": "0ff78a06-0628-4593-8a36-4989770bbe13",
+          "id": "1401",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Reduce",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/GoQwBa?editors=0010"
+        },
+        {
+          "date_added": "13356733309076503",
+          "date_last_used": "0",
+          "guid": "ee972885-8164-47bd-9aef-bc42517e00b0",
+          "id": "1402",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Filter Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/mVxezo?editors=0010"
+        },
+        {
+          "date_added": "13356733311063212",
+          "date_last_used": "0",
+          "guid": "0ee67349-f7df-4a92-86a3-4ec0b6e20c2b",
+          "id": "1403",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Filter",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/KVQLgr?editors=0010"
         }
       ]
     },
