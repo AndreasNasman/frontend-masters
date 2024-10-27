@@ -1,3 +1,5 @@
+# Frontend Master
+
 To initialize this project, use:
 
 ```sh
@@ -8,7 +10,7 @@ or
 
 ```git
 git clone https://github.com/AndreasNasman/frontend-masters.git
-git submodule init && git submodule update
+git submodule update --init --recursive --remote
 ```
 
 After updating a fork with upstream changes, run
