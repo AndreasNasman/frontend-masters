@@ -3107,7 +3107,7 @@
       "children": [
         {
           "date_added": "0",
-          "date_last_used": "0",
+          "date_last_used": "13371735526073839",
           "guid": "db093b75-036c-47bc-94fc-a2a2608555f1",
           "id": "641",
           "name": "Learn Python :: Learn Python by Nina Zakharenko",
@@ -3800,7 +3800,7 @@
     {
       "date_added": "13347842711691810",
       "date_last_used": "0",
-      "date_modified": "13356733311063212",
+      "date_modified": "13374513571564004",
       "guid": "a453d2ac-201e-4cb7-bac5-949950d4a3f8",
       "id": "1340",
       "name": "💡 Four Semesters of Computer Science in 5 Hours",
@@ -3817,6 +3817,18 @@
           "name": "Four Semesters of Computer Science in Six Hours",
           "type": "url",
           "url": "https://btholt.github.io/four-semesters-of-cs/"
+        },
+        {
+          "date_added": "13374513549014721",
+          "date_last_used": "0",
+          "guid": "c5fa65f5-ff99-4395-b764-1b8dcd744272",
+          "id": "1504",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "btholt/four-semesters-of-cs",
+          "type": "url",
+          "url": "https://github.com/btholt/four-semesters-of-cs"
         },
         {
           "date_added": "13347967789430688",
@@ -4358,7 +4370,7 @@
     },
     {
       "date_added": "0",
-      "date_last_used": "0",
+      "date_last_used": "13359449308519060",
       "guid": "6e2a8ff8-cfb6-46ab-80d4-6d301706fde4",
       "id": "738",
       "name": "Frontend Masters Guides",
