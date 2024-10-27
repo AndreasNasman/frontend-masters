@@ -8,12 +8,392 @@
   "type": "folder",
   "children": [
     {
+      "date_added": "13347842711691810",
+      "date_last_used": "0",
+      "date_modified": "13374513571564004",
+      "guid": "a453d2ac-201e-4cb7-bac5-949950d4a3f8",
+      "id": "1340",
+      "name": "✅ Four Semesters of Computer Science in 5 Hours",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13347842862299204",
+          "date_last_used": "13347845255987811",
+          "guid": "9fb52d22-0272-46e3-985c-b26c39b70fe6",
+          "id": "1341",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Four Semesters of Computer Science in Six Hours",
+          "type": "url",
+          "url": "https://btholt.github.io/four-semesters-of-cs/"
+        },
+        {
+          "date_added": "13374513549014721",
+          "date_last_used": "0",
+          "guid": "c5fa65f5-ff99-4395-b764-1b8dcd744272",
+          "id": "1504",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "btholt/four-semesters-of-cs",
+          "type": "url",
+          "url": "https://github.com/btholt/four-semesters-of-cs"
+        },
+        {
+          "date_added": "13347967789430688",
+          "date_last_used": "0",
+          "guid": "c0fb6f5f-b6d0-47f1-a967-866aa494988c",
+          "id": "1344",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Recursion Example",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/rxwEVQ?editors=001"
+        },
+        {
+          "date_added": "13347845383219088",
+          "date_last_used": "0",
+          "guid": "89961480-4c94-4b9d-baab-f4578deb3b4c",
+          "id": "1342",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Recursion Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/QyMjNa?editors=001"
+        },
+        {
+          "date_added": "13347845504763833",
+          "date_last_used": "13347968749100764",
+          "guid": "e5310331-f351-4f01-b30c-837e6f3e7ca0",
+          "id": "1343",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Recursion Exercise Answer",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/obwrOB?editors=001"
+        },
+        {
+          "date_added": "13347968563370297",
+          "date_last_used": "13348004888967329",
+          "guid": "d503c627-1875-4dd3-9d0e-b85c27f0d6fa",
+          "id": "1345",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Bubble Sort Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/PZKPjj?editors=001"
+        },
+        {
+          "date_added": "13347968567614521",
+          "date_last_used": "13348174728481557",
+          "guid": "3d7ab3cd-ef6d-48a0-96db-63d5cd21b03e",
+          "id": "1346",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Bubble Sort",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/KdYPqa?editors=001"
+        },
+        {
+          "date_added": "13347970776281300",
+          "date_last_used": "0",
+          "guid": "0014105f-547a-4273-848c-ac34c5e7cb02",
+          "id": "1347",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Insertion Sort Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/mVMMxj?editors=001"
+        },
+        {
+          "date_added": "13347970780583039",
+          "date_last_used": "13348174770312191",
+          "guid": "26d8d0a0-ea20-4e4a-b561-cf120c9f0a83",
+          "id": "1348",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Insertion Sort",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/meYQPd?editors=001"
+        },
+        {
+          "date_added": "13348005234624650",
+          "date_last_used": "0",
+          "guid": "ce447e2d-e403-47e1-aff5-9c8bed958a1c",
+          "id": "1349",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell",
+          "type": "url",
+          "url": "https://www.bigocheatsheet.com/"
+        },
+        {
+          "date_added": "13348006364342214",
+          "date_last_used": "0",
+          "guid": "b76571d3-3d5f-4895-b6fd-144e362800f0",
+          "id": "1350",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Merge Sort Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/PZKgQd?editors=001"
+        },
+        {
+          "date_added": "13348006367939914",
+          "date_last_used": "13348174843522214",
+          "guid": "25b9591b-ed4b-4dd9-92b5-06ed46e51533",
+          "id": "1351",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Merge Sort",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/rOEdKK?editors=001"
+        },
+        {
+          "date_added": "13348174697083395",
+          "date_last_used": "0",
+          "guid": "deff7a36-426c-4ea0-9693-1365e703cd41",
+          "id": "1352",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Quicksort Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/pgWVQM?editors=001"
+        },
+        {
+          "date_added": "13348174702547332",
+          "date_last_used": "0",
+          "guid": "9e7cf713-f7a0-47f7-b239-faa43d3f6f43",
+          "id": "1353",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Quicksort",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/bEoGxa?editors=001"
+        },
+        {
+          "date_added": "13348223871428416",
+          "date_last_used": "0",
+          "guid": "cc31e38c-db15-442d-8c5c-b26d44d693ab",
+          "id": "1354",
+          "name": "2ality – JavaScript and more",
+          "type": "url",
+          "url": "https://2ality.com/"
+        },
+        {
+          "date_added": "13348250213117671",
+          "date_last_used": "0",
+          "guid": "a97d3957-747f-4aa1-abf1-cb314e311cf8",
+          "id": "1355",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Data Structures: Array List Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/adLxyv?editors=001"
+        },
+        {
+          "date_added": "13348250214704853",
+          "date_last_used": "0",
+          "guid": "ddd6277c-8a0e-43b6-b002-4f3d8c5fa0c0",
+          "id": "1356",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Data Structures: Array List",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/dGOaXX?editors=001"
+        },
+        {
+          "date_added": "13348311293406682",
+          "date_last_used": "0",
+          "guid": "74ad938d-743d-4019-a25d-980ee2acc4dd",
+          "id": "1357",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algorithms: Linked List Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/adLxEd?editors=001"
+        },
+        {
+          "date_added": "13348311296328469",
+          "date_last_used": "13348335123407945",
+          "guid": "98ab33d2-c03a-4588-8594-f0dc91fab825",
+          "id": "1358",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algorithms: Linked List",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/eJBBEY?editors=001"
+        },
+        {
+          "date_added": "13348336632711479",
+          "date_last_used": "0",
+          "guid": "03afc2b8-30a6-434f-89b6-1eabd8b94366",
+          "id": "1359",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Data Structure: Binary Tree Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/yePXzP?editors=001"
+        },
+        {
+          "date_added": "13348336636600977",
+          "date_last_used": "13355948267145926",
+          "guid": "e30aca9a-decf-4068-b57c-82f5159d683a",
+          "id": "1360",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Data Structure: Binary Tree",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/EPPWmy?editors=001"
+        },
+        {
+          "date_added": "13355952708342805",
+          "date_last_used": "0",
+          "guid": "d38b0eab-4a97-474b-8f84-a345a77923b1",
+          "id": "1393",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Data Structure: AVL Tree Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/qbVvJw?editors=001"
+        },
+        {
+          "date_added": "13355952726112434",
+          "date_last_used": "13356728510510021",
+          "guid": "f3d2a362-48d4-490b-ad31-028c08e8a714",
+          "id": "1394",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Data Structure: AVL Tree",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/rxLOOp?editors=001"
+        },
+        {
+          "date_added": "13356730711654338",
+          "date_last_used": "0",
+          "guid": "3ab99453-3970-4122-b2df-bb68132e1ae4",
+          "id": "1396",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Hash Table Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/gPeayV?editors=001"
+        },
+        {
+          "date_added": "13356730715665835",
+          "date_last_used": "0",
+          "guid": "9772af8a-1bed-4e15-b7c7-65fa5001ed01",
+          "id": "1397",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Visualized Algo: Hash Table",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/NxXLJz?editors=001"
+        },
+        {
+          "date_added": "13356732965324661",
+          "date_last_used": "0",
+          "guid": "dc41b50d-1d2f-4c31-9376-e39275c171dc",
+          "id": "1398",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Map Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/QyQxVP?editors=0010"
+        },
+        {
+          "date_added": "13356732968068413",
+          "date_last_used": "0",
+          "guid": "d0957994-608e-4b91-9c39-5d42a07550b1",
+          "id": "1399",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Map",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/Ywevex?editors=0010"
+        },
+        {
+          "date_added": "13356733161831225",
+          "date_last_used": "0",
+          "guid": "cb90e281-d308-44cc-840f-ee2cbc55571c",
+          "id": "1400",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Reduce Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/VeQVVq?editors=0010"
+        },
+        {
+          "date_added": "13356733163698317",
+          "date_last_used": "0",
+          "guid": "0ff78a06-0628-4593-8a36-4989770bbe13",
+          "id": "1401",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Reduce",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/GoQwBa?editors=0010"
+        },
+        {
+          "date_added": "13356733309076503",
+          "date_last_used": "0",
+          "guid": "ee972885-8164-47bd-9aef-bc42517e00b0",
+          "id": "1402",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Filter Exercise",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/mVxezo?editors=0010"
+        },
+        {
+          "date_added": "13356733311063212",
+          "date_last_used": "0",
+          "guid": "0ee67349-f7df-4a92-86a3-4ec0b6e20c2b",
+          "id": "1403",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "FP101: Filter",
+          "type": "url",
+          "url": "https://codepen.io/btholt/pen/KVQLgr?editors=0010"
+        }
+      ]
+    },
+    {
       "date_added": "13329404906447491",
       "date_last_used": "0",
       "date_modified": "13329404906447491",
       "guid": "761f60c4-a38b-4c6b-a8fe-5f89df5d6309",
       "id": "299",
-      "name": "✅ Advanced Vue.js Features from the Ground Up",
+      "name": "Advanced Vue.js Features from the Ground Up",
       "type": "folder",
       "children": [
         {
@@ -159,7 +539,7 @@
       "date_modified": "13329404906448299",
       "guid": "3d3c9645-4828-45b1-872b-d11a940f49fc",
       "id": "315",
-      "name": "✅ Complete Intro to Linux and the Command-Line",
+      "name": "Complete Intro to Linux and the Command-Line",
       "type": "folder",
       "children": [
         {
@@ -494,7 +874,7 @@
       "date_modified": "13329404906450598",
       "guid": "24d054ae-456e-4ac8-a0cb-feddde9dfb63",
       "id": "352",
-      "name": "✅ Complete Intro to Web Development, v2",
+      "name": "Complete Intro to Web Development, v2",
       "type": "folder",
       "children": [
         {
@@ -1360,7 +1740,7 @@
       "date_modified": "13329404906455453",
       "guid": "d65132db-8ca2-4b41-ab66-f2acf7b2d376",
       "id": "448",
-      "name": "✅ Deep JavaScript Foundations, v3",
+      "name": "Deep JavaScript Foundations, v3",
       "type": "folder",
       "children": [
         {
@@ -1659,7 +2039,7 @@
       "date_modified": "13329404906457137",
       "guid": "4f6be496-43e3-4dbc-95c3-3d43e634809a",
       "id": "481",
-      "name": "✅ Getting Started with JavaScript, v2",
+      "name": "Getting Started with JavaScript, v2",
       "type": "folder",
       "children": [
         {
@@ -1877,7 +2257,7 @@
       "date_modified": "13329404906458335",
       "guid": "ba609390-41cf-4498-8b40-368cc4ef0807",
       "id": "505",
-      "name": "✅ Introduction to Bash, VIM & Regex",
+      "name": "Introduction to Bash, VIM & Regex",
       "type": "folder",
       "children": [
         {
@@ -1960,7 +2340,7 @@
       "date_modified": "13329404906458761",
       "guid": "88ef7f98-bff9-40c5-a2e3-df644b00a4b5",
       "id": "514",
-      "name": "✅ Introduction to Vue 3",
+      "name": "Introduction to Vue 3",
       "type": "folder",
       "children": [
         {
@@ -2650,12 +3030,194 @@
       ]
     },
     {
+      "date_added": "13329404906468831",
+      "date_last_used": "0",
+      "date_modified": "13329404906468831",
+      "guid": "e79b10c8-20e3-45f8-aa0e-f5298a4a0227",
+      "id": "717",
+      "name": "JavaScript Testing Practices and Principles",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "107ee293-c573-4293-b1d5-e3e0b63d1e4b",
+          "id": "718",
+          "name": "FrontendMasters/testing-workshop: A workshop for learning how to test JavaScript applications",
+          "type": "url",
+          "url": "https://github.com/FrontendMasters/testing-workshop"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "d33e15e8-4b93-4c0a-a987-71ea13da5d04",
+          "id": "719",
+          "name": "Testing Practices and Principles",
+          "type": "url",
+          "url": "https://slides.com/kentcdodds/testing-principles"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "aca2eeb6-93de-43d1-ad23-7329453488a4",
+          "id": "720",
+          "name": "JavaScript Learning Path – Write Professional, Modern JavaScript",
+          "type": "url",
+          "url": "https://frontendmasters.com/learn/javascript/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "f1917ed4-2681-4973-bc8d-4272487d0fc8",
+          "id": "721",
+          "name": "kentcdodds/ama: Ask me anything!",
+          "type": "url",
+          "url": "https://github.com/kentcdodds/ama"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "22e15078-bdef-41ee-8b35-9bbef5241cdc",
+          "id": "722",
+          "name": "Kent C. Dodds 💿 (@kentcdodds) / Twitter",
+          "type": "url",
+          "url": "https://twitter.com/kentcdodds"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "9b3fe3c1-b47b-44da-8e76-6ba73ac8653e",
+          "id": "723",
+          "name": "Testing Practices and Principles",
+          "type": "url",
+          "url": "https://slides.com/kentcdodds/testing-principles#/5"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "af3dfca7-0823-48be-acb6-d36628a6740a",
+          "id": "724",
+          "name": "Learn TypeScript to add strong typing to make your JavaScript apps",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/typescript/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "0ab8093b-2ec5-4957-8acc-c23b6b522e9d",
+          "id": "725",
+          "name": "Flow: A Static Type Checker for JavaScript",
+          "type": "url",
+          "url": "https://flow.org/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "650bc6f8-20be-4988-ab97-40f04806dfaf",
+          "id": "726",
+          "name": "ESLint - Pluggable JavaScript linter",
+          "type": "url",
+          "url": "https://eslint.org/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "dabed50a-bf93-4e9b-bf14-af1c71ef30bb",
+          "id": "727",
+          "name": "Learn to Test React Applications with Jest, react-testing-library and Cypress",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/testing-react/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "fd2f1757-4c1e-4e98-a40f-9886ebd644f3",
+          "id": "728",
+          "name": "Testing Practices and Principles",
+          "type": "url",
+          "url": "https://slides.com/kentcdodds/testing-principles#/6"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "45310916-f62b-490b-a499-2df0faa8532e",
+          "id": "729",
+          "name": "But really, what is a JavaScript test?",
+          "type": "url",
+          "url": "https://kentcdodds.com/blog/but-really-what-is-a-javascript-test"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "3bf383b1-6d1e-4c01-9d5f-05603d228766",
+          "id": "730",
+          "name": "Jest · 🃏 Delightful JavaScript Testing",
+          "type": "url",
+          "url": "https://jestjs.io/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "c55d1024-16fb-476a-82ec-fb02899bc33b",
+          "id": "731",
+          "name": "Expect · Jest",
+          "type": "url",
+          "url": "https://jestjs.io/docs/expect"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "794fcbe1-01d3-4063-a22f-461dd43a04e6",
+          "id": "732",
+          "name": "Expect · Jest",
+          "type": "url",
+          "url": "https://jestjs.io/docs/expect#expectassertionsnumber"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "356ed880-7374-4b4f-b716-d0c8f6f9c453",
+          "id": "733",
+          "name": "atlassian/jest-in-case: Jest utility for creating variations of the same test",
+          "type": "url",
+          "url": "https://github.com/atlassian/jest-in-case"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "183c233c-b727-4576-b1ca-e20852966595",
+          "id": "734",
+          "name": "kentcdodds/rtl-css-js: RTL for CSS in JS",
+          "type": "url",
+          "url": "https://github.com/kentcdodds/rtl-css-js"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "e43f7229-f7a9-41f1-893a-a9a8c8ec3cc3",
+          "id": "735",
+          "name": "Colocation",
+          "type": "url",
+          "url": "https://kentcdodds.com/blog/colocation"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "698414ed-b9dd-4b0b-a48e-e30d938f7862",
+          "id": "736",
+          "name": "Istanbul, a JavaScript test coverage tool.",
+          "type": "url",
+          "url": "https://istanbul.js.org/"
+        }
+      ]
+    },
+    {
       "date_added": "13329404906462744",
       "date_last_used": "0",
       "date_modified": "13329404906462744",
       "guid": "28999267-7153-4d91-aee2-9564f97be626",
       "id": "591",
-      "name": "✅ JavaScript: From Fundamentals to Functional JS, v2",
+      "name": "JavaScript: From Fundamentals to Functional JS, v2",
       "type": "folder",
       "children": [
         {
@@ -2684,7 +3246,7 @@
       "date_modified": "13329404906462874",
       "guid": "ad674e35-21f9-4c77-a097-364abef4d1a9",
       "id": "594",
-      "name": "✅ JavaScript: The Hard Parts, v2",
+      "name": "JavaScript: The Hard Parts, v2",
       "type": "folder",
       "children": [
         {
@@ -2839,7 +3401,7 @@
       "date_modified": "13329404906463728",
       "guid": "cbe1c306-6ec3-4cc9-b707-ba64c7261742",
       "id": "611",
-      "name": "✅ JavaScript: The Recent Parts",
+      "name": "JavaScript: The Recent Parts",
       "type": "folder",
       "children": [
         {
@@ -3102,7 +3664,7 @@
       "date_modified": "13329404906465129",
       "guid": "4ded6cc1-97e3-41c4-89cf-b9ca38672705",
       "id": "640",
-      "name": "✅ Python Fundamentals",
+      "name": "Python Fundamentals",
       "type": "folder",
       "children": [
         {
@@ -3252,331 +3814,12 @@
       ]
     },
     {
-      "date_added": "13329404906465949",
-      "date_last_used": "0",
-      "date_modified": "13329404906465949",
-      "guid": "a2b9b1dd-7063-4d62-87c8-24abf3f3633a",
-      "id": "657",
-      "name": "✅ VIM Fundamentals",
-      "type": "folder",
-      "children": [
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "dd2df991-1085-43f2-b3da-60d1bb8a2752",
-          "id": "658",
-          "name": "Vim Fundamentals",
-          "type": "url",
-          "url": "https://theprimeagen.github.io/vim-fundamentals/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "0a265277-e606-41ac-acd5-689daaecc0e0",
-          "id": "659",
-          "name": "ThePrimeagen - YouTube",
-          "type": "url",
-          "url": "https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "15cad9bf-385c-4545-837e-3afe9db35f7f",
-          "id": "660",
-          "name": "ThePrimeagen - Twitch",
-          "type": "url",
-          "url": "https://www.twitch.tv/theprimeagen?ab_channel=theprimeagen"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "f4a8477f-5a64-4960-a3b1-a72105abc91b",
-          "id": "661",
-          "name": "Home | SpaceVim",
-          "type": "url",
-          "url": "https://spacevim.org/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "2332a63c-373b-46f4-b97c-37dd25175442",
-          "id": "662",
-          "name": "Onivim 2 - Modal Editing from the Future",
-          "type": "url",
-          "url": "https://onivim.io/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "6d71ab2b-db5b-437b-b374-7de2489764ee",
-          "id": "663",
-          "name": "VIM Adventures",
-          "type": "url",
-          "url": "https://vim-adventures.com/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "6bdb95b0-f5ee-4684-abc8-c6bfbe9667fb",
-          "id": "664",
-          "name": "What is a File Format? - YouTube",
-          "type": "url",
-          "url": "https://www.youtube.com/watch?v=VVdmmN0su6E"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "1230beb4-75bb-4493-9a63-d8d32d225ec1",
-          "id": "665",
-          "name": "ThePrimeagen/vim-fundamentals: a gatsby starter project to help you create educational materials",
-          "type": "url",
-          "url": "https://github.com/ThePrimeagen/vim-fundamentals"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "044b9131-050b-45f1-b0dc-b0084d36a97b",
-          "id": "666",
-          "name": "vim-fundamentals/exercise-0-hjkl-x.md at master · ThePrimeagen/vim-fundamentals",
-          "type": "url",
-          "url": "https://github.com/ThePrimeagen/vim-fundamentals/blob/master/lessons/exercise-0-hjkl-x.md"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "1b549486-f8c0-4ddb-970e-c5299bf31ed5",
-          "id": "667",
-          "name": "nvim-telescope/telescope.nvim: Find, Filter, Preview, Pick. All lua, all the time.",
-          "type": "url",
-          "url": "https://github.com/nvim-telescope/telescope.nvim"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "44e166ad-d0c6-41df-9a10-32cca441bcf8",
-          "id": "668",
-          "name": "junegunn/vim-plug: Minimalist Vim Plugin Manager",
-          "type": "url",
-          "url": "https://github.com/junegunn/vim-plug"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "16095981-b197-46c6-9f7d-0d8c1e43d2bb",
-          "id": "669",
-          "name": "junegunn/fzf.vim: fzf vim",
-          "type": "url",
-          "url": "https://github.com/junegunn/fzf.vim"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "0b9e4f68-b532-4e1e-83de-d04c79e24d08",
-          "id": "670",
-          "name": "ayu-theme/ayu-vim: Modern theme for modern VIMs",
-          "type": "url",
-          "url": "https://github.com/ayu-theme/ayu-vim"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "b1662c11-e4b6-49fe-9994-563a55077ddd",
-          "id": "671",
-          "name": "BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-          "type": "url",
-          "url": "https://github.com/BurntSushi/ripgrep"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "e71dae33-d99b-473b-9eb4-6265ebcba1b3",
-          "id": "672",
-          "name": "Welcome to Regex Licensing! :: Regex Licensing",
-          "type": "url",
-          "url": "https://regexlicensing.org/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "44c8cf18-ffe4-442e-95b3-7bb42d2819e1",
-          "id": "673",
-          "name": "tpope (Tim Pope)",
-          "type": "url",
-          "url": "https://github.com/tpope"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "dd480ad7-76cb-4fd0-9376-d15e8334d770",
-          "id": "674",
-          "name": "Vimways ~ Writing a Vim Plugin",
-          "type": "url",
-          "url": "https://vimways.org/2019/writing-vim-plugin/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "337fcb6e-c7e1-425c-922b-3e3149e5d4a8",
-          "id": "675",
-          "name": "tpope/vim-fugitive: fugitive.vim: A Git wrapper so awesome, it should be illegal",
-          "type": "url",
-          "url": "https://github.com/tpope/vim-fugitive"
-        }
-      ]
-    },
-    {
-      "date_added": "13329404906466819",
-      "date_last_used": "0",
-      "date_modified": "13329404906466819",
-      "guid": "5c167447-52b1-4994-8947-0d3121a8f910",
-      "id": "676",
-      "name": "✅ Visual Studio Code Can Do That?",
-      "type": "folder",
-      "children": [
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "79c92795-8208-4cc7-9678-586014c2850f",
-          "id": "677",
-          "name": "burkeholland/workshop-vs-code-can-do-that: The VS Code Can Do That workshop for Frontend Masters",
-          "type": "url",
-          "url": "https://github.com/burkeholland/workshop-vs-code-can-do-that"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "1a7c9798-e01d-4505-a29a-48a0c16a18f9",
-          "id": "678",
-          "name": "Git",
-          "type": "url",
-          "url": "https://git-scm.com/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "abb88bc4-8133-41d0-84f6-84a757a22f1a",
-          "id": "679",
-          "name": "Node.js",
-          "type": "url",
-          "url": "https://nodejs.org/en/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "3b8beceb-4e85-46ad-8396-79c3e882d662",
-          "id": "680",
-          "name": "About Docker Engine - Community | Docker Documentation",
-          "type": "url",
-          "url": "https://docs.docker.com/install/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "b241f2c7-dad7-402e-b3a0-662a6841784c",
-          "id": "681",
-          "name": "VS Code Can Do That - Visual Studio Marketplace",
-          "type": "url",
-          "url": "https://marketplace.visualstudio.com/items?itemName=burkeholland.vs-code-can-do-that"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "3bff9a23-bab8-43be-afb1-fdd81bbf2fda",
-          "id": "682",
-          "name": "#FiveThings About Create React App - YouTube",
-          "type": "url",
-          "url": "https://www.youtube.com/watch?v=9t2GWFegnkQ"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "3b5b51f5-6914-4bbe-9560-e7df29bc4395",
-          "id": "683",
-          "name": "VS Code Can Do That Workshop - VS Code Can Do That - Workshop",
-          "type": "url",
-          "url": "https://burkeholland.gitbook.io/vs-code-can-do-that/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "188910fe-e439-4f4f-b431-6738f05f1b21",
-          "id": "684",
-          "name": "tonsky/FiraCode: Free monospaced font with programming ligatures",
-          "type": "url",
-          "url": "https://github.com/tonsky/FiraCode"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "a7754ec4-20f9-43c1-96b9-14d679e99e0b",
-          "id": "685",
-          "name": "Bulma: Free, open source, and modern CSS framework based on Flexbox",
-          "type": "url",
-          "url": "https://bulma.io/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "50901493-d277-45cf-896d-b228d2255201",
-          "id": "686",
-          "name": "Node.js app hosting &amp; deployment | Microsoft Azure",
-          "type": "url",
-          "url": "https://azure.microsoft.com/en-gb/develop/nodejs/?WT.mc_id=frontendmasters-workshop-buhollan"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "960c54f6-cdd2-4b54-8afd-5280ef087d39",
-          "id": "687",
-          "name": "Visual Studio Code Azure Extensions",
-          "type": "url",
-          "url": "https://code.visualstudio.com/docs/azure/extensions?WT.mc_id=frontendmasters-workshop-buhollan"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "29dd54cd-87d7-457a-9157-544c3aa1fec1",
-          "id": "688",
-          "name": "Please, everyone, put your entire development environment in Github",
-          "type": "url",
-          "url": "https://www.freecodecamp.org/news/put-your-dev-env-in-github/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "ff7a4ea6-8082-4997-81d7-8dd6fe9aa75a",
-          "id": "689",
-          "name": "burkeholland/i-love-lamp: Project for Git exercise",
-          "type": "url",
-          "url": "https://github.com/burkeholland/i-love-lamp"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "e64eab72-d1a1-4991-b858-9fb1a75c189d",
-          "id": "690",
-          "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
-          "type": "url",
-          "url": "https://frontendmasters.com/courses/git-in-depth/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "b5c4e4e6-3317-4bf4-97f4-55d2cb95c0bf",
-          "id": "691",
-          "name": "GitLens — Git supercharged - Visual Studio Marketplace",
-          "type": "url",
-          "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
-        }
-      ]
-    },
-    {
       "date_added": "13329404906467589",
       "date_last_used": "0",
       "date_modified": "13329404906467589",
       "guid": "11e76fe0-993e-4e55-9436-b0e29162d7aa",
       "id": "692",
-      "name": "❌ State Management in Pure React, v2",
+      "name": "State Management in Pure React, v2",
       "type": "folder",
       "children": [
         {
@@ -3798,564 +4041,321 @@
       ]
     },
     {
-      "date_added": "13347842711691810",
+      "date_added": "13329404906465949",
       "date_last_used": "0",
-      "date_modified": "13374513571564004",
-      "guid": "a453d2ac-201e-4cb7-bac5-949950d4a3f8",
-      "id": "1340",
-      "name": "💡 Four Semesters of Computer Science in 5 Hours",
+      "date_modified": "13329404906465949",
+      "guid": "a2b9b1dd-7063-4d62-87c8-24abf3f3633a",
+      "id": "657",
+      "name": "VIM Fundamentals",
       "type": "folder",
       "children": [
         {
-          "date_added": "13347842862299204",
-          "date_last_used": "13347845255987811",
-          "guid": "9fb52d22-0272-46e3-985c-b26c39b70fe6",
-          "id": "1341",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Four Semesters of Computer Science in Six Hours",
-          "type": "url",
-          "url": "https://btholt.github.io/four-semesters-of-cs/"
-        },
-        {
-          "date_added": "13374513549014721",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "c5fa65f5-ff99-4395-b764-1b8dcd744272",
-          "id": "1504",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "btholt/four-semesters-of-cs",
+          "guid": "dd2df991-1085-43f2-b3da-60d1bb8a2752",
+          "id": "658",
+          "name": "Vim Fundamentals",
           "type": "url",
-          "url": "https://github.com/btholt/four-semesters-of-cs"
+          "url": "https://theprimeagen.github.io/vim-fundamentals/"
         },
         {
-          "date_added": "13347967789430688",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "c0fb6f5f-b6d0-47f1-a967-866aa494988c",
-          "id": "1344",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Recursion Example",
+          "guid": "0a265277-e606-41ac-acd5-689daaecc0e0",
+          "id": "659",
+          "name": "ThePrimeagen - YouTube",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/rxwEVQ?editors=001"
+          "url": "https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw"
         },
         {
-          "date_added": "13347845383219088",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "89961480-4c94-4b9d-baab-f4578deb3b4c",
-          "id": "1342",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Recursion Exercise",
+          "guid": "15cad9bf-385c-4545-837e-3afe9db35f7f",
+          "id": "660",
+          "name": "ThePrimeagen - Twitch",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/QyMjNa?editors=001"
+          "url": "https://www.twitch.tv/theprimeagen?ab_channel=theprimeagen"
         },
         {
-          "date_added": "13347845504763833",
-          "date_last_used": "13347968749100764",
-          "guid": "e5310331-f351-4f01-b30c-837e6f3e7ca0",
-          "id": "1343",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Recursion Exercise Answer",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/obwrOB?editors=001"
-        },
-        {
-          "date_added": "13347968563370297",
-          "date_last_used": "13348004888967329",
-          "guid": "d503c627-1875-4dd3-9d0e-b85c27f0d6fa",
-          "id": "1345",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Bubble Sort Exercise",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/PZKPjj?editors=001"
-        },
-        {
-          "date_added": "13347968567614521",
-          "date_last_used": "13348174728481557",
-          "guid": "3d7ab3cd-ef6d-48a0-96db-63d5cd21b03e",
-          "id": "1346",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Bubble Sort",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/KdYPqa?editors=001"
-        },
-        {
-          "date_added": "13347970776281300",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "0014105f-547a-4273-848c-ac34c5e7cb02",
-          "id": "1347",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Insertion Sort Exercise",
+          "guid": "f4a8477f-5a64-4960-a3b1-a72105abc91b",
+          "id": "661",
+          "name": "Home | SpaceVim",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/mVMMxj?editors=001"
+          "url": "https://spacevim.org/"
         },
         {
-          "date_added": "13347970780583039",
-          "date_last_used": "13348174770312191",
-          "guid": "26d8d0a0-ea20-4e4a-b561-cf120c9f0a83",
-          "id": "1348",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Insertion Sort",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/meYQPd?editors=001"
-        },
-        {
-          "date_added": "13348005234624650",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "ce447e2d-e403-47e1-aff5-9c8bed958a1c",
-          "id": "1349",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell",
+          "guid": "2332a63c-373b-46f4-b97c-37dd25175442",
+          "id": "662",
+          "name": "Onivim 2 - Modal Editing from the Future",
           "type": "url",
-          "url": "https://www.bigocheatsheet.com/"
+          "url": "https://onivim.io/"
         },
         {
-          "date_added": "13348006364342214",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "b76571d3-3d5f-4895-b6fd-144e362800f0",
-          "id": "1350",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Merge Sort Exercise",
+          "guid": "6d71ab2b-db5b-437b-b374-7de2489764ee",
+          "id": "663",
+          "name": "VIM Adventures",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/PZKgQd?editors=001"
+          "url": "https://vim-adventures.com/"
         },
         {
-          "date_added": "13348006367939914",
-          "date_last_used": "13348174843522214",
-          "guid": "25b9591b-ed4b-4dd9-92b5-06ed46e51533",
-          "id": "1351",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Merge Sort",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/rOEdKK?editors=001"
-        },
-        {
-          "date_added": "13348174697083395",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "deff7a36-426c-4ea0-9693-1365e703cd41",
-          "id": "1352",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Quicksort Exercise",
+          "guid": "6bdb95b0-f5ee-4684-abc8-c6bfbe9667fb",
+          "id": "664",
+          "name": "What is a File Format? - YouTube",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/pgWVQM?editors=001"
+          "url": "https://www.youtube.com/watch?v=VVdmmN0su6E"
         },
         {
-          "date_added": "13348174702547332",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "9e7cf713-f7a0-47f7-b239-faa43d3f6f43",
-          "id": "1353",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Quicksort",
+          "guid": "1230beb4-75bb-4493-9a63-d8d32d225ec1",
+          "id": "665",
+          "name": "ThePrimeagen/vim-fundamentals: a gatsby starter project to help you create educational materials",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/bEoGxa?editors=001"
+          "url": "https://github.com/ThePrimeagen/vim-fundamentals"
         },
         {
-          "date_added": "13348223871428416",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "cc31e38c-db15-442d-8c5c-b26d44d693ab",
-          "id": "1354",
-          "name": "2ality – JavaScript and more",
+          "guid": "044b9131-050b-45f1-b0dc-b0084d36a97b",
+          "id": "666",
+          "name": "vim-fundamentals/exercise-0-hjkl-x.md at master · ThePrimeagen/vim-fundamentals",
           "type": "url",
-          "url": "https://2ality.com/"
+          "url": "https://github.com/ThePrimeagen/vim-fundamentals/blob/master/lessons/exercise-0-hjkl-x.md"
         },
         {
-          "date_added": "13348250213117671",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "a97d3957-747f-4aa1-abf1-cb314e311cf8",
-          "id": "1355",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Data Structures: Array List Exercise",
+          "guid": "1b549486-f8c0-4ddb-970e-c5299bf31ed5",
+          "id": "667",
+          "name": "nvim-telescope/telescope.nvim: Find, Filter, Preview, Pick. All lua, all the time.",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/adLxyv?editors=001"
+          "url": "https://github.com/nvim-telescope/telescope.nvim"
         },
         {
-          "date_added": "13348250214704853",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "ddd6277c-8a0e-43b6-b002-4f3d8c5fa0c0",
-          "id": "1356",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Data Structures: Array List",
+          "guid": "44e166ad-d0c6-41df-9a10-32cca441bcf8",
+          "id": "668",
+          "name": "junegunn/vim-plug: Minimalist Vim Plugin Manager",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/dGOaXX?editors=001"
+          "url": "https://github.com/junegunn/vim-plug"
         },
         {
-          "date_added": "13348311293406682",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "74ad938d-743d-4019-a25d-980ee2acc4dd",
-          "id": "1357",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algorithms: Linked List Exercise",
+          "guid": "16095981-b197-46c6-9f7d-0d8c1e43d2bb",
+          "id": "669",
+          "name": "junegunn/fzf.vim: fzf vim",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/adLxEd?editors=001"
+          "url": "https://github.com/junegunn/fzf.vim"
         },
         {
-          "date_added": "13348311296328469",
-          "date_last_used": "13348335123407945",
-          "guid": "98ab33d2-c03a-4588-8594-f0dc91fab825",
-          "id": "1358",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algorithms: Linked List",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/eJBBEY?editors=001"
-        },
-        {
-          "date_added": "13348336632711479",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "03afc2b8-30a6-434f-89b6-1eabd8b94366",
-          "id": "1359",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Data Structure: Binary Tree Exercise",
+          "guid": "0b9e4f68-b532-4e1e-83de-d04c79e24d08",
+          "id": "670",
+          "name": "ayu-theme/ayu-vim: Modern theme for modern VIMs",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/yePXzP?editors=001"
+          "url": "https://github.com/ayu-theme/ayu-vim"
         },
         {
-          "date_added": "13348336636600977",
-          "date_last_used": "13355948267145926",
-          "guid": "e30aca9a-decf-4068-b57c-82f5159d683a",
-          "id": "1360",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Data Structure: Binary Tree",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/EPPWmy?editors=001"
-        },
-        {
-          "date_added": "13355952708342805",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "d38b0eab-4a97-474b-8f84-a345a77923b1",
-          "id": "1393",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Data Structure: AVL Tree Exercise",
+          "guid": "b1662c11-e4b6-49fe-9994-563a55077ddd",
+          "id": "671",
+          "name": "BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/qbVvJw?editors=001"
+          "url": "https://github.com/BurntSushi/ripgrep"
         },
         {
-          "date_added": "13355952726112434",
-          "date_last_used": "13356728510510021",
-          "guid": "f3d2a362-48d4-490b-ad31-028c08e8a714",
-          "id": "1394",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Data Structure: AVL Tree",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/rxLOOp?editors=001"
-        },
-        {
-          "date_added": "13356730711654338",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "3ab99453-3970-4122-b2df-bb68132e1ae4",
-          "id": "1396",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Hash Table Exercise",
+          "guid": "e71dae33-d99b-473b-9eb4-6265ebcba1b3",
+          "id": "672",
+          "name": "Welcome to Regex Licensing! :: Regex Licensing",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/gPeayV?editors=001"
+          "url": "https://regexlicensing.org/"
         },
         {
-          "date_added": "13356730715665835",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "9772af8a-1bed-4e15-b7c7-65fa5001ed01",
-          "id": "1397",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Visualized Algo: Hash Table",
+          "guid": "44c8cf18-ffe4-442e-95b3-7bb42d2819e1",
+          "id": "673",
+          "name": "tpope (Tim Pope)",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/NxXLJz?editors=001"
+          "url": "https://github.com/tpope"
         },
         {
-          "date_added": "13356732965324661",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "dc41b50d-1d2f-4c31-9376-e39275c171dc",
-          "id": "1398",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "FP101: Map Exercise",
+          "guid": "dd480ad7-76cb-4fd0-9376-d15e8334d770",
+          "id": "674",
+          "name": "Vimways ~ Writing a Vim Plugin",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/QyQxVP?editors=0010"
+          "url": "https://vimways.org/2019/writing-vim-plugin/"
         },
         {
-          "date_added": "13356732968068413",
+          "date_added": "0",
           "date_last_used": "0",
-          "guid": "d0957994-608e-4b91-9c39-5d42a07550b1",
-          "id": "1399",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "FP101: Map",
+          "guid": "337fcb6e-c7e1-425c-922b-3e3149e5d4a8",
+          "id": "675",
+          "name": "tpope/vim-fugitive: fugitive.vim: A Git wrapper so awesome, it should be illegal",
           "type": "url",
-          "url": "https://codepen.io/btholt/pen/Ywevex?editors=0010"
-        },
-        {
-          "date_added": "13356733161831225",
-          "date_last_used": "0",
-          "guid": "cb90e281-d308-44cc-840f-ee2cbc55571c",
-          "id": "1400",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "FP101: Reduce Exercise",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/VeQVVq?editors=0010"
-        },
-        {
-          "date_added": "13356733163698317",
-          "date_last_used": "0",
-          "guid": "0ff78a06-0628-4593-8a36-4989770bbe13",
-          "id": "1401",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "FP101: Reduce",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/GoQwBa?editors=0010"
-        },
-        {
-          "date_added": "13356733309076503",
-          "date_last_used": "0",
-          "guid": "ee972885-8164-47bd-9aef-bc42517e00b0",
-          "id": "1402",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "FP101: Filter Exercise",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/mVxezo?editors=0010"
-        },
-        {
-          "date_added": "13356733311063212",
-          "date_last_used": "0",
-          "guid": "0ee67349-f7df-4a92-86a3-4ec0b6e20c2b",
-          "id": "1403",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "FP101: Filter",
-          "type": "url",
-          "url": "https://codepen.io/btholt/pen/KVQLgr?editors=0010"
+          "url": "https://github.com/tpope/vim-fugitive"
         }
       ]
     },
     {
-      "date_added": "13329404906468831",
+      "date_added": "13329404906466819",
       "date_last_used": "0",
-      "date_modified": "13329404906468831",
-      "guid": "e79b10c8-20e3-45f8-aa0e-f5298a4a0227",
-      "id": "717",
-      "name": "💡 JavaScript Testing Practices and Principles",
+      "date_modified": "13329404906466819",
+      "guid": "5c167447-52b1-4994-8947-0d3121a8f910",
+      "id": "676",
+      "name": "Visual Studio Code Can Do That?",
       "type": "folder",
       "children": [
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "107ee293-c573-4293-b1d5-e3e0b63d1e4b",
-          "id": "718",
-          "name": "FrontendMasters/testing-workshop: A workshop for learning how to test JavaScript applications",
+          "guid": "79c92795-8208-4cc7-9678-586014c2850f",
+          "id": "677",
+          "name": "burkeholland/workshop-vs-code-can-do-that: The VS Code Can Do That workshop for Frontend Masters",
           "type": "url",
-          "url": "https://github.com/FrontendMasters/testing-workshop"
+          "url": "https://github.com/burkeholland/workshop-vs-code-can-do-that"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "d33e15e8-4b93-4c0a-a987-71ea13da5d04",
-          "id": "719",
-          "name": "Testing Practices and Principles",
+          "guid": "1a7c9798-e01d-4505-a29a-48a0c16a18f9",
+          "id": "678",
+          "name": "Git",
           "type": "url",
-          "url": "https://slides.com/kentcdodds/testing-principles"
+          "url": "https://git-scm.com/"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "aca2eeb6-93de-43d1-ad23-7329453488a4",
-          "id": "720",
-          "name": "JavaScript Learning Path – Write Professional, Modern JavaScript",
+          "guid": "abb88bc4-8133-41d0-84f6-84a757a22f1a",
+          "id": "679",
+          "name": "Node.js",
           "type": "url",
-          "url": "https://frontendmasters.com/learn/javascript/"
+          "url": "https://nodejs.org/en/"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "f1917ed4-2681-4973-bc8d-4272487d0fc8",
-          "id": "721",
-          "name": "kentcdodds/ama: Ask me anything!",
+          "guid": "3b8beceb-4e85-46ad-8396-79c3e882d662",
+          "id": "680",
+          "name": "About Docker Engine - Community | Docker Documentation",
           "type": "url",
-          "url": "https://github.com/kentcdodds/ama"
+          "url": "https://docs.docker.com/install/"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "22e15078-bdef-41ee-8b35-9bbef5241cdc",
-          "id": "722",
-          "name": "Kent C. Dodds 💿 (@kentcdodds) / Twitter",
+          "guid": "b241f2c7-dad7-402e-b3a0-662a6841784c",
+          "id": "681",
+          "name": "VS Code Can Do That - Visual Studio Marketplace",
           "type": "url",
-          "url": "https://twitter.com/kentcdodds"
+          "url": "https://marketplace.visualstudio.com/items?itemName=burkeholland.vs-code-can-do-that"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "9b3fe3c1-b47b-44da-8e76-6ba73ac8653e",
-          "id": "723",
-          "name": "Testing Practices and Principles",
+          "guid": "3bff9a23-bab8-43be-afb1-fdd81bbf2fda",
+          "id": "682",
+          "name": "#FiveThings About Create React App - YouTube",
           "type": "url",
-          "url": "https://slides.com/kentcdodds/testing-principles#/5"
+          "url": "https://www.youtube.com/watch?v=9t2GWFegnkQ"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "af3dfca7-0823-48be-acb6-d36628a6740a",
-          "id": "724",
-          "name": "Learn TypeScript to add strong typing to make your JavaScript apps",
+          "guid": "3b5b51f5-6914-4bbe-9560-e7df29bc4395",
+          "id": "683",
+          "name": "VS Code Can Do That Workshop - VS Code Can Do That - Workshop",
           "type": "url",
-          "url": "https://frontendmasters.com/courses/typescript/"
+          "url": "https://burkeholland.gitbook.io/vs-code-can-do-that/"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "0ab8093b-2ec5-4957-8acc-c23b6b522e9d",
-          "id": "725",
-          "name": "Flow: A Static Type Checker for JavaScript",
+          "guid": "188910fe-e439-4f4f-b431-6738f05f1b21",
+          "id": "684",
+          "name": "tonsky/FiraCode: Free monospaced font with programming ligatures",
           "type": "url",
-          "url": "https://flow.org/"
+          "url": "https://github.com/tonsky/FiraCode"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "650bc6f8-20be-4988-ab97-40f04806dfaf",
-          "id": "726",
-          "name": "ESLint - Pluggable JavaScript linter",
+          "guid": "a7754ec4-20f9-43c1-96b9-14d679e99e0b",
+          "id": "685",
+          "name": "Bulma: Free, open source, and modern CSS framework based on Flexbox",
           "type": "url",
-          "url": "https://eslint.org/"
+          "url": "https://bulma.io/"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "dabed50a-bf93-4e9b-bf14-af1c71ef30bb",
-          "id": "727",
-          "name": "Learn to Test React Applications with Jest, react-testing-library and Cypress",
+          "guid": "50901493-d277-45cf-896d-b228d2255201",
+          "id": "686",
+          "name": "Node.js app hosting &amp; deployment | Microsoft Azure",
           "type": "url",
-          "url": "https://frontendmasters.com/courses/testing-react/"
+          "url": "https://azure.microsoft.com/en-gb/develop/nodejs/?WT.mc_id=frontendmasters-workshop-buhollan"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "fd2f1757-4c1e-4e98-a40f-9886ebd644f3",
-          "id": "728",
-          "name": "Testing Practices and Principles",
+          "guid": "960c54f6-cdd2-4b54-8afd-5280ef087d39",
+          "id": "687",
+          "name": "Visual Studio Code Azure Extensions",
           "type": "url",
-          "url": "https://slides.com/kentcdodds/testing-principles#/6"
+          "url": "https://code.visualstudio.com/docs/azure/extensions?WT.mc_id=frontendmasters-workshop-buhollan"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "45310916-f62b-490b-a499-2df0faa8532e",
-          "id": "729",
-          "name": "But really, what is a JavaScript test?",
+          "guid": "29dd54cd-87d7-457a-9157-544c3aa1fec1",
+          "id": "688",
+          "name": "Please, everyone, put your entire development environment in Github",
           "type": "url",
-          "url": "https://kentcdodds.com/blog/but-really-what-is-a-javascript-test"
+          "url": "https://www.freecodecamp.org/news/put-your-dev-env-in-github/"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "3bf383b1-6d1e-4c01-9d5f-05603d228766",
-          "id": "730",
-          "name": "Jest · 🃏 Delightful JavaScript Testing",
+          "guid": "ff7a4ea6-8082-4997-81d7-8dd6fe9aa75a",
+          "id": "689",
+          "name": "burkeholland/i-love-lamp: Project for Git exercise",
           "type": "url",
-          "url": "https://jestjs.io/"
+          "url": "https://github.com/burkeholland/i-love-lamp"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "c55d1024-16fb-476a-82ec-fb02899bc33b",
-          "id": "731",
-          "name": "Expect · Jest",
+          "guid": "e64eab72-d1a1-4991-b858-9fb1a75c189d",
+          "id": "690",
+          "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
           "type": "url",
-          "url": "https://jestjs.io/docs/expect"
+          "url": "https://frontendmasters.com/courses/git-in-depth/"
         },
         {
           "date_added": "0",
           "date_last_used": "0",
-          "guid": "794fcbe1-01d3-4063-a22f-461dd43a04e6",
-          "id": "732",
-          "name": "Expect · Jest",
+          "guid": "b5c4e4e6-3317-4bf4-97f4-55d2cb95c0bf",
+          "id": "691",
+          "name": "GitLens — Git supercharged - Visual Studio Marketplace",
           "type": "url",
-          "url": "https://jestjs.io/docs/expect#expectassertionsnumber"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "356ed880-7374-4b4f-b716-d0c8f6f9c453",
-          "id": "733",
-          "name": "atlassian/jest-in-case: Jest utility for creating variations of the same test",
-          "type": "url",
-          "url": "https://github.com/atlassian/jest-in-case"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "183c233c-b727-4576-b1ca-e20852966595",
-          "id": "734",
-          "name": "kentcdodds/rtl-css-js: RTL for CSS in JS",
-          "type": "url",
-          "url": "https://github.com/kentcdodds/rtl-css-js"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "e43f7229-f7a9-41f1-893a-a9a8c8ec3cc3",
-          "id": "735",
-          "name": "Colocation",
-          "type": "url",
-          "url": "https://kentcdodds.com/blog/colocation"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "698414ed-b9dd-4b0b-a48e-e30d938f7862",
-          "id": "736",
-          "name": "Istanbul, a JavaScript test coverage tool.",
-          "type": "url",
-          "url": "https://istanbul.js.org/"
+          "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
         }
       ]
     },
