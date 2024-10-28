@@ -10,7 +10,7 @@
     {
       "date_added": "13347842711691810",
       "date_last_used": "0",
-      "date_modified": "13374626795915249",
+      "date_modified": "13374627101143304",
       "guid": "a453d2ac-201e-4cb7-bac5-949950d4a3f8",
       "id": "1340",
       "name": "✅ Four Semesters of Computer Science in 5 Hours",
@@ -2254,38 +2254,47 @@
     {
       "date_added": "13329404906458335",
       "date_last_used": "0",
-      "date_modified": "13329404906458335",
+      "date_modified": "13374626667594488",
       "guid": "ba609390-41cf-4498-8b40-368cc4ef0807",
       "id": "505",
-      "name": "Introduction to Bash, VIM & Regex",
+      "name": "💡 Introduction to Bash, VIM & Regex",
       "type": "folder",
       "children": [
         {
-          "date_added": "0",
+          "date_added": "13374626605947077",
           "date_last_used": "0",
-          "guid": "55d43622-656b-4ecd-b60d-b23a673daf87",
-          "id": "506",
-          "name": "fmmn/unix.md at master · substack/fmmn",
+          "guid": "f149a0cc-36f8-437b-8120-4208e0422249",
+          "id": "1506",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "fmmn/day1/unix.md at master · FrontendMasters/fmmn",
           "type": "url",
-          "url": "https://github.com/substack/fmmn/blob/master/day1/unix.md"
+          "url": "https://github.com/FrontendMasters/fmmn/blob/master/day1/unix.md"
         },
         {
-          "date_added": "0",
+          "date_added": "13374626613911496",
           "date_last_used": "0",
-          "guid": "ac464361-e184-43df-ade3-9e87a6b4c322",
-          "id": "507",
-          "name": "fmmn/regex.md at master · substack/fmmn",
+          "guid": "e3475053-9ee9-49db-afc8-1dfe2daab102",
+          "id": "1507",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "fmmn/day1/regex.md at master · FrontendMasters/fmmn",
           "type": "url",
-          "url": "https://github.com/substack/fmmn/blob/master/day1/regex.md"
+          "url": "https://github.com/FrontendMasters/fmmn/blob/master/day1/regex.md"
         },
         {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "0cdbd231-90e6-4f3e-a93f-a2f997973b48",
-          "id": "508",
-          "name": "fmmn/vim.md at master · substack/fmmn",
+          "date_added": "13374626615694836",
+          "date_last_used": "13374626968061111",
+          "guid": "9e6cb098-e69f-49ee-9423-a0a6cc2fbe19",
+          "id": "1508",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "fmmn/day1/vim.md at master · FrontendMasters/fmmn",
           "type": "url",
-          "url": "https://github.com/substack/fmmn/blob/master/day1/vim.md"
+          "url": "https://github.com/FrontendMasters/fmmn/blob/master/day1/vim.md"
         },
         {
           "date_added": "0",
