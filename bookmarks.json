@@ -10,24 +10,12 @@
     {
       "date_added": "13347842711691810",
       "date_last_used": "0",
-      "date_modified": "13374513571564004",
+      "date_modified": "13374626795915249",
       "guid": "a453d2ac-201e-4cb7-bac5-949950d4a3f8",
       "id": "1340",
       "name": "✅ Four Semesters of Computer Science in 5 Hours",
       "type": "folder",
       "children": [
-        {
-          "date_added": "13347842862299204",
-          "date_last_used": "13347845255987811",
-          "guid": "9fb52d22-0272-46e3-985c-b26c39b70fe6",
-          "id": "1341",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Four Semesters of Computer Science in Six Hours",
-          "type": "url",
-          "url": "https://btholt.github.io/four-semesters-of-cs/"
-        },
         {
           "date_added": "13374513549014721",
           "date_last_used": "0",
@@ -39,6 +27,18 @@
           "name": "btholt/four-semesters-of-cs",
           "type": "url",
           "url": "https://github.com/btholt/four-semesters-of-cs"
+        },
+        {
+          "date_added": "13347842862299204",
+          "date_last_used": "13347845255987811",
+          "guid": "9fb52d22-0272-46e3-985c-b26c39b70fe6",
+          "id": "1341",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Four Semesters of Computer Science in Six Hours",
+          "type": "url",
+          "url": "https://btholt.github.io/four-semesters-of-cs/"
         },
         {
           "date_added": "13347967789430688",
