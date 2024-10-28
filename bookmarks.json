@@ -4225,7 +4225,7 @@
     {
       "date_added": "13329404906466819",
       "date_last_used": "0",
-      "date_modified": "13329404906466819",
+      "date_modified": "13374627111878014",
       "guid": "5c167447-52b1-4994-8947-0d3121a8f910",
       "id": "676",
       "name": "Visual Studio Code Can Do That?",
@@ -4239,6 +4239,18 @@
           "name": "burkeholland/workshop-vs-code-can-do-that: The VS Code Can Do That workshop for Frontend Masters",
           "type": "url",
           "url": "https://github.com/burkeholland/workshop-vs-code-can-do-that"
+        },
+        {
+          "date_added": "13374627101143304",
+          "date_last_used": "0",
+          "guid": "1c379418-bf5f-44c3-9d85-63845ef61de1",
+          "id": "1509",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "VS Code Can Do That Workshop | VS Code Can Do That - Workshop",
+          "type": "url",
+          "url": "https://burkeholland.gitbook.io/vs-code-can-do-that"
         },
         {
           "date_added": "0",
