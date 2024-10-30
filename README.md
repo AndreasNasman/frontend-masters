@@ -13,10 +13,10 @@ git clone https://github.com/AndreasNasman/frontend-masters.git
 git submodule update --init --recursive --remote
 ```
 
-After updating a fork with upstream changes, run
+You can also use the latter command to apply upstream changes.
 
-```sh
-git submodule update --remote
+Then, to checkout a branch in each submodule (and exit detached HEAD state), run
+
+```git
+git submodule foreach 'git switch solutions || git switch main || git switch master || git switch gh-pages'
 ```
-
-to apply changes in the main repo.
