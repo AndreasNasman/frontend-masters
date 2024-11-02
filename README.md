@@ -19,5 +19,5 @@ You can also use the latter command to apply upstream changes.
 Then, to checkout a branch in each submodule (and exit detached HEAD state), run
 
 ```git
-git submodule foreach 'git switch solutions || git switch main || git switch master || git switch gh-pages'
+git submodule foreach 'git switch solutions || git switch main || git switch master || git switch gh-pages && git pull'
 ```
