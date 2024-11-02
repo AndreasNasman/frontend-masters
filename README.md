@@ -10,6 +10,7 @@ or
 
 ```git
 git clone https://github.com/AndreasNasman/frontend-masters.git
+cd frontend-masters
 git submodule update --init --recursive --remote
 ```
 
