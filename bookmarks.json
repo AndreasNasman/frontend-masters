@@ -4225,7 +4225,7 @@
     {
       "date_added": "13329404906466819",
       "date_last_used": "0",
-      "date_modified": "13374627111878014",
+      "date_modified": "13386523211400122",
       "guid": "5c167447-52b1-4994-8947-0d3121a8f910",
       "id": "676",
       "name": "Visual Studio Code Can Do That?",
@@ -4233,7 +4233,7 @@
       "children": [
         {
           "date_added": "0",
-          "date_last_used": "0",
+          "date_last_used": "13386522487930506",
           "guid": "79c92795-8208-4cc7-9678-586014c2850f",
           "id": "677",
           "name": "burkeholland/workshop-vs-code-can-do-that: The VS Code Can Do That workshop for Frontend Masters",
@@ -4242,7 +4242,7 @@
         },
         {
           "date_added": "13374627101143304",
-          "date_last_used": "0",
+          "date_last_used": "13386522494015652",
           "guid": "1c379418-bf5f-44c3-9d85-63845ef61de1",
           "id": "1509",
           "meta_info": {
@@ -4254,7 +4254,7 @@
         },
         {
           "date_added": "0",
-          "date_last_used": "0",
+          "date_last_used": "13386522497114039",
           "guid": "1a7c9798-e01d-4505-a29a-48a0c16a18f9",
           "id": "678",
           "name": "Git",
@@ -4263,25 +4263,28 @@
         },
         {
           "date_added": "0",
-          "date_last_used": "0",
+          "date_last_used": "13386522512864974",
           "guid": "abb88bc4-8133-41d0-84f6-84a757a22f1a",
           "id": "679",
-          "name": "Node.js",
+          "name": "Node.js — Run JavaScript Everywhere",
           "type": "url",
           "url": "https://nodejs.org/en/"
         },
         {
-          "date_added": "0",
+          "date_added": "13386522692256500",
           "date_last_used": "0",
-          "guid": "3b8beceb-4e85-46ad-8396-79c3e882d662",
-          "id": "680",
-          "name": "About Docker Engine - Community | Docker Documentation",
+          "guid": "2eb5ef4b-cac2-4c1d-806d-cbd87f16154f",
+          "id": "1561",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Get Docker | Docker Docs",
           "type": "url",
-          "url": "https://docs.docker.com/install/"
+          "url": "https://docs.docker.com/get-started/get-docker/"
         },
         {
           "date_added": "0",
-          "date_last_used": "0",
+          "date_last_used": "13386522709285713",
           "guid": "b241f2c7-dad7-402e-b3a0-662a6841784c",
           "id": "681",
           "name": "VS Code Can Do That - Visual Studio Marketplace",
@@ -4299,16 +4302,7 @@
         },
         {
           "date_added": "0",
-          "date_last_used": "0",
-          "guid": "3b5b51f5-6914-4bbe-9560-e7df29bc4395",
-          "id": "683",
-          "name": "VS Code Can Do That Workshop - VS Code Can Do That - Workshop",
-          "type": "url",
-          "url": "https://burkeholland.gitbook.io/vs-code-can-do-that/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
+          "date_last_used": "13374628429992676",
           "guid": "188910fe-e439-4f4f-b431-6738f05f1b21",
           "id": "684",
           "name": "tonsky/FiraCode: Free monospaced font with programming ligatures",
@@ -4317,7 +4311,7 @@
         },
         {
           "date_added": "0",
-          "date_last_used": "0",
+          "date_last_used": "13386522963366973",
           "guid": "a7754ec4-20f9-43c1-96b9-14d679e99e0b",
           "id": "685",
           "name": "Bulma: Free, open source, and modern CSS framework based on Flexbox",
@@ -4325,22 +4319,40 @@
           "url": "https://bulma.io/"
         },
         {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "50901493-d277-45cf-896d-b228d2255201",
-          "id": "686",
-          "name": "Node.js app hosting &amp; deployment | Microsoft Azure",
+          "date_added": "13386458856954283",
+          "date_last_used": "13386458892530282",
+          "guid": "5266cb09-f553-4cea-a1b5-2ebf070217ec",
+          "id": "1557",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Introduction",
           "type": "url",
-          "url": "https://azure.microsoft.com/en-gb/develop/nodejs/?WT.mc_id=frontendmasters-workshop-buhollan"
+          "url": "https://api.developer.lifx.com/reference/introduction"
         },
         {
-          "date_added": "0",
+          "date_added": "13386523196941838",
           "date_last_used": "0",
-          "guid": "960c54f6-cdd2-4b54-8afd-5280ef087d39",
-          "id": "687",
-          "name": "Visual Studio Code Azure Extensions",
+          "guid": "8af18966-209e-4bfb-ad07-07c411e60a51",
+          "id": "1562",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Node.js App Hosting & Deployment | Microsoft Azure",
           "type": "url",
-          "url": "https://code.visualstudio.com/docs/azure/extensions?WT.mc_id=frontendmasters-workshop-buhollan"
+          "url": "https://azure.microsoft.com/en-us/resources/developers/nodejs/?WT.mc_id=frontendmasters-workshop-buhollan"
+        },
+        {
+          "date_added": "13386523203901567",
+          "date_last_used": "0",
+          "guid": "5c8f7179-9612-4aad-84af-9773de55fa61",
+          "id": "1563",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Azure Extensions",
+          "type": "url",
+          "url": "https://code.visualstudio.com/docs/azure/overview"
         },
         {
           "date_added": "0",
