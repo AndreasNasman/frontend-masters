@@ -388,6 +388,268 @@
       ]
     },
     {
+      "date_added": "13329404906466819",
+      "date_last_used": "0",
+      "date_modified": "13386523211400122",
+      "guid": "5c167447-52b1-4994-8947-0d3121a8f910",
+      "id": "676",
+      "name": "✅ Visual Studio Code Can Do That?",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "0",
+          "date_last_used": "13386522487930506",
+          "guid": "79c92795-8208-4cc7-9678-586014c2850f",
+          "id": "677",
+          "name": "burkeholland/workshop-vs-code-can-do-that: The VS Code Can Do That workshop for Frontend Masters",
+          "type": "url",
+          "url": "https://github.com/burkeholland/workshop-vs-code-can-do-that"
+        },
+        {
+          "date_added": "13374627101143304",
+          "date_last_used": "13386522494015652",
+          "guid": "1c379418-bf5f-44c3-9d85-63845ef61de1",
+          "id": "1509",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "VS Code Can Do That Workshop | VS Code Can Do That - Workshop",
+          "type": "url",
+          "url": "https://burkeholland.gitbook.io/vs-code-can-do-that"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "13386522497114039",
+          "guid": "1a7c9798-e01d-4505-a29a-48a0c16a18f9",
+          "id": "678",
+          "name": "Git",
+          "type": "url",
+          "url": "https://git-scm.com/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "13386522512864974",
+          "guid": "abb88bc4-8133-41d0-84f6-84a757a22f1a",
+          "id": "679",
+          "name": "Node.js — Run JavaScript Everywhere",
+          "type": "url",
+          "url": "https://nodejs.org/en/"
+        },
+        {
+          "date_added": "13386522692256500",
+          "date_last_used": "0",
+          "guid": "2eb5ef4b-cac2-4c1d-806d-cbd87f16154f",
+          "id": "1561",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Get Docker | Docker Docs",
+          "type": "url",
+          "url": "https://docs.docker.com/get-started/get-docker/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "13386522709285713",
+          "guid": "b241f2c7-dad7-402e-b3a0-662a6841784c",
+          "id": "681",
+          "name": "VS Code Can Do That - Visual Studio Marketplace",
+          "type": "url",
+          "url": "https://marketplace.visualstudio.com/items?itemName=burkeholland.vs-code-can-do-that"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "3bff9a23-bab8-43be-afb1-fdd81bbf2fda",
+          "id": "682",
+          "name": "#FiveThings About Create React App - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=9t2GWFegnkQ"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "13374628429992676",
+          "guid": "188910fe-e439-4f4f-b431-6738f05f1b21",
+          "id": "684",
+          "name": "tonsky/FiraCode: Free monospaced font with programming ligatures",
+          "type": "url",
+          "url": "https://github.com/tonsky/FiraCode"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "13386522963366973",
+          "guid": "a7754ec4-20f9-43c1-96b9-14d679e99e0b",
+          "id": "685",
+          "name": "Bulma: Free, open source, and modern CSS framework based on Flexbox",
+          "type": "url",
+          "url": "https://bulma.io/"
+        },
+        {
+          "date_added": "13386458856954283",
+          "date_last_used": "13386458892530282",
+          "guid": "5266cb09-f553-4cea-a1b5-2ebf070217ec",
+          "id": "1557",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Introduction",
+          "type": "url",
+          "url": "https://api.developer.lifx.com/reference/introduction"
+        },
+        {
+          "date_added": "13386523196941838",
+          "date_last_used": "0",
+          "guid": "8af18966-209e-4bfb-ad07-07c411e60a51",
+          "id": "1562",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Node.js App Hosting & Deployment | Microsoft Azure",
+          "type": "url",
+          "url": "https://azure.microsoft.com/en-us/resources/developers/nodejs/?WT.mc_id=frontendmasters-workshop-buhollan"
+        },
+        {
+          "date_added": "13386523203901567",
+          "date_last_used": "0",
+          "guid": "5c8f7179-9612-4aad-84af-9773de55fa61",
+          "id": "1563",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Azure Extensions",
+          "type": "url",
+          "url": "https://code.visualstudio.com/docs/azure/overview"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "29dd54cd-87d7-457a-9157-544c3aa1fec1",
+          "id": "688",
+          "name": "Please, everyone, put your entire development environment in Github",
+          "type": "url",
+          "url": "https://www.freecodecamp.org/news/put-your-dev-env-in-github/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "ff7a4ea6-8082-4997-81d7-8dd6fe9aa75a",
+          "id": "689",
+          "name": "burkeholland/i-love-lamp: Project for Git exercise",
+          "type": "url",
+          "url": "https://github.com/burkeholland/i-love-lamp"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "e64eab72-d1a1-4991-b858-9fb1a75c189d",
+          "id": "690",
+          "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
+          "type": "url",
+          "url": "https://frontendmasters.com/courses/git-in-depth/"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "b5c4e4e6-3317-4bf4-97f4-55d2cb95c0bf",
+          "id": "691",
+          "name": "GitLens — Git supercharged - Visual Studio Marketplace",
+          "type": "url",
+          "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
+        }
+      ]
+    },
+    {
+      "date_added": "13329404906458335",
+      "date_last_used": "0",
+      "date_modified": "13374626667594488",
+      "guid": "ba609390-41cf-4498-8b40-368cc4ef0807",
+      "id": "505",
+      "name": "💡 Introduction to Bash, VIM & Regex",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13374626605947077",
+          "date_last_used": "0",
+          "guid": "f149a0cc-36f8-437b-8120-4208e0422249",
+          "id": "1506",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "fmmn/day1/unix.md at master · FrontendMasters/fmmn",
+          "type": "url",
+          "url": "https://github.com/FrontendMasters/fmmn/blob/master/day1/unix.md"
+        },
+        {
+          "date_added": "13374626613911496",
+          "date_last_used": "0",
+          "guid": "e3475053-9ee9-49db-afc8-1dfe2daab102",
+          "id": "1507",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "fmmn/day1/regex.md at master · FrontendMasters/fmmn",
+          "type": "url",
+          "url": "https://github.com/FrontendMasters/fmmn/blob/master/day1/regex.md"
+        },
+        {
+          "date_added": "13374626615694836",
+          "date_last_used": "13374626968061111",
+          "guid": "9e6cb098-e69f-49ee-9423-a0a6cc2fbe19",
+          "id": "1508",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "fmmn/day1/vim.md at master · FrontendMasters/fmmn",
+          "type": "url",
+          "url": "https://github.com/FrontendMasters/fmmn/blob/master/day1/vim.md"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "eaa57d35-f55f-4063-ba47-cc1dec9b8b9e",
+          "id": "509",
+          "name": "AT&T Archives: The UNIX Operating System - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=tc4ROCJYbm0"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "72982a96-7582-4cf6-9b57-fad2acae30b8",
+          "id": "510",
+          "name": "File:Unix history-simple.svg - Wikipedia",
+          "type": "url",
+          "url": "https://en.wikipedia.org/wiki/File:Unix_history-simple.svg"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "caa8217b-aec7-44ad-af25-d9e1e659f43c",
+          "id": "511",
+          "name": "perlreref - Perl Regular Expressions Reference - Perldoc Browser",
+          "type": "url",
+          "url": "https://perldoc.perl.org/perlreref"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "499864e4-29e0-4fb5-9641-c5347bb58cdc",
+          "id": "512",
+          "name": "Vim Commands Cheat Sheet",
+          "type": "url",
+          "url": "http://www.fprintf.net/vimCheatSheet.html"
+        },
+        {
+          "date_added": "0",
+          "date_last_used": "0",
+          "guid": "083d9d53-9ea8-440d-b92e-df0d5304eade",
+          "id": "513",
+          "name": "YBlog - Learn Vim Progressively",
+          "type": "url",
+          "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/"
+        }
+      ]
+    },
+    {
       "date_added": "13329404906447491",
       "date_last_used": "0",
       "date_modified": "13329404906447491",
@@ -2248,98 +2510,6 @@
           "name": "You-Dont-Know-JS/scope-closures at 2nd-ed · getify/You-Dont-Know-JS",
           "type": "url",
           "url": "https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures"
-        }
-      ]
-    },
-    {
-      "date_added": "13329404906458335",
-      "date_last_used": "0",
-      "date_modified": "13374626667594488",
-      "guid": "ba609390-41cf-4498-8b40-368cc4ef0807",
-      "id": "505",
-      "name": "💡 Introduction to Bash, VIM & Regex",
-      "type": "folder",
-      "children": [
-        {
-          "date_added": "13374626605947077",
-          "date_last_used": "0",
-          "guid": "f149a0cc-36f8-437b-8120-4208e0422249",
-          "id": "1506",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "fmmn/day1/unix.md at master · FrontendMasters/fmmn",
-          "type": "url",
-          "url": "https://github.com/FrontendMasters/fmmn/blob/master/day1/unix.md"
-        },
-        {
-          "date_added": "13374626613911496",
-          "date_last_used": "0",
-          "guid": "e3475053-9ee9-49db-afc8-1dfe2daab102",
-          "id": "1507",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "fmmn/day1/regex.md at master · FrontendMasters/fmmn",
-          "type": "url",
-          "url": "https://github.com/FrontendMasters/fmmn/blob/master/day1/regex.md"
-        },
-        {
-          "date_added": "13374626615694836",
-          "date_last_used": "13374626968061111",
-          "guid": "9e6cb098-e69f-49ee-9423-a0a6cc2fbe19",
-          "id": "1508",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "fmmn/day1/vim.md at master · FrontendMasters/fmmn",
-          "type": "url",
-          "url": "https://github.com/FrontendMasters/fmmn/blob/master/day1/vim.md"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "eaa57d35-f55f-4063-ba47-cc1dec9b8b9e",
-          "id": "509",
-          "name": "AT&T Archives: The UNIX Operating System - YouTube",
-          "type": "url",
-          "url": "https://www.youtube.com/watch?v=tc4ROCJYbm0"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "72982a96-7582-4cf6-9b57-fad2acae30b8",
-          "id": "510",
-          "name": "File:Unix history-simple.svg - Wikipedia",
-          "type": "url",
-          "url": "https://en.wikipedia.org/wiki/File:Unix_history-simple.svg"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "caa8217b-aec7-44ad-af25-d9e1e659f43c",
-          "id": "511",
-          "name": "perlreref - Perl Regular Expressions Reference - Perldoc Browser",
-          "type": "url",
-          "url": "https://perldoc.perl.org/perlreref"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "499864e4-29e0-4fb5-9641-c5347bb58cdc",
-          "id": "512",
-          "name": "Vim Commands Cheat Sheet",
-          "type": "url",
-          "url": "http://www.fprintf.net/vimCheatSheet.html"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "083d9d53-9ea8-440d-b92e-df0d5304eade",
-          "id": "513",
-          "name": "YBlog - Learn Vim Progressively",
-          "type": "url",
-          "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/"
         }
       ]
     },
@@ -4219,176 +4389,6 @@
           "name": "tpope/vim-fugitive: fugitive.vim: A Git wrapper so awesome, it should be illegal",
           "type": "url",
           "url": "https://github.com/tpope/vim-fugitive"
-        }
-      ]
-    },
-    {
-      "date_added": "13329404906466819",
-      "date_last_used": "0",
-      "date_modified": "13386523211400122",
-      "guid": "5c167447-52b1-4994-8947-0d3121a8f910",
-      "id": "676",
-      "name": "Visual Studio Code Can Do That?",
-      "type": "folder",
-      "children": [
-        {
-          "date_added": "0",
-          "date_last_used": "13386522487930506",
-          "guid": "79c92795-8208-4cc7-9678-586014c2850f",
-          "id": "677",
-          "name": "burkeholland/workshop-vs-code-can-do-that: The VS Code Can Do That workshop for Frontend Masters",
-          "type": "url",
-          "url": "https://github.com/burkeholland/workshop-vs-code-can-do-that"
-        },
-        {
-          "date_added": "13374627101143304",
-          "date_last_used": "13386522494015652",
-          "guid": "1c379418-bf5f-44c3-9d85-63845ef61de1",
-          "id": "1509",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "VS Code Can Do That Workshop | VS Code Can Do That - Workshop",
-          "type": "url",
-          "url": "https://burkeholland.gitbook.io/vs-code-can-do-that"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "13386522497114039",
-          "guid": "1a7c9798-e01d-4505-a29a-48a0c16a18f9",
-          "id": "678",
-          "name": "Git",
-          "type": "url",
-          "url": "https://git-scm.com/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "13386522512864974",
-          "guid": "abb88bc4-8133-41d0-84f6-84a757a22f1a",
-          "id": "679",
-          "name": "Node.js — Run JavaScript Everywhere",
-          "type": "url",
-          "url": "https://nodejs.org/en/"
-        },
-        {
-          "date_added": "13386522692256500",
-          "date_last_used": "0",
-          "guid": "2eb5ef4b-cac2-4c1d-806d-cbd87f16154f",
-          "id": "1561",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Get Docker | Docker Docs",
-          "type": "url",
-          "url": "https://docs.docker.com/get-started/get-docker/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "13386522709285713",
-          "guid": "b241f2c7-dad7-402e-b3a0-662a6841784c",
-          "id": "681",
-          "name": "VS Code Can Do That - Visual Studio Marketplace",
-          "type": "url",
-          "url": "https://marketplace.visualstudio.com/items?itemName=burkeholland.vs-code-can-do-that"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "3bff9a23-bab8-43be-afb1-fdd81bbf2fda",
-          "id": "682",
-          "name": "#FiveThings About Create React App - YouTube",
-          "type": "url",
-          "url": "https://www.youtube.com/watch?v=9t2GWFegnkQ"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "13374628429992676",
-          "guid": "188910fe-e439-4f4f-b431-6738f05f1b21",
-          "id": "684",
-          "name": "tonsky/FiraCode: Free monospaced font with programming ligatures",
-          "type": "url",
-          "url": "https://github.com/tonsky/FiraCode"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "13386522963366973",
-          "guid": "a7754ec4-20f9-43c1-96b9-14d679e99e0b",
-          "id": "685",
-          "name": "Bulma: Free, open source, and modern CSS framework based on Flexbox",
-          "type": "url",
-          "url": "https://bulma.io/"
-        },
-        {
-          "date_added": "13386458856954283",
-          "date_last_used": "13386458892530282",
-          "guid": "5266cb09-f553-4cea-a1b5-2ebf070217ec",
-          "id": "1557",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Introduction",
-          "type": "url",
-          "url": "https://api.developer.lifx.com/reference/introduction"
-        },
-        {
-          "date_added": "13386523196941838",
-          "date_last_used": "0",
-          "guid": "8af18966-209e-4bfb-ad07-07c411e60a51",
-          "id": "1562",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Node.js App Hosting & Deployment | Microsoft Azure",
-          "type": "url",
-          "url": "https://azure.microsoft.com/en-us/resources/developers/nodejs/?WT.mc_id=frontendmasters-workshop-buhollan"
-        },
-        {
-          "date_added": "13386523203901567",
-          "date_last_used": "0",
-          "guid": "5c8f7179-9612-4aad-84af-9773de55fa61",
-          "id": "1563",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Azure Extensions",
-          "type": "url",
-          "url": "https://code.visualstudio.com/docs/azure/overview"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "29dd54cd-87d7-457a-9157-544c3aa1fec1",
-          "id": "688",
-          "name": "Please, everyone, put your entire development environment in Github",
-          "type": "url",
-          "url": "https://www.freecodecamp.org/news/put-your-dev-env-in-github/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "ff7a4ea6-8082-4997-81d7-8dd6fe9aa75a",
-          "id": "689",
-          "name": "burkeholland/i-love-lamp: Project for Git exercise",
-          "type": "url",
-          "url": "https://github.com/burkeholland/i-love-lamp"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "e64eab72-d1a1-4991-b858-9fb1a75c189d",
-          "id": "690",
-          "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
-          "type": "url",
-          "url": "https://frontendmasters.com/courses/git-in-depth/"
-        },
-        {
-          "date_added": "0",
-          "date_last_used": "0",
-          "guid": "b5c4e4e6-3317-4bf4-97f4-55d2cb95c0bf",
-          "id": "691",
-          "name": "GitLens — Git supercharged - Visual Studio Marketplace",
-          "type": "url",
-          "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
         }
       ]
     },
