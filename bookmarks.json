@@ -1,18 +1,18 @@
 {
   "date_added": "13329404906447294",
   "date_last_used": "0",
-  "date_modified": "13347842862299204",
+  "date_modified": "13389868172527376",
   "guid": "d05428ff-fa31-4f9f-af26-07811316e1f4",
-  "id": "298",
+  "id": "368",
   "name": "Frontend Masters",
   "type": "folder",
   "children": [
     {
       "date_added": "13347842711691810",
       "date_last_used": "0",
-      "date_modified": "13374627101143304",
+      "date_modified": "13374513549014721",
       "guid": "a453d2ac-201e-4cb7-bac5-949950d4a3f8",
-      "id": "1340",
+      "id": "369",
       "name": "✅ Four Semesters of Computer Science in 5 Hours",
       "type": "folder",
       "children": [
@@ -20,7 +20,7 @@
           "date_added": "13374513549014721",
           "date_last_used": "0",
           "guid": "c5fa65f5-ff99-4395-b764-1b8dcd744272",
-          "id": "1504",
+          "id": "370",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -30,9 +30,9 @@
         },
         {
           "date_added": "13347842862299204",
-          "date_last_used": "13347845255987811",
+          "date_last_used": "0",
           "guid": "9fb52d22-0272-46e3-985c-b26c39b70fe6",
-          "id": "1341",
+          "id": "371",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -44,7 +44,7 @@
           "date_added": "13347967789430688",
           "date_last_used": "0",
           "guid": "c0fb6f5f-b6d0-47f1-a967-866aa494988c",
-          "id": "1344",
+          "id": "372",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -56,7 +56,7 @@
           "date_added": "13347845383219088",
           "date_last_used": "0",
           "guid": "89961480-4c94-4b9d-baab-f4578deb3b4c",
-          "id": "1342",
+          "id": "373",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -68,7 +68,7 @@
           "date_added": "13347845504763833",
           "date_last_used": "13347968749100764",
           "guid": "e5310331-f351-4f01-b30c-837e6f3e7ca0",
-          "id": "1343",
+          "id": "374",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -80,7 +80,7 @@
           "date_added": "13347968563370297",
           "date_last_used": "13348004888967329",
           "guid": "d503c627-1875-4dd3-9d0e-b85c27f0d6fa",
-          "id": "1345",
+          "id": "375",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -90,9 +90,9 @@
         },
         {
           "date_added": "13347968567614521",
-          "date_last_used": "13348174728481557",
+          "date_last_used": "13348005051194333",
           "guid": "3d7ab3cd-ef6d-48a0-96db-63d5cd21b03e",
-          "id": "1346",
+          "id": "376",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -104,7 +104,7 @@
           "date_added": "13347970776281300",
           "date_last_used": "0",
           "guid": "0014105f-547a-4273-848c-ac34c5e7cb02",
-          "id": "1347",
+          "id": "377",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -114,9 +114,9 @@
         },
         {
           "date_added": "13347970780583039",
-          "date_last_used": "13348174770312191",
+          "date_last_used": "13348005051923291",
           "guid": "26d8d0a0-ea20-4e4a-b561-cf120c9f0a83",
-          "id": "1348",
+          "id": "378",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -128,7 +128,7 @@
           "date_added": "13348005234624650",
           "date_last_used": "0",
           "guid": "ce447e2d-e403-47e1-aff5-9c8bed958a1c",
-          "id": "1349",
+          "id": "379",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -140,7 +140,7 @@
           "date_added": "13348006364342214",
           "date_last_used": "0",
           "guid": "b76571d3-3d5f-4895-b6fd-144e362800f0",
-          "id": "1350",
+          "id": "380",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -150,9 +150,9 @@
         },
         {
           "date_added": "13348006367939914",
-          "date_last_used": "13348174843522214",
+          "date_last_used": "13348087717076229",
           "guid": "25b9591b-ed4b-4dd9-92b5-06ed46e51533",
-          "id": "1351",
+          "id": "381",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -164,7 +164,7 @@
           "date_added": "13348174697083395",
           "date_last_used": "0",
           "guid": "deff7a36-426c-4ea0-9693-1365e703cd41",
-          "id": "1352",
+          "id": "382",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -176,7 +176,7 @@
           "date_added": "13348174702547332",
           "date_last_used": "0",
           "guid": "9e7cf713-f7a0-47f7-b239-faa43d3f6f43",
-          "id": "1353",
+          "id": "383",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -188,7 +188,7 @@
           "date_added": "13348223871428416",
           "date_last_used": "0",
           "guid": "cc31e38c-db15-442d-8c5c-b26d44d693ab",
-          "id": "1354",
+          "id": "384",
           "name": "2ality – JavaScript and more",
           "type": "url",
           "url": "https://2ality.com/"
@@ -197,7 +197,7 @@
           "date_added": "13348250213117671",
           "date_last_used": "0",
           "guid": "a97d3957-747f-4aa1-abf1-cb314e311cf8",
-          "id": "1355",
+          "id": "385",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -209,7 +209,7 @@
           "date_added": "13348250214704853",
           "date_last_used": "0",
           "guid": "ddd6277c-8a0e-43b6-b002-4f3d8c5fa0c0",
-          "id": "1356",
+          "id": "386",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -221,7 +221,7 @@
           "date_added": "13348311293406682",
           "date_last_used": "0",
           "guid": "74ad938d-743d-4019-a25d-980ee2acc4dd",
-          "id": "1357",
+          "id": "387",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -231,9 +231,9 @@
         },
         {
           "date_added": "13348311296328469",
-          "date_last_used": "13348335123407945",
+          "date_last_used": "0",
           "guid": "98ab33d2-c03a-4588-8594-f0dc91fab825",
-          "id": "1358",
+          "id": "388",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -245,7 +245,7 @@
           "date_added": "13348336632711479",
           "date_last_used": "0",
           "guid": "03afc2b8-30a6-434f-89b6-1eabd8b94366",
-          "id": "1359",
+          "id": "389",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -255,9 +255,9 @@
         },
         {
           "date_added": "13348336636600977",
-          "date_last_used": "13355948267145926",
+          "date_last_used": "0",
           "guid": "e30aca9a-decf-4068-b57c-82f5159d683a",
-          "id": "1360",
+          "id": "390",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -269,7 +269,7 @@
           "date_added": "13355952708342805",
           "date_last_used": "0",
           "guid": "d38b0eab-4a97-474b-8f84-a345a77923b1",
-          "id": "1393",
+          "id": "391",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -279,9 +279,9 @@
         },
         {
           "date_added": "13355952726112434",
-          "date_last_used": "13356728510510021",
+          "date_last_used": "0",
           "guid": "f3d2a362-48d4-490b-ad31-028c08e8a714",
-          "id": "1394",
+          "id": "392",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -293,7 +293,7 @@
           "date_added": "13356730711654338",
           "date_last_used": "0",
           "guid": "3ab99453-3970-4122-b2df-bb68132e1ae4",
-          "id": "1396",
+          "id": "393",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -305,7 +305,7 @@
           "date_added": "13356730715665835",
           "date_last_used": "0",
           "guid": "9772af8a-1bed-4e15-b7c7-65fa5001ed01",
-          "id": "1397",
+          "id": "394",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -317,7 +317,7 @@
           "date_added": "13356732965324661",
           "date_last_used": "0",
           "guid": "dc41b50d-1d2f-4c31-9376-e39275c171dc",
-          "id": "1398",
+          "id": "395",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -329,7 +329,7 @@
           "date_added": "13356732968068413",
           "date_last_used": "0",
           "guid": "d0957994-608e-4b91-9c39-5d42a07550b1",
-          "id": "1399",
+          "id": "396",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -341,7 +341,7 @@
           "date_added": "13356733161831225",
           "date_last_used": "0",
           "guid": "cb90e281-d308-44cc-840f-ee2cbc55571c",
-          "id": "1400",
+          "id": "397",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -353,7 +353,7 @@
           "date_added": "13356733163698317",
           "date_last_used": "0",
           "guid": "0ff78a06-0628-4593-8a36-4989770bbe13",
-          "id": "1401",
+          "id": "398",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -365,7 +365,7 @@
           "date_added": "13356733309076503",
           "date_last_used": "0",
           "guid": "ee972885-8164-47bd-9aef-bc42517e00b0",
-          "id": "1402",
+          "id": "399",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -377,7 +377,7 @@
           "date_added": "13356733311063212",
           "date_last_used": "0",
           "guid": "0ee67349-f7df-4a92-86a3-4ec0b6e20c2b",
-          "id": "1403",
+          "id": "400",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -390,9 +390,9 @@
     {
       "date_added": "13329404906466819",
       "date_last_used": "0",
-      "date_modified": "13386523211400122",
+      "date_modified": "13386523203901567",
       "guid": "5c167447-52b1-4994-8947-0d3121a8f910",
-      "id": "676",
+      "id": "401",
       "name": "✅ Visual Studio Code Can Do That?",
       "type": "folder",
       "children": [
@@ -400,16 +400,16 @@
           "date_added": "0",
           "date_last_used": "13386522487930506",
           "guid": "79c92795-8208-4cc7-9678-586014c2850f",
-          "id": "677",
+          "id": "402",
           "name": "burkeholland/workshop-vs-code-can-do-that: The VS Code Can Do That workshop for Frontend Masters",
           "type": "url",
           "url": "https://github.com/burkeholland/workshop-vs-code-can-do-that"
         },
         {
           "date_added": "13374627101143304",
-          "date_last_used": "13386522494015652",
+          "date_last_used": "0",
           "guid": "1c379418-bf5f-44c3-9d85-63845ef61de1",
-          "id": "1509",
+          "id": "403",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -419,9 +419,9 @@
         },
         {
           "date_added": "0",
-          "date_last_used": "13386522497114039",
+          "date_last_used": "0",
           "guid": "1a7c9798-e01d-4505-a29a-48a0c16a18f9",
-          "id": "678",
+          "id": "404",
           "name": "Git",
           "type": "url",
           "url": "https://git-scm.com/"
@@ -430,7 +430,7 @@
           "date_added": "0",
           "date_last_used": "13386522512864974",
           "guid": "abb88bc4-8133-41d0-84f6-84a757a22f1a",
-          "id": "679",
+          "id": "405",
           "name": "Node.js — Run JavaScript Everywhere",
           "type": "url",
           "url": "https://nodejs.org/en/"
@@ -439,7 +439,7 @@
           "date_added": "13386522692256500",
           "date_last_used": "0",
           "guid": "2eb5ef4b-cac2-4c1d-806d-cbd87f16154f",
-          "id": "1561",
+          "id": "406",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -449,9 +449,9 @@
         },
         {
           "date_added": "0",
-          "date_last_used": "13386522709285713",
+          "date_last_used": "13386522703573704",
           "guid": "b241f2c7-dad7-402e-b3a0-662a6841784c",
-          "id": "681",
+          "id": "407",
           "name": "VS Code Can Do That - Visual Studio Marketplace",
           "type": "url",
           "url": "https://marketplace.visualstudio.com/items?itemName=burkeholland.vs-code-can-do-that"
@@ -460,34 +460,34 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3bff9a23-bab8-43be-afb1-fdd81bbf2fda",
-          "id": "682",
+          "id": "408",
           "name": "#FiveThings About Create React App - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/watch?v=9t2GWFegnkQ"
         },
         {
           "date_added": "0",
-          "date_last_used": "13374628429992676",
+          "date_last_used": "0",
           "guid": "188910fe-e439-4f4f-b431-6738f05f1b21",
-          "id": "684",
+          "id": "409",
           "name": "tonsky/FiraCode: Free monospaced font with programming ligatures",
           "type": "url",
           "url": "https://github.com/tonsky/FiraCode"
         },
         {
           "date_added": "0",
-          "date_last_used": "13386522963366973",
+          "date_last_used": "0",
           "guid": "a7754ec4-20f9-43c1-96b9-14d679e99e0b",
-          "id": "685",
+          "id": "410",
           "name": "Bulma: Free, open source, and modern CSS framework based on Flexbox",
           "type": "url",
           "url": "https://bulma.io/"
         },
         {
           "date_added": "13386458856954283",
-          "date_last_used": "13386458892530282",
+          "date_last_used": "0",
           "guid": "5266cb09-f553-4cea-a1b5-2ebf070217ec",
-          "id": "1557",
+          "id": "411",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -499,7 +499,7 @@
           "date_added": "13386523196941838",
           "date_last_used": "0",
           "guid": "8af18966-209e-4bfb-ad07-07c411e60a51",
-          "id": "1562",
+          "id": "412",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -511,7 +511,7 @@
           "date_added": "13386523203901567",
           "date_last_used": "0",
           "guid": "5c8f7179-9612-4aad-84af-9773de55fa61",
-          "id": "1563",
+          "id": "413",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -523,7 +523,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "29dd54cd-87d7-457a-9157-544c3aa1fec1",
-          "id": "688",
+          "id": "414",
           "name": "Please, everyone, put your entire development environment in Github",
           "type": "url",
           "url": "https://www.freecodecamp.org/news/put-your-dev-env-in-github/"
@@ -532,7 +532,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ff7a4ea6-8082-4997-81d7-8dd6fe9aa75a",
-          "id": "689",
+          "id": "415",
           "name": "burkeholland/i-love-lamp: Project for Git exercise",
           "type": "url",
           "url": "https://github.com/burkeholland/i-love-lamp"
@@ -541,7 +541,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e64eab72-d1a1-4991-b858-9fb1a75c189d",
-          "id": "690",
+          "id": "416",
           "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
           "type": "url",
           "url": "https://frontendmasters.com/courses/git-in-depth/"
@@ -550,7 +550,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b5c4e4e6-3317-4bf4-97f4-55d2cb95c0bf",
-          "id": "691",
+          "id": "417",
           "name": "GitLens — Git supercharged - Visual Studio Marketplace",
           "type": "url",
           "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
@@ -560,9 +560,9 @@
     {
       "date_added": "13329404906458335",
       "date_last_used": "0",
-      "date_modified": "13374626667594488",
+      "date_modified": "13374626615694836",
       "guid": "ba609390-41cf-4498-8b40-368cc4ef0807",
-      "id": "505",
+      "id": "418",
       "name": "💡 Introduction to Bash, VIM & Regex",
       "type": "folder",
       "children": [
@@ -570,7 +570,7 @@
           "date_added": "13374626605947077",
           "date_last_used": "0",
           "guid": "f149a0cc-36f8-437b-8120-4208e0422249",
-          "id": "1506",
+          "id": "419",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -582,7 +582,7 @@
           "date_added": "13374626613911496",
           "date_last_used": "0",
           "guid": "e3475053-9ee9-49db-afc8-1dfe2daab102",
-          "id": "1507",
+          "id": "420",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -592,9 +592,9 @@
         },
         {
           "date_added": "13374626615694836",
-          "date_last_used": "13374626968061111",
+          "date_last_used": "0",
           "guid": "9e6cb098-e69f-49ee-9423-a0a6cc2fbe19",
-          "id": "1508",
+          "id": "421",
           "meta_info": {
             "power_bookmark_meta": ""
           },
@@ -606,16 +606,16 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "eaa57d35-f55f-4063-ba47-cc1dec9b8b9e",
-          "id": "509",
+          "id": "422",
           "name": "AT&T Archives: The UNIX Operating System - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/watch?v=tc4ROCJYbm0"
         },
         {
           "date_added": "0",
-          "date_last_used": "0",
+          "date_last_used": "13386526192733770",
           "guid": "72982a96-7582-4cf6-9b57-fad2acae30b8",
-          "id": "510",
+          "id": "423",
           "name": "File:Unix history-simple.svg - Wikipedia",
           "type": "url",
           "url": "https://en.wikipedia.org/wiki/File:Unix_history-simple.svg"
@@ -624,7 +624,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "caa8217b-aec7-44ad-af25-d9e1e659f43c",
-          "id": "511",
+          "id": "424",
           "name": "perlreref - Perl Regular Expressions Reference - Perldoc Browser",
           "type": "url",
           "url": "https://perldoc.perl.org/perlreref"
@@ -633,7 +633,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "499864e4-29e0-4fb5-9641-c5347bb58cdc",
-          "id": "512",
+          "id": "425",
           "name": "Vim Commands Cheat Sheet",
           "type": "url",
           "url": "http://www.fprintf.net/vimCheatSheet.html"
@@ -642,7 +642,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "083d9d53-9ea8-440d-b92e-df0d5304eade",
-          "id": "513",
+          "id": "426",
           "name": "YBlog - Learn Vim Progressively",
           "type": "url",
           "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/"
@@ -650,11 +650,21 @@
       ]
     },
     {
+      "date_added": "13389868172527206",
+      "date_last_used": "0",
+      "date_modified": "13389868172527206",
+      "guid": "c6ceac64-264e-4cfd-b18a-968f380c8932",
+      "id": "1434",
+      "name": "💡 iOS App Development with Swift",
+      "type": "folder",
+      "children": []
+    },
+    {
       "date_added": "13329404906447491",
       "date_last_used": "0",
       "date_modified": "13329404906447491",
       "guid": "761f60c4-a38b-4c6b-a8fe-5f89df5d6309",
-      "id": "299",
+      "id": "427",
       "name": "Advanced Vue.js Features from the Ground Up",
       "type": "folder",
       "children": [
@@ -662,7 +672,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8d462032-36a0-4c60-af01-2c7bf13e20e0",
-          "id": "300",
+          "id": "428",
           "name": "Advanced Workshop - Google Slides",
           "type": "url",
           "url": "https://docs.google.com/presentation/d/1TgDx4DN8YqfdndYWMovBcQVPWyKLTNcbo1YS8XlLo9o/edit#slide=id.p"
@@ -671,7 +681,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "049d0c0a-0b28-4682-9560-85d9b1874469",
-          "id": "301",
+          "id": "429",
           "name": "Object.defineProperty() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty"
@@ -680,7 +690,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9bfcc5e2-1b1c-4325-97bc-d1b460be991b",
-          "id": "302",
+          "id": "430",
           "name": "Plugins — Vue.js",
           "type": "url",
           "url": "https://vuejs.org/v2/guide/plugins.html"
@@ -689,7 +699,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "4b655a9e-e5de-46fd-a82a-eb914aaf85e2",
-          "id": "303",
+          "id": "431",
           "name": "Mixins — Vue.js",
           "type": "url",
           "url": "https://vuejs.org/v2/guide/mixins.html#Global-Mixin"
@@ -698,7 +708,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0e26a559-9c8a-4615-9698-243004907db9",
-          "id": "304",
+          "id": "432",
           "name": "API — Vue.js",
           "type": "url",
           "url": "https://vuejs.org/v2/api/#vm-options"
@@ -707,7 +717,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d3007623-03af-4690-b1c5-b9c53089b1be",
-          "id": "305",
+          "id": "433",
           "name": "Vue Template Explorer",
           "type": "url",
           "url": "https://template-explorer.vuejs.org/"
@@ -716,7 +726,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ca4e1b92-0927-4927-980c-e3668f26a6ab",
-          "id": "306",
+          "id": "434",
           "name": "hyperhype/hyperscript: Create HyperText with JavaScript.",
           "type": "url",
           "url": "https://github.com/hyperhype/hyperscript"
@@ -725,7 +735,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6ae53740-bac3-494c-ba89-0373aef3dba7",
-          "id": "307",
+          "id": "435",
           "name": "Render Functions & JSX — Vue.js",
           "type": "url",
           "url": "https://vuejs.org/v2/guide/render-function.html#The-Data-Object-In-Depth"
@@ -734,7 +744,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "45990ea5-2a51-421b-99d6-b790bc3cda50",
-          "id": "308",
+          "id": "436",
           "name": "Vuex",
           "type": "url",
           "url": "https://vuex.vuejs.org/guide/guide/"
@@ -743,7 +753,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "04ea3df6-0d33-4b49-9d4a-01cddf4f2f2c",
-          "id": "309",
+          "id": "437",
           "name": "Dan on Twitter: \"Flux libraries are like glasses: you’ll know when you need them.\" / Twitter",
           "type": "url",
           "url": "https://twitter.com/dan_abramov/status/704304462739939328"
@@ -752,7 +762,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e3c4db1e-7f90-4403-b4e2-a9f71bb957bd",
-          "id": "310",
+          "id": "438",
           "name": "pillarjs/path-to-regexp: Turn a path string such as `/user/:name` into a regular expression",
           "type": "url",
           "url": "https://github.com/pillarjs/path-to-regexp"
@@ -761,7 +771,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "2a685982-29a2-4d32-ab24-94e9bc506cc6",
-          "id": "311",
+          "id": "439",
           "name": "VeeValidate",
           "type": "url",
           "url": "https://vee-validate.logaretm.com/v4/"
@@ -770,7 +780,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "950fa3e9-a626-4991-ba7c-d7db93d3ef5a",
-          "id": "312",
+          "id": "440",
           "name": "vuelidate/vuelidate: Simple, lightweight model-based validation for Vue.js",
           "type": "url",
           "url": "https://github.com/vuelidate/vuelidate"
@@ -779,7 +789,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f4e9b52c-4d81-4689-a244-0e851b649796",
-          "id": "313",
+          "id": "441",
           "name": "kazupon/vue-i18n: Internationalization plugin for Vue.js",
           "type": "url",
           "url": "https://github.com/kazupon/vue-i18n"
@@ -788,7 +798,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "812774ba-1715-42eb-a02f-d88b4f7a14fa",
-          "id": "314",
+          "id": "442",
           "name": "karol-f/vue-custom-element: Vue Custom Element - Web Components' Custom Elements for Vue.js",
           "type": "url",
           "url": "https://github.com/karol-f/vue-custom-element"
@@ -800,7 +810,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906448299",
       "guid": "3d3c9645-4828-45b1-872b-d11a940f49fc",
-      "id": "315",
+      "id": "443",
       "name": "Complete Intro to Linux and the Command-Line",
       "type": "folder",
       "children": [
@@ -808,7 +818,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "66804c05-eda1-44a8-97a3-4e7c5d164aba",
-          "id": "316",
+          "id": "444",
           "name": "Complete Intro to Linux and the CLI",
           "type": "url",
           "url": "https://btholt.github.io/complete-intro-to-linux-and-the-cli/"
@@ -817,7 +827,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "639ebb5d-f11a-4f72-8258-65183e7bb939",
-          "id": "317",
+          "id": "445",
           "name": "btholt/complete-intro-to-linux-and-the-cli: 🐧 The Complete Intro to Linux and the Command Line, as taught for Frontend Masters",
           "type": "url",
           "url": "https://github.com/btholt/complete-intro-to-linux-and-the-cli"
@@ -826,7 +836,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c077b0ab-089b-416a-9a9b-c426797d958b",
-          "id": "318",
+          "id": "446",
           "name": "Home - AnnieCannons",
           "type": "url",
           "url": "https://anniecannons.com/"
@@ -835,7 +845,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "edba7da7-9ff5-4e85-865b-df4d59465f55",
-          "id": "319",
+          "id": "447",
           "name": "The Last Mile – Paving The Road To Success",
           "type": "url",
           "url": "https://thelastmile.org/"
@@ -844,7 +854,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "cd1bc03d-09dc-4a79-ab6e-7835701cc8e1",
-          "id": "320",
+          "id": "448",
           "name": "#VetsWhoCode 🇺🇸 | Retool - Retrain - Relaunch",
           "type": "url",
           "url": "https://vetswhocode.io/"
@@ -853,7 +863,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "eaef5eb0-f766-4ab2-a57f-bc4167670564",
-          "id": "321",
+          "id": "449",
           "name": "Linux vs. Unix: What's the difference? | Opensource.com",
           "type": "url",
           "url": "https://opensource.com/article/18/5/differences-between-linux-and-unix"
@@ -862,7 +872,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0c457271-22dd-43a9-8f38-7d2634743ae7",
-          "id": "322",
+          "id": "450",
           "name": "Red Hat - We make open source technologies for the enterprise",
           "type": "url",
           "url": "https://www.redhat.com/en"
@@ -871,7 +881,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "618fc38e-c897-4078-abf0-df369e8c0134",
-          "id": "323",
+          "id": "451",
           "name": "Publisher of Ubuntu | Canonical",
           "type": "url",
           "url": "https://canonical.com/"
@@ -880,7 +890,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8dc577f3-eb8a-4e21-9ba0-75f90e4d3005",
-          "id": "324",
+          "id": "452",
           "name": "Debian -- The Universal Operating System",
           "type": "url",
           "url": "https://www.debian.org/"
@@ -889,7 +899,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "33005db0-42bc-4ff0-b221-77eaf5e10b2f",
-          "id": "325",
+          "id": "453",
           "name": "Enterprise Open Source and Linux | Ubuntu",
           "type": "url",
           "url": "https://ubuntu.com/"
@@ -898,7 +908,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0254ea94-07b6-4afa-8e2d-ab13d6f85471",
-          "id": "326",
+          "id": "454",
           "name": "Multipass orchestrates virtual Ubuntu instances",
           "type": "url",
           "url": "https://multipass.run/"
@@ -907,7 +917,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a37812f2-063d-40fb-a647-26bf7965abb4",
-          "id": "327",
+          "id": "455",
           "name": "Installing Multipass for Windows | Multipass documentation",
           "type": "url",
           "url": "https://multipass.run/docs/installing-on-windows"
@@ -916,7 +926,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6b8fd5f0-98ff-4a56-b93b-2f0370324d53",
-          "id": "328",
+          "id": "456",
           "name": "Installing Multipass on macOS | Multipass documentation",
           "type": "url",
           "url": "https://multipass.run/docs/installing-on-macos"
@@ -925,7 +935,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "13d2995e-29de-43a8-8132-4bb89d1dd323",
-          "id": "329",
+          "id": "457",
           "name": "Oracle VM VirtualBox",
           "type": "url",
           "url": "https://www.virtualbox.org/"
@@ -934,7 +944,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "aeddceaf-317f-4815-8d30-d73cfd5b41ca",
-          "id": "330",
+          "id": "458",
           "name": "Change the behaviour of the modifier keys on Mac – Apple Support (UK)",
           "type": "url",
           "url": "https://support.apple.com/en-gb/guide/mac-help/mchlp1011/mac"
@@ -943,7 +953,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d346338f-a187-4fad-a672-308e0626b3b0",
-          "id": "331",
+          "id": "459",
           "name": "microsoft/PowerToys: Windows system utilities to maximize productivity",
           "type": "url",
           "url": "https://github.com/microsoft/PowerToys#keyboard-manager"
@@ -952,7 +962,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "03673099-4c29-414b-8747-f30e56dbd613",
-          "id": "332",
+          "id": "460",
           "name": "Trash-cli - A Trashcan Tool to Manage 'Trash' from Linux Command Line",
           "type": "url",
           "url": "https://www.tecmint.com/trash-cli-manage-linux-trash-from-command-line/"
@@ -961,7 +971,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "57acde99-e2c7-456d-899d-5e559af21b93",
-          "id": "333",
+          "id": "461",
           "name": "How To Use Linux Screen",
           "type": "url",
           "url": "https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/"
@@ -970,7 +980,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f841c6e7-93a4-46fd-a15e-8b563e73d127",
-          "id": "334",
+          "id": "462",
           "name": "How to Use tmux on Linux (and Why It’s Better Than Screen)",
           "type": "url",
           "url": "https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/"
@@ -979,7 +989,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e1f907cb-207a-4fa5-a9d3-ad09a8efc1ef",
-          "id": "335",
+          "id": "463",
           "name": "Diffie–Hellman key exchange - Wikipedia",
           "type": "url",
           "url": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange"
@@ -988,7 +998,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "83642d9e-aa4a-4955-84f3-8589944903a8",
-          "id": "336",
+          "id": "464",
           "name": "JosefZIla/bash2048: Bash implementation of 2048 game",
           "type": "url",
           "url": "https://github.com/JosefZIla/bash2048"
@@ -997,7 +1007,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a971f2aa-e445-4c74-9884-f9afbdb24f13",
-          "id": "337",
+          "id": "465",
           "name": "Learn Augment Python, Control Flow and APIs with Nina Zakharenko",
           "type": "url",
           "url": "https://frontendmasters.com/courses/python/"
@@ -1006,7 +1016,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "14d11f45-e611-4ee9-b00b-56dd102a8550",
-          "id": "338",
+          "id": "466",
           "name": "How to Create Bash Aliases for Git Commands & Search for Strings",
           "type": "url",
           "url": "https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/?utm_source=twitter&utm_medium=terminalalias-sd&utm_campaign=devex"
@@ -1015,7 +1025,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "84cd621f-dd95-4a60-9186-38d53f1c859e",
-          "id": "339",
+          "id": "467",
           "name": "The Missing Package Manager for macOS (or Linux) — Homebrew",
           "type": "url",
           "url": "https://brew.sh/"
@@ -1024,7 +1034,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f229b5da-02ac-4974-b61d-5d6544299bc0",
-          "id": "340",
+          "id": "468",
           "name": "What are the differences between snaps, appimage, flatpak and others? - Ask Ubuntu",
           "type": "url",
           "url": "https://askubuntu.com/questions/866511/what-are-the-differences-between-snaps-appimage-flatpak-and-others"
@@ -1033,7 +1043,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e72c08f8-1c36-4c74-8494-80346a2fc8ba",
-          "id": "341",
+          "id": "469",
           "name": "Install node on Linux | Snap Store",
           "type": "url",
           "url": "https://snapcraft.io/node"
@@ -1042,7 +1052,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c1b58f67-e595-4fb8-99c6-bbea6630f686",
-          "id": "342",
+          "id": "470",
           "name": "Install lolcat on Linux | Snap Store",
           "type": "url",
           "url": "https://snapcraft.io/lolcat"
@@ -1051,7 +1061,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e1020054-cc8a-4795-8658-3e4043393481",
-          "id": "343",
+          "id": "471",
           "name": "For mission-critical Node.js applications - NodeSource",
           "type": "url",
           "url": "https://nodesource.com/"
@@ -1060,7 +1070,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b839eee4-c970-4624-be63-5fdf7052f677",
-          "id": "344",
+          "id": "472",
           "name": "Crontab.guru - The cron schedule expression editor",
           "type": "url",
           "url": "https://crontab.guru/"
@@ -1069,7 +1079,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c9a894cf-e9a8-4f53-8b6e-a31d02a51b72",
-          "id": "345",
+          "id": "473",
           "name": "riobard/bash-powerline: Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline",
           "type": "url",
           "url": "https://github.com/riobard/bash-powerline"
@@ -1078,7 +1088,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e6c9d686-765f-40e7-8563-25a604db8970",
-          "id": "346",
+          "id": "474",
           "name": "awesome-lists/awesome-bash: A curated list of delightful Bash scripts and resources.",
           "type": "url",
           "url": "https://github.com/awesome-lists/awesome-bash"
@@ -1087,7 +1097,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "faedfd2d-7de9-46c6-92c8-cd90268df38a",
-          "id": "347",
+          "id": "475",
           "name": "Ln Command in Linux (Create Symbolic Links) | Linuxize",
           "type": "url",
           "url": "https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/"
@@ -1096,7 +1106,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f4b2ba66-448e-402f-b519-9ea94a344963",
-          "id": "348",
+          "id": "476",
           "name": "Introduction - Complete Intro to Containers (feat. Docker)",
           "type": "url",
           "url": "https://frontendmasters.com/courses/complete-intro-containers/introduction/"
@@ -1105,7 +1115,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b038b656-6e9d-4deb-ad8c-16099f4611c2",
-          "id": "349",
+          "id": "477",
           "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
           "type": "url",
           "url": "https://frontendmasters.com/courses/git-in-depth/"
@@ -1114,7 +1124,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "32691b6e-c20e-43ed-8570-7d7bf345901a",
-          "id": "350",
+          "id": "478",
           "name": "Learn Full-Stack Developer Course by Jem Young | Frontend Masters",
           "type": "url",
           "url": "https://frontendmasters.com/courses/fullstack-v2/"
@@ -1123,7 +1133,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "882eb99a-742c-4682-8522-c181e11c756b",
-          "id": "351",
+          "id": "479",
           "name": "Introduction to Node.js Course – Learn Server Side JavaScript",
           "type": "url",
           "url": "https://frontendmasters.com/courses/node-js/"
@@ -1135,7 +1145,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906450598",
       "guid": "24d054ae-456e-4ac8-a0cb-feddde9dfb63",
-      "id": "352",
+      "id": "480",
       "name": "Complete Intro to Web Development, v2",
       "type": "folder",
       "children": [
@@ -1143,7 +1153,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "fdf3a98d-9e9c-4101-9bb9-0dcf95cb3258",
-          "id": "353",
+          "id": "481",
           "name": "Intro to Web Dev v2",
           "type": "url",
           "url": "https://btholt.github.io/intro-to-web-dev-v2/"
@@ -1152,7 +1162,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "2df85b1b-53f4-4089-93e7-08a4545e3803",
-          "id": "354",
+          "id": "482",
           "name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
           "type": "url",
           "url": "https://stackoverflow.com/"
@@ -1161,7 +1171,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "53381e99-76bb-475b-a626-181bb5e0dc64",
-          "id": "355",
+          "id": "483",
           "name": "Front End Happy Hour",
           "type": "url",
           "url": "https://frontendhappyhour.com/"
@@ -1170,7 +1180,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d48ec586-21a4-4aa2-a835-39836e999643",
-          "id": "356",
+          "id": "484",
           "name": "Brian Holt (@holtbt) | Twitter",
           "type": "url",
           "url": "https://twitter.com/holtbt"
@@ -1179,7 +1189,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "dd731e6c-97c5-4fd1-8932-91054d40b5b2",
-          "id": "357",
+          "id": "485",
           "name": "bh (@briantholt) • Instagram photos and videos",
           "type": "url",
           "url": "https://www.instagram.com/briantholt/"
@@ -1188,7 +1198,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b787863a-1974-482d-a8cb-cb2d21fbed06",
-          "id": "358",
+          "id": "486",
           "name": "btholt (Brian Holt)",
           "type": "url",
           "url": "https://github.com/btholt"
@@ -1197,7 +1207,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f1eee672-ca12-472e-98d2-81b25a60313c",
-          "id": "359",
+          "id": "487",
           "name": "(11) Brian Holt | LinkedIn",
           "type": "url",
           "url": "https://www.linkedin.com/in/btholt/"
@@ -1206,7 +1216,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d8595663-68f4-443b-b527-84c4033d2380",
-          "id": "360",
+          "id": "488",
           "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
           "type": "url",
           "url": "https://frontendmasters.com/courses/git-in-depth/"
@@ -1215,7 +1225,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d8043042-91ed-4554-bc36-1ccb82aa3866",
-          "id": "361",
+          "id": "489",
           "name": "Download Visual Studio Code - Mac, Linux, Windows",
           "type": "url",
           "url": "https://code.visualstudio.com/download"
@@ -1224,7 +1234,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "7fbbfc64-4657-4156-bc47-29fc8821ae5a",
-          "id": "362",
+          "id": "490",
           "name": "iTerm2 - macOS Terminal Replacement",
           "type": "url",
           "url": "https://iterm2.com/"
@@ -1233,7 +1243,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d1de8fc0-7f32-409c-a50f-09e4aaaa1448",
-          "id": "363",
+          "id": "491",
           "name": "Hyper™",
           "type": "url",
           "url": "https://hyper.is/"
@@ -1242,7 +1252,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "81bccfe6-9be7-4c58-b557-c2f9f06f1772",
-          "id": "364",
+          "id": "492",
           "name": "Cmder | Console Emulator",
           "type": "url",
           "url": "https://cmder.net/"
@@ -1251,7 +1261,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c4c6791a-4421-43c0-bc03-637ef89ba3ce",
-          "id": "365",
+          "id": "493",
           "name": "Zsh",
           "type": "url",
           "url": "https://www.zsh.org/"
@@ -1260,7 +1270,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b869f9e3-49dc-4ea4-9cba-16bfa8a9254f",
-          "id": "366",
+          "id": "494",
           "name": "Download Firefox — Free Web Browser — Mozilla",
           "type": "url",
           "url": "https://www.mozilla.org/en-US/firefox/new/"
@@ -1269,7 +1279,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e6349f57-9ccc-4a90-a58f-dfd8afe785a1",
-          "id": "367",
+          "id": "495",
           "name": "Visual Studio Code - Code Editing. Redefined",
           "type": "url",
           "url": "https://code.visualstudio.com/"
@@ -1278,7 +1288,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "bc79184b-28ab-45d8-89f1-28d974b4696f",
-          "id": "368",
+          "id": "496",
           "name": "Extensions for Visual Studio family of products | Visual Studio Marketplace",
           "type": "url",
           "url": "https://marketplace.visualstudio.com/vscode?WT.mc_id=introtowebdev-github-brholt"
@@ -1287,7 +1297,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "44042628-3682-47f4-8c96-2e97f588be1d",
-          "id": "369",
+          "id": "497",
           "name": "Sublime Text - A sophisticated text editor for code, markup and prose",
           "type": "url",
           "url": "https://www.sublimetext.com/"
@@ -1296,7 +1306,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1729ff82-aeb2-44e8-9c52-968d7526a112",
-          "id": "370",
+          "id": "498",
           "name": "Atom",
           "type": "url",
           "url": "https://atom.io/"
@@ -1305,7 +1315,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f3f72a69-9ac3-4bb6-8702-c8fd2fc7a6f0",
-          "id": "371",
+          "id": "499",
           "name": "WebStorm: The Smartest JavaScript IDE by JetBrains",
           "type": "url",
           "url": "https://www.jetbrains.com/webstorm/"
@@ -1314,7 +1324,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "aa8fc6c0-4721-411f-9f42-8542e874a3ef",
-          "id": "372",
+          "id": "500",
           "name": "Bash - GNU Project - Free Software Foundation",
           "type": "url",
           "url": "https://www.gnu.org/software/bash/"
@@ -1323,7 +1333,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "058dc081-3483-4b32-803b-56eb22117366",
-          "id": "373",
+          "id": "501",
           "name": "Install Windows Subsystem for Linux (WSL) on Windows 10 | Microsoft Docs",
           "type": "url",
           "url": "https://docs.microsoft.com/en-us/windows/wsl/install-win10"
@@ -1332,7 +1342,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "534fefd6-c809-439c-b7c0-5e2123a3481a",
-          "id": "374",
+          "id": "502",
           "name": "fish shell",
           "type": "url",
           "url": "https://fishshell.com/"
@@ -1341,7 +1351,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "53a0492a-be0e-40bc-88d7-5556a7a64b75",
-          "id": "375",
+          "id": "503",
           "name": "MDN Web Docs",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/"
@@ -1350,7 +1360,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "fb070f35-8a69-4691-bdc2-d1617411b4a9",
-          "id": "376",
+          "id": "504",
           "name": "CSS-Tricks",
           "type": "url",
           "url": "https://css-tricks.com/"
@@ -1359,7 +1369,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9a395480-442f-4ec3-af9e-eb7920a1f08b",
-          "id": "377",
+          "id": "505",
           "name": "A Complete Guide to Flexbox | CSS-Tricks",
           "type": "url",
           "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
@@ -1368,7 +1378,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a5d15daf-1639-4529-a740-7c261d8b18d1",
-          "id": "378",
+          "id": "506",
           "name": "Front-end Developer Handbook 2018 · GitBook (Legacy)",
           "type": "url",
           "url": "https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details"
@@ -1377,7 +1387,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f3a14135-0db2-4a6c-8ce0-7817f242e1cd",
-          "id": "379",
+          "id": "507",
           "name": "HTML: HyperText Markup Language | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
@@ -1386,7 +1396,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "23d05206-8f71-45ac-9ed6-833daefcc318",
-          "id": "380",
+          "id": "508",
           "name": "HTML elements reference - HTML: Hypertext Markup Language | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"
@@ -1395,7 +1405,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "465e6185-1e24-49a9-ba6f-6c1d76888d1b",
-          "id": "381",
+          "id": "509",
           "name": "Homepage - Material Design",
           "type": "url",
           "url": "https://material.io/"
@@ -1404,7 +1414,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "5ff57f94-289b-4281-9799-f1418df42bba",
-          "id": "382",
+          "id": "510",
           "name": "CodePen: Build, Test, and Discover Front-end Code.",
           "type": "url",
           "url": "https://codepen.io/"
@@ -1413,7 +1423,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "cd537f18-099f-4c70-b2f3-45389190ae34",
-          "id": "383",
+          "id": "511",
           "name": "Lorem Ipsum - All the facts - Lipsum generator",
           "type": "url",
           "url": "https://www.lipsum.com/"
@@ -1422,7 +1432,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1ca9d8b3-56e3-4511-b190-b33d7545c2d5",
-          "id": "384",
+          "id": "512",
           "name": "harvesthq/chosen: Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.",
           "type": "url",
           "url": "https://github.com/harvesthq/chosen"
@@ -1431,7 +1441,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "418f8b6e-7902-422e-bf9f-8f1925da8d54",
-          "id": "385",
+          "id": "513",
           "name": "selectize/selectize.js: Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.",
           "type": "url",
           "url": "https://github.com/selectize/selectize.js"
@@ -1440,7 +1450,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0ea2ee3f-cd6b-47bc-abae-75a2692fa128",
-          "id": "386",
+          "id": "514",
           "name": "Named Colors and Hex Equivalents | CSS-Tricks",
           "type": "url",
           "url": "https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/"
@@ -1449,7 +1459,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e52431ac-37ba-42ed-8bc1-d22376abb869",
-          "id": "387",
+          "id": "515",
           "name": "CSS Learning Path – Learn CSS, from Laying Out Websites to Performant Animations",
           "type": "url",
           "url": "https://frontendmasters.com/learn/css/"
@@ -1458,7 +1468,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "7c345707-9625-4511-ae36-c1e68f08618d",
-          "id": "388",
+          "id": "516",
           "name": "Learn from Sarah Drasner's courses on Frontend Masters",
           "type": "url",
           "url": "https://frontendmasters.com/teachers/sarah-drasner/"
@@ -1467,7 +1477,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "80ac0c86-a469-46b6-97fe-0c4fe591d3a5",
-          "id": "389",
+          "id": "517",
           "name": "Learn from Shirley Wu's courses on Frontend Masters",
           "type": "url",
           "url": "https://frontendmasters.com/teachers/shirley-wu/"
@@ -1476,7 +1486,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "bbc16626-76fd-4fe4-90d5-5649d8ec0f15",
-          "id": "390",
+          "id": "518",
           "name": "CSS Properties Index · Jens Oliver Meiert",
           "type": "url",
           "url": "https://meiert.com/en/indices/css-properties/"
@@ -1485,7 +1495,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c01ea745-68ce-4723-b570-8cc5ff2108b0",
-          "id": "391",
+          "id": "519",
           "name": "A Nerd's Guide to Color on the Web | CSS-Tricks",
           "type": "url",
           "url": "https://css-tricks.com/nerds-guide-color-web/"
@@ -1494,7 +1504,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8aca8a23-8c88-48e3-b86d-629ed26c1f5b",
-          "id": "392",
+          "id": "520",
           "name": "The Lengths of CSS | CSS-Tricks",
           "type": "url",
           "url": "https://css-tricks.com/the-lengths-of-css/"
@@ -1503,7 +1513,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9cd1331d-df18-4451-9405-db51f6c615d3",
-          "id": "393",
+          "id": "521",
           "name": "Responsive Typography Video Course by Jason Pamental",
           "type": "url",
           "url": "https://frontendmasters.com/courses/responsive-typography/"
@@ -1512,7 +1522,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f315a1a6-a5ce-4356-80d7-0acd71e9f435",
-          "id": "394",
+          "id": "522",
           "name": "CSS Playground",
           "type": "url",
           "url": "https://codepen.io/btholt/pen/ELaxOB"
@@ -1521,7 +1531,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9f22a361-bc4e-4d8e-8669-c03c71f2f9fa",
-          "id": "395",
+          "id": "523",
           "name": "Learn the Chrome Developer Tools to Debug and Optimize Sites and Web Apps",
           "type": "url",
           "url": "https://frontendmasters.com/courses/chrome-dev-tools-v2/"
@@ -1530,7 +1540,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "eb62a3cf-c469-4e79-bcba-8941cefde823",
-          "id": "396",
+          "id": "524",
           "name": "Meet the Pseudo Class Selectors | CSS-Tricks",
           "type": "url",
           "url": "https://css-tricks.com/pseudo-class-selectors/"
@@ -1539,7 +1549,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ef53d507-43ff-4ee4-9fae-43d727abf57d",
-          "id": "397",
+          "id": "525",
           "name": "::before / ::after | CSS-Tricks",
           "type": "url",
           "url": "https://css-tricks.com/almanac/selectors/a/after-and-before/"
@@ -1548,7 +1558,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3a50881c-f839-42b4-bbe9-dc82f9efcb4a",
-          "id": "398",
+          "id": "526",
           "name": "specificity3.png* : Page 1 @ 100%",
           "type": "url",
           "url": "http://www.standardista.com/wp-content/uploads/2012/01/specificity3.pdf"
@@ -1557,7 +1567,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d8834b40-b138-40d2-992a-4960ea1824a8",
-          "id": "399",
+          "id": "527",
           "name": "Learn CSS In-Depth with Estelle Weyl",
           "type": "url",
           "url": "https://frontendmasters.com/courses/css-in-depth-v2/"
@@ -1566,7 +1576,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9f5f9e7d-308b-44e8-8c48-26c65c6d298f",
-          "id": "400",
+          "id": "528",
           "name": "CSS Specificity – Standardista",
           "type": "url",
           "url": "http://www.standardista.com/css3/css-specificity/"
@@ -1575,7 +1585,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "25122186-6c4a-43d6-86e6-f42bcb5b89c6",
-          "id": "401",
+          "id": "529",
           "name": "Introduction to the CSS basic box model - CSS: Cascading Style Sheets | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"
@@ -1584,7 +1594,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c4282b00-3b10-49a0-a1de-5f668f468a68",
-          "id": "402",
+          "id": "530",
           "name": "Inheriting box-sizing Probably Slightly Better Best-Practice | CSS-Tricks",
           "type": "url",
           "url": "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/"
@@ -1593,7 +1603,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d1b0f561-3597-45d0-91ef-6650e5f8c913",
-          "id": "403",
+          "id": "531",
           "name": "Learn CSS Grids and Flexbox for Responsive Web Design",
           "type": "url",
           "url": "https://frontendmasters.com/courses/css-grids-flexbox/"
@@ -1602,7 +1612,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "7e37e4ff-de1e-4464-9338-04819b2b7e27",
-          "id": "404",
+          "id": "532",
           "name": "* { box-sizing: border-box } FTW - Paul Irish",
           "type": "url",
           "url": "https://www.paulirish.com/2012/box-sizing-border-box-ftw/"
@@ -1611,7 +1621,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "5b2d566c-8dc9-4321-abef-96bff6243a73",
-          "id": "405",
+          "id": "533",
           "name": "Learn Visual Studio Code to Super Charge Your Web Development Productivity",
           "type": "url",
           "url": "https://frontendmasters.com/courses/visual-studio-code/"
@@ -1620,7 +1630,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0b530d94-daf1-4ac2-8329-19fd5549e208",
-          "id": "406",
+          "id": "534",
           "name": "Learn Emmet & HTML – Visual Studio Code",
           "type": "url",
           "url": "https://frontendmasters.com/courses/visual-studio-code/emmet-html/"
@@ -1629,7 +1639,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d08e6d5a-a330-4840-9c65-170d9ecaf048",
-          "id": "407",
+          "id": "535",
           "name": "PlaceCorgi",
           "type": "url",
           "url": "http://placecorgi.com/"
@@ -1638,7 +1648,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c7666340-26d6-4ad6-ac09-76460c5ed4d5",
-          "id": "408",
+          "id": "536",
           "name": "Google Fonts",
           "type": "url",
           "url": "https://fonts.google.com/"
@@ -1647,7 +1657,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1b23cb2f-2c1a-4113-acfd-a5f554e7933f",
-          "id": "409",
+          "id": "537",
           "name": "Emmet — the essential toolkit for web-developers",
           "type": "url",
           "url": "https://emmet.io/"
@@ -1656,7 +1666,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "02a3fff5-db94-4de3-b1e1-808b32eb47a4",
-          "id": "410",
+          "id": "538",
           "name": "Flexbox Zombies | Mastery Games",
           "type": "url",
           "url": "https://flexboxzombies.com/p/flexbox-zombies"
@@ -1665,7 +1675,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "deff8c0a-3fdc-417c-9fe6-37a0ee22e15b",
-          "id": "411",
+          "id": "539",
           "name": "Flexbox Froggy - A game for learning CSS flexbox",
           "type": "url",
           "url": "https://flexboxfroggy.com/"
@@ -1674,7 +1684,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c958a404-7a7e-431f-965b-3300e8abf529",
-          "id": "412",
+          "id": "540",
           "name": "tonsky/FiraCode: Monospaced font with programming ligatures",
           "type": "url",
           "url": "https://github.com/tonsky/FiraCode"
@@ -1683,7 +1693,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "2ab1ed3c-9ba5-44e5-9349-2d13b8dda4e1",
-          "id": "413",
+          "id": "541",
           "name": "JS Exercise",
           "type": "url",
           "url": "https://codepen.io/btholt/pen/ELozBz"
@@ -1692,7 +1702,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b9e98a39-f567-493a-a72d-e539558af207",
-          "id": "414",
+          "id": "542",
           "name": "Standard built-in objects - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects"
@@ -1701,7 +1711,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1d77828e-01f8-4b68-ba6c-32dedce307fe",
-          "id": "415",
+          "id": "543",
           "name": "TypeScript - JavaScript that scales.",
           "type": "url",
           "url": "https://www.typescriptlang.org/"
@@ -1710,7 +1720,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "305fb1b8-12b7-4bda-923f-a1940a8cab3e",
-          "id": "416",
+          "id": "544",
           "name": "Learn from Kyle Simpson's courses on Frontend Masters",
           "type": "url",
           "url": "https://frontendmasters.com/teachers/kyle-simpson/"
@@ -1719,7 +1729,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b714cd6d-c7a6-4b07-aeb1-a39563ea0a26",
-          "id": "417",
+          "id": "545",
           "name": "Learn Functional Programming in JavaScript (v2) with Kyle Simpson",
           "type": "url",
           "url": "https://frontendmasters.com/courses/functional-javascript-v2/"
@@ -1728,7 +1738,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c26bca43-9af6-4efb-a254-e3405355a826",
-          "id": "418",
+          "id": "546",
           "name": "Hardcore Functional Programming in JavaScript Video Course",
           "type": "url",
           "url": "https://frontendmasters.com/courses/functional-javascript/"
@@ -1737,7 +1747,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "5a36ab6a-c32e-40ef-9df6-6dcb018cee34",
-          "id": "419",
+          "id": "547",
           "name": "Learn JavaScript fundamentals and functional programming techniques to write modern, professional JavaScript!",
           "type": "url",
           "url": "https://frontendmasters.com/courses/js-fundamentals-functional-v2/"
@@ -1746,7 +1756,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "510e0a0a-bbdb-4f51-babd-30f56878b337",
-          "id": "420",
+          "id": "548",
           "name": "Event Delegation",
           "type": "url",
           "url": "https://codepen.io/frontendmasters/pen/ZMPqpX"
@@ -1755,7 +1765,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "71aad2b2-988c-4da7-a24d-4aa1a4907581",
-          "id": "421",
+          "id": "549",
           "name": "WebAIM: Contrast Checker",
           "type": "url",
           "url": "https://webaim.org/resources/contrastchecker/"
@@ -1764,7 +1774,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "4a38614a-814d-4da0-a5c3-2324e1ab459f",
-          "id": "422",
+          "id": "550",
           "name": "Learn JavaScript Performance - Optimize and fix common JavaScript performance issues to make your web apps fast.",
           "type": "url",
           "url": "https://frontendmasters.com/courses/web-performance/"
@@ -1773,7 +1783,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1acd65f3-a937-4be4-86f6-52e537167f0f",
-          "id": "423",
+          "id": "551",
           "name": "intro-to-web-dev-v2/calculator.css at master · btholt/intro-to-web-dev-v2",
           "type": "url",
           "url": "https://github.com/btholt/intro-to-web-dev-v2/blob/master/static/calculator.css"
@@ -1782,7 +1792,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3893cb3a-60cc-4f26-b464-0b5a90997e64",
-          "id": "424",
+          "id": "552",
           "name": "intro-to-web-dev-v2/calculator.html at master · btholt/intro-to-web-dev-v2",
           "type": "url",
           "url": "https://github.com/btholt/intro-to-web-dev-v2/blob/master/static/calculator.html"
@@ -1791,7 +1801,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "5444b4be-794c-401f-9dab-5d09e0304ac4",
-          "id": "425",
+          "id": "553",
           "name": "intro-to-web-dev-v2/calculator.js at master · btholt/intro-to-web-dev-v2",
           "type": "url",
           "url": "https://github.com/btholt/intro-to-web-dev-v2/blob/master/static/calculator.js"
@@ -1800,7 +1810,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1ab9bd94-a076-4676-baa6-1b1eab762582",
-          "id": "426",
+          "id": "554",
           "name": "Dog API",
           "type": "url",
           "url": "https://dog.ceo/dog-api/documentation/random"
@@ -1809,7 +1819,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0b4c471f-9265-4010-8ac3-e2a9e4b4d617",
-          "id": "427",
+          "id": "555",
           "name": "Dog API",
           "type": "url",
           "url": "https://dog.ceo/dog-api/"
@@ -1818,7 +1828,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a1e48b67-a2d5-482e-91cd-c3ce20d10a30",
-          "id": "428",
+          "id": "556",
           "name": "Popmotion | JavaScript animation libraries for delightful interfaces",
           "type": "url",
           "url": "https://popmotion.io/"
@@ -1827,7 +1837,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "dcb54553-8523-4ff0-b9b8-de5fe01f684e",
-          "id": "429",
+          "id": "557",
           "name": "jQuery",
           "type": "url",
           "url": "https://jquery.com/"
@@ -1836,7 +1846,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3d32e432-5610-4f1c-9d2e-357df5fb815e",
-          "id": "430",
+          "id": "558",
           "name": "UNPKG",
           "type": "url",
           "url": "https://unpkg.com/#/"
@@ -1845,7 +1855,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0b39c21c-52e9-4340-808a-9391b5e51829",
-          "id": "431",
+          "id": "559",
           "name": "Node.js — Run JavaScript Everywhere",
           "type": "url",
           "url": "https://nodejs.org/en/"
@@ -1854,7 +1864,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "75997d4d-3e99-4e94-b636-daa7e9537bd1",
-          "id": "432",
+          "id": "560",
           "name": "Learn Webpack 4 with Sean Larkin, Core Maintainer of Webpack",
           "type": "url",
           "url": "https://frontendmasters.com/courses/webpack-fundamentals/"
@@ -1863,7 +1873,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "78d08073-7694-46ec-9248-d01af937d166",
-          "id": "433",
+          "id": "561",
           "name": "Parcel",
           "type": "url",
           "url": "https://parceljs.org/"
@@ -1872,7 +1882,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "79bb0b56-a8c2-42a8-ac6b-e8b61f1016d2",
-          "id": "434",
+          "id": "562",
           "name": "npm | build amazing things",
           "type": "url",
           "url": "https://www.npmjs.com/"
@@ -1881,7 +1891,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6c1e984f-6ef7-412d-a29f-71657d6d7103",
-          "id": "435",
+          "id": "563",
           "name": "Git",
           "type": "url",
           "url": "https://git-scm.com/"
@@ -1890,7 +1900,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c244882e-3680-4acc-9e60-7e9dfeec889b",
-          "id": "436",
+          "id": "564",
           "name": "GitHub Desktop | Simple collaboration from your desktop",
           "type": "url",
           "url": "https://desktop.github.com/"
@@ -1899,7 +1909,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d9db32e8-9c5a-4bf6-aab4-2ee19f2017cf",
-          "id": "437",
+          "id": "565",
           "name": "Sourcetree | Free Git GUI for Mac and Windows",
           "type": "url",
           "url": "https://www.sourcetreeapp.com/"
@@ -1908,7 +1918,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "77d707f0-5c47-4c51-bd74-66b37400e106",
-          "id": "438",
+          "id": "566",
           "name": "explainshell.com - match command-line arguments to their help text",
           "type": "url",
           "url": "https://explainshell.com/"
@@ -1917,7 +1927,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6551f8b3-a68d-4819-bdbf-59a26637a527",
-          "id": "439",
+          "id": "567",
           "name": "Learn Full Stack Development for Front End Engineers with Jem Young",
           "type": "url",
           "url": "https://frontendmasters.com/courses/full-stack/"
@@ -1926,7 +1936,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "13866647-ad6e-4851-8a0c-f19a0e94aa73",
-          "id": "440",
+          "id": "568",
           "name": "Choose an open source license | Choose a License",
           "type": "url",
           "url": "https://choosealicense.com/"
@@ -1935,7 +1945,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "99dc8f59-d938-4133-8788-da3af2052f6c",
-          "id": "441",
+          "id": "569",
           "name": "GitHub",
           "type": "url",
           "url": "https://github.com/"
@@ -1944,7 +1954,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "02a25c65-a757-4e28-adea-cbd937701765",
-          "id": "442",
+          "id": "570",
           "name": "Express - Node.js web application framework",
           "type": "url",
           "url": "https://expressjs.com/"
@@ -1953,7 +1963,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9b187e40-71c9-4d1a-957e-423c53fc6caf",
-          "id": "443",
+          "id": "571",
           "name": "Math.random() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random"
@@ -1962,7 +1972,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f8d2f8c8-3ca1-48ff-8c07-2072ecf88fbe",
-          "id": "444",
+          "id": "572",
           "name": "Learn to use AWS Lambda in production using the Serverless Framework",
           "type": "url",
           "url": "https://frontendmasters.com/courses/serverless-aws/"
@@ -1971,7 +1981,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "90131ed0-7819-437a-baa3-7fd93ec6a450",
-          "id": "445",
+          "id": "573",
           "name": "btholt/intro-to-web-dev-v2: Intro to Web Dev, v2",
           "type": "url",
           "url": "https://github.com/btholt/intro-to-web-dev-v2"
@@ -1980,7 +1990,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "7af44276-fce7-4f76-b723-d7ba2e35740d",
-          "id": "446",
+          "id": "574",
           "name": "First Timers Only - Get involved in Open Source and commit code to your first project!",
           "type": "url",
           "url": "https://www.firsttimersonly.com/"
@@ -1989,7 +1999,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6e10f29b-2197-4e60-8505-1d953bb40324",
-          "id": "447",
+          "id": "575",
           "name": "Beginner Learning Path – Your Path to Becoming a Career-Ready Web Developer!",
           "type": "url",
           "url": "https://frontendmasters.com/learn/beginner/"
@@ -2001,7 +2011,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906455453",
       "guid": "d65132db-8ca2-4b41-ab66-f2acf7b2d376",
-      "id": "448",
+      "id": "576",
       "name": "Deep JavaScript Foundations, v3",
       "type": "folder",
       "children": [
@@ -2009,7 +2019,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "296f0615-100c-4e0c-ae38-b74bd7ba800c",
-          "id": "449",
+          "id": "577",
           "name": "deepjs",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2019-03-07-deep-javascript-v2/deep-js-foundations-v2.pdf"
@@ -2018,7 +2028,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "4c343081-758f-49f3-b801-eebda6170d0a",
-          "id": "450",
+          "id": "578",
           "name": "Kyle Simpson Presents: Code is for Humans",
           "type": "url",
           "url": "https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/"
@@ -2027,7 +2037,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a9bdf88d-d76a-423c-80e8-af335bba82f4",
-          "id": "451",
+          "id": "579",
           "name": "getify (@getify) / Twitter",
           "type": "url",
           "url": "https://twitter.com/getify"
@@ -2036,7 +2046,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "34db91fd-51d5-401f-91b5-4b60135c389c",
-          "id": "452",
+          "id": "580",
           "name": "getify (Kyle Simpson)",
           "type": "url",
           "url": "https://github.com/getify"
@@ -2045,7 +2055,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c4ac0deb-c7b2-473e-9012-ad4f9d47af1b",
-          "id": "453",
+          "id": "581",
           "name": "Compose Mail - andreas.z.nasman@gmail.com - Gmail",
           "type": "url",
           "url": "mailto:getify@gmail.com"
@@ -2054,7 +2064,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "caa77103-297c-42a6-a620-dec4c594d963",
-          "id": "454",
+          "id": "582",
           "name": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
           "type": "url",
           "url": "https://github.com/getify/You-Dont-Know-JS"
@@ -2063,7 +2073,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "609ac95a-c109-439b-a262-0a8bd078368f",
-          "id": "455",
+          "id": "583",
           "name": "Babel · The compiler for next generation JavaScript",
           "type": "url",
           "url": "https://babeljs.io/"
@@ -2072,7 +2082,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "32af75a0-846d-4063-b502-4bb3840e3edb",
-          "id": "456",
+          "id": "584",
           "name": "ECMAScript® 2018 Language Specification",
           "type": "url",
           "url": "https://www.ecma-international.org/ecma-262/9.0/index.html#Title"
@@ -2081,7 +2091,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "7ba96373-7307-47b9-8d08-3f9936e896fa",
-          "id": "457",
+          "id": "585",
           "name": "You Don't Know JS Yet on Twitter: \"Consider: x = \"5\"; y = x++; That inaccurate mental model would have predicted `x` as \"51\" (\"5\" + 1) and `y` as just \"5\". Instead x will end up as `6`, and `y` will be `5`, not \"5\". The spec says `y = x++` is basically: y",
           "type": "url",
           "url": "https://twitter.com/YDKJS/status/1099716798088400899"
@@ -2090,7 +2100,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f135828b-f055-4c72-9b80-a956fc84fe50",
-          "id": "458",
+          "id": "586",
           "name": "ECMAScript® 2018 Language Specification",
           "type": "url",
           "url": "https://www.ecma-international.org/ecma-262/9.0/index.html#sec-ecmascript-language-types"
@@ -2099,7 +2109,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "5bc24d9c-8b62-4b22-b7e2-4adcc1a7ea71",
-          "id": "459",
+          "id": "587",
           "name": "BigInt - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt"
@@ -2108,7 +2118,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ab185710-7d94-4c2d-a063-60bc12818be1",
-          "id": "460",
+          "id": "588",
           "name": "let - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#The_temporal_dead_zone_and_typeof"
@@ -2117,7 +2127,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d8a7a570-c542-41ae-b5bd-def1d9a733a5",
-          "id": "461",
+          "id": "589",
           "name": "ECMAScript® 2018 Language Specification",
           "type": "url",
           "url": "https://www.ecma-international.org/ecma-262/9.0/index.html#sec-abstract-operations"
@@ -2126,7 +2136,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "82725500-61d0-4601-9b47-418f3e59fdea",
-          "id": "462",
+          "id": "590",
           "name": "ECMAScript® 2018 Language Specification",
           "type": "url",
           "url": "https://www.ecma-international.org/ecma-262/9.0/index.html#sec-strict-equality-comparison"
@@ -2135,7 +2145,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6ba03576-63e2-4ac8-9430-9d97babdac70",
-          "id": "463",
+          "id": "591",
           "name": "ESLint - Pluggable JavaScript linter",
           "type": "url",
           "url": "https://eslint.org/"
@@ -2144,7 +2154,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "14b24f58-0655-4737-8f87-85de2833fa99",
-          "id": "464",
+          "id": "592",
           "name": "Learn TypeScript to add strong typing to make your JavaScript apps",
           "type": "url",
           "url": "https://frontendmasters.com/courses/typescript/"
@@ -2153,7 +2163,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "122a394b-9185-4779-b2dd-42f280ea9bb3",
-          "id": "465",
+          "id": "593",
           "name": "niieani/typescript-vs-flowtype: Differences between Flowtype and TypeScript -- syntax and usability",
           "type": "url",
           "url": "https://github.com/niieani/typescript-vs-flowtype"
@@ -2162,7 +2172,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e729cb55-94eb-4da0-bfe4-59d5fc1843d5",
-          "id": "466",
+          "id": "594",
           "name": "Learn Bonus: Typl – Deep JavaScript Foundations, v3",
           "type": "url",
           "url": "https://frontendmasters.com/courses/deep-javascript-v3/bonus-typl/"
@@ -2171,7 +2181,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a0405c2f-ac01-49e2-83a9-8c089cf7757d",
-          "id": "467",
+          "id": "595",
           "name": "Arrow function expressions - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions"
@@ -2180,7 +2190,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "88971ce1-13ed-46d2-b360-27aaabb8f5e5",
-          "id": "468",
+          "id": "596",
           "name": "Array.prototype.find() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find"
@@ -2189,7 +2199,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "aee15158-8cbf-4065-ab4d-fa80b8d1988d",
-          "id": "469",
+          "id": "597",
           "name": "Array.prototype.map() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map"
@@ -2198,7 +2208,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "59a70472-d60f-42da-b888-dbfa05197083",
-          "id": "470",
+          "id": "598",
           "name": "Array.prototype.sort() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort"
@@ -2207,7 +2217,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "fc2f2e29-88f5-4346-ac0f-c1be0bbcb938",
-          "id": "471",
+          "id": "599",
           "name": "Array.prototype.filter() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"
@@ -2216,7 +2226,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "73eaff85-cfbf-423a-a2e2-bdb8b20b9837",
-          "id": "472",
+          "id": "600",
           "name": "Array.prototype.includes() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"
@@ -2225,7 +2235,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f623afab-78c1-42be-b7b0-8418263d2518",
-          "id": "473",
+          "id": "601",
           "name": "The Perl Programming Language - www.perl.org",
           "type": "url",
           "url": "https://www.perl.org/"
@@ -2234,7 +2244,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8c059862-73e8-4f9b-80b6-959199353bbc",
-          "id": "474",
+          "id": "602",
           "name": "npm | build amazing things",
           "type": "url",
           "url": "https://www.npmjs.com/"
@@ -2243,7 +2253,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c26d0061-3c8a-49be-8926-168ca3093789",
-          "id": "475",
+          "id": "603",
           "name": "ECMAScript® 2018 Language Specification",
           "type": "url",
           "url": "https://262.ecma-international.org/9.0/#sec-arrow-function-definitions-runtime-semantics-evaluation"
@@ -2252,7 +2262,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "02ef405b-8de2-46ce-8f39-bb28e230e9ae",
-          "id": "476",
+          "id": "604",
           "name": "creating hard-bound methods on classes",
           "type": "url",
           "url": "https://gist.github.com/getify/86bed0bb78ccb517c84a6e61ec16adca"
@@ -2261,7 +2271,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3f3769bd-f5c5-4c05-ac89-ab0edbbf7dfb",
-          "id": "477",
+          "id": "605",
           "name": "RunJS - A playground for JavaScript and TypeScript",
           "type": "url",
           "url": "https://runjs.app/"
@@ -2270,7 +2280,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0f4b30c3-2888-4920-b8a7-1c3f90100bb2",
-          "id": "478",
+          "id": "606",
           "name": "Object - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
@@ -2279,7 +2289,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d10cd572-54f6-4c75-907f-a5e9b6a88e79",
-          "id": "479",
+          "id": "607",
           "name": "Object.setPrototypeOf() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf"
@@ -2288,7 +2298,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0b4fd18c-b24d-4faa-93f9-33b95efd5e6a",
-          "id": "480",
+          "id": "608",
           "name": "Lua: about",
           "type": "url",
           "url": "https://www.lua.org/about.html"
@@ -2300,7 +2310,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906457137",
       "guid": "4f6be496-43e3-4dbc-95c3-3d43e634809a",
-      "id": "481",
+      "id": "609",
       "name": "Getting Started with JavaScript, v2",
       "type": "folder",
       "children": [
@@ -2308,7 +2318,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "2eacd187-3dd3-41c8-a03d-3429e268e332",
-          "id": "482",
+          "id": "610",
           "name": "into-js",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2019-05-08-getting-into-javascript/getting-into-javascript.pdf"
@@ -2317,7 +2327,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e6aebd0b-b323-4dc8-9459-123d2dba9ec1",
-          "id": "483",
+          "id": "611",
           "name": "Compose Mail - andreas.z.nasman@gmail.com - Gmail",
           "type": "url",
           "url": "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=getify@gmail.com"
@@ -2326,7 +2336,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "dfbb7a01-665e-4ad0-963d-0becad4d5b7e",
-          "id": "484",
+          "id": "612",
           "name": "getify (@getify) / Twitter",
           "type": "url",
           "url": "https://twitter.com/getify"
@@ -2335,7 +2345,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b7aa63bf-0458-46af-a4fc-8a421dbc8066",
-          "id": "485",
+          "id": "613",
           "name": "getify (Kyle Simpson)",
           "type": "url",
           "url": "https://github.com/getify"
@@ -2344,7 +2354,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "7382c46d-7a11-4413-8555-3ddeea44e122",
-          "id": "486",
+          "id": "614",
           "name": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
           "type": "url",
           "url": "https://github.com/getify/You-Dont-Know-JS"
@@ -2353,7 +2363,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "32f5af32-13d2-472c-af54-45b1f4c15906",
-          "id": "487",
+          "id": "615",
           "name": "You Don't Know JS: Up & Going by Simpson, Kyle (ebook)",
           "type": "url",
           "url": "https://www.ebooks.com/en-us/1993212/you-don-t-know-js-up-going/kyle-simpson/"
@@ -2362,7 +2372,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "12c6d687-b9a1-404b-907d-ca884e7f8da2",
-          "id": "488",
+          "id": "616",
           "name": "RunJS - A playground for JavaScript and TypeScript",
           "type": "url",
           "url": "https://runjs.app/"
@@ -2371,7 +2381,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e570e954-133b-4efa-ab52-9067677a5a90",
-          "id": "489",
+          "id": "617",
           "name": "Chrome DevTools  |  Tools for Web Developers  |  Google Developers",
           "type": "url",
           "url": "https://developers.google.com/web/tools/chrome-devtools/"
@@ -2380,7 +2390,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "03755f50-54ef-475f-bd16-067e970471e1",
-          "id": "490",
+          "id": "618",
           "name": "Node.js — Run JavaScript Everywhere",
           "type": "url",
           "url": "https://nodejs.org/en/"
@@ -2389,7 +2399,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "4ebb8503-1853-4c2a-9823-f7a5198cfe09",
-          "id": "491",
+          "id": "619",
           "name": "Kyle Simpson Presents: Code is for Humans",
           "type": "url",
           "url": "https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/"
@@ -2398,7 +2408,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ea79a449-9916-40b5-83cb-c7d18ba25845",
-          "id": "492",
+          "id": "620",
           "name": "George Boole - Wikipedia",
           "type": "url",
           "url": "https://en.wikipedia.org/wiki/George_Boole"
@@ -2407,7 +2417,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "11ace588-e5ae-4f35-9f7a-d21ddf4ab0d7",
-          "id": "493",
+          "id": "621",
           "name": "A is for Array by Brandon J Hansen, Paperback | Barnes & Noble®",
           "type": "url",
           "url": "https://www.barnesandnoble.com/w/a-is-for-array-brandon-j-hansen/1115440566"
@@ -2416,7 +2426,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a461b377-23e5-4be1-add7-f7cf44555242",
-          "id": "494",
+          "id": "622",
           "name": "typeof - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof"
@@ -2425,7 +2435,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "78789ec9-122f-4a21-a7f7-53b8d3637492",
-          "id": "495",
+          "id": "623",
           "name": "Array.prototype.includes() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"
@@ -2434,7 +2444,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b6d82337-2613-478d-abe2-3e585443ca9b",
-          "id": "496",
+          "id": "624",
           "name": "Array.prototype.push() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"
@@ -2443,7 +2453,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8039898d-160d-4ad8-a441-59cebed2ba08",
-          "id": "497",
+          "id": "625",
           "name": "Template literals (Template strings) - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
@@ -2452,7 +2462,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c2a185c2-168d-40c9-9d23-d6031a3d5b93",
-          "id": "498",
+          "id": "626",
           "name": "You-Dont-Know-JS/README.md at 1st-ed · getify/You-Dont-Know-JS",
           "type": "url",
           "url": "https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20&%20going/README.md#you-dont-know-js-up--going"
@@ -2461,7 +2471,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "fac5a726-6e32-4863-a338-48566ee6c081",
-          "id": "499",
+          "id": "627",
           "name": "You-Dont-Know-JS/get-started at 2nd-ed · getify/You-Dont-Know-JS",
           "type": "url",
           "url": "https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started"
@@ -2470,7 +2480,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "139e5dc7-84c8-453b-bc31-6ab9a40ae000",
-          "id": "500",
+          "id": "628",
           "name": "isNaN() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN"
@@ -2479,7 +2489,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a37a377e-65da-407d-8210-3d9c924ec96c",
-          "id": "501",
+          "id": "629",
           "name": "Learn the JavaScript language with Kyle Simpson, author of the popular, You Don't Know JS, book series.",
           "type": "url",
           "url": "https://frontendmasters.com/courses/deep-javascript-v3/"
@@ -2488,7 +2498,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ac43d5fd-37de-4ce4-8144-f927573170f1",
-          "id": "502",
+          "id": "630",
           "name": "Arrow function expressions - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions"
@@ -2497,7 +2507,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ca6d22db-7544-46bb-8a44-2b9ef896b660",
-          "id": "503",
+          "id": "631",
           "name": "Ben Alman » Immediately-Invoked Function Expression (IIFE)",
           "type": "url",
           "url": "http://benalman.com/news/2010/11/immediately-invoked-function-expression/"
@@ -2506,7 +2516,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "48e16910-9908-40fb-b1eb-97562256748f",
-          "id": "504",
+          "id": "632",
           "name": "You-Dont-Know-JS/scope-closures at 2nd-ed · getify/You-Dont-Know-JS",
           "type": "url",
           "url": "https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures"
@@ -2518,7 +2528,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906458761",
       "guid": "88ef7f98-bff9-40c5-a2e3-df644b00a4b5",
-      "id": "514",
+      "id": "633",
       "name": "Introduction to Vue 3",
       "type": "folder",
       "children": [
@@ -2526,7 +2536,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d879919e-a89b-4fb6-87ac-6e8912c6bd27",
-          "id": "515",
+          "id": "634",
           "name": "sdras/intro-to-vue: Workshop Materials for my Introduction to Vue.js Workshop",
           "type": "url",
           "url": "https://github.com/sdras/intro-to-vue"
@@ -2535,7 +2545,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "5657d7bf-ab5d-4085-9725-ff6a32bd2a5c",
-          "id": "516",
+          "id": "635",
           "name": "intro-to-vue-3-0.pdf",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-0.pdf"
@@ -2544,7 +2554,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "12569922-ad24-476a-8e87-ccf90394ab04",
-          "id": "517",
+          "id": "636",
           "name": "Sarah Drasner (@sarah_edo) / Twitter",
           "type": "url",
           "url": "https://twitter.com/sarah_edo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
@@ -2553,7 +2563,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "96af3059-f156-40c6-a48d-48b44d30db51",
-          "id": "518",
+          "id": "637",
           "name": "Learn from Will Sentance's courses on Frontend Masters",
           "type": "url",
           "url": "https://frontendmasters.com/teachers/will-sentance/"
@@ -2562,7 +2572,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f8a0fb1f-cb48-4eeb-9bd7-fcc233a4da42",
-          "id": "519",
+          "id": "638",
           "name": "Building Web Applications with Vue by Sarah Drasner",
           "type": "url",
           "url": "https://frontendmasters.com/workshops/building-apps-vue/"
@@ -2571,7 +2581,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "66028211-9c21-411b-90aa-f37a95369c15",
-          "id": "520",
+          "id": "639",
           "name": "Directives Exercise Start",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/vZjozM/"
@@ -2580,7 +2590,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "032e4bb3-6bdc-4940-819a-69b1991ab12a",
-          "id": "521",
+          "id": "640",
           "name": "Vue.js devtools - Chrome Web Store",
           "type": "url",
           "url": "https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en"
@@ -2589,7 +2599,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "05f83c56-4ef9-4db7-a5cb-94edbf7f9053",
-          "id": "522",
+          "id": "641",
           "name": "Vue.js devtools - Chrome Web Store",
           "type": "url",
           "url": "https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg"
@@ -2598,7 +2608,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f41323d5-2c88-4ee6-a098-0b2de220d2f4",
-          "id": "523",
+          "id": "642",
           "name": "Vetur - Visual Studio Marketplace",
           "type": "url",
           "url": "https://marketplace.visualstudio.com/items?itemName=octref.vetur"
@@ -2607,7 +2617,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "bf1b72f2-32ef-4baf-9edd-9b0a76294be7",
-          "id": "524",
+          "id": "643",
           "name": "Vue VSCode Snippets - Visual Studio Marketplace",
           "type": "url",
           "url": "https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets"
@@ -2616,7 +2626,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "21fef498-1887-47ad-b250-cdccedf8623d",
-          "id": "525",
+          "id": "644",
           "name": "intro-to-vue3-1.pdf",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue3-1.pdf"
@@ -2625,7 +2635,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "291a1ad2-ac08-4f54-89da-e3c1c57631f0",
-          "id": "526",
+          "id": "645",
           "name": "Intro to Vue 3: Deck 1",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/11"
@@ -2634,7 +2644,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9ec88a72-31e3-4065-a60b-83693485919b",
-          "id": "527",
+          "id": "646",
           "name": "Intro to Vue 3: Deck 1",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/22"
@@ -2643,7 +2653,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9b6b7f1a-1fff-4118-a530-6faab979e54d",
-          "id": "528",
+          "id": "647",
           "name": "Intro to Vue 3: Deck 1",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/29"
@@ -2652,7 +2662,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0021d9bb-3fb4-49d2-ac46-d1ba6f654925",
-          "id": "529",
+          "id": "648",
           "name": "Intro to Vue 3: Deck 1",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/35"
@@ -2661,7 +2671,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "bf5a1689-72cb-488a-96b6-ad88160a20ab",
-          "id": "530",
+          "id": "649",
           "name": "Intro to Vue 3: Deck 1",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/43"
@@ -2670,7 +2680,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0167e0c2-ab69-4428-8e87-511d3744289b",
-          "id": "531",
+          "id": "650",
           "name": "Intro to Vue 3: Deck 1",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9#/45"
@@ -2679,7 +2689,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "98b73983-6cb6-45c0-82c4-9e46e2df5b9d",
-          "id": "532",
+          "id": "651",
           "name": "Directives Exercise Solution",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/685454ccb793ad59193a369c58b8747b"
@@ -2688,7 +2698,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "5e589f50-cd53-4d46-806a-f2293ea9571c",
-          "id": "533",
+          "id": "652",
           "name": "uuid - npm",
           "type": "url",
           "url": "https://www.npmjs.com/package/uuid"
@@ -2697,7 +2707,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e3c292d1-3dd1-49b3-bec1-e3eecc85d60c",
-          "id": "534",
+          "id": "653",
           "name": "KeyCode Modifiers | Vue.js",
           "type": "url",
           "url": "https://v3.vuejs.org/guide/migration/keycode-modifiers.html#_3-x-syntax"
@@ -2706,7 +2716,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "04bc6294-df69-494e-9583-cf7d85e0cc77",
-          "id": "535",
+          "id": "654",
           "name": "intro-to-vue3-2.pdf",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue3-2.pdf"
@@ -2715,7 +2725,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d6f6c055-eac8-4066-b4ae-06eecfb95883",
-          "id": "536",
+          "id": "655",
           "name": "Intro to Vue 3: Deck 2",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/2"
@@ -2724,7 +2734,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "abf15201-5153-4c4f-b3c0-b9b9c6b07792",
-          "id": "537",
+          "id": "656",
           "name": "Showing simple event handling",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/75205908c2189487ca91f9b49c1c978a"
@@ -2733,7 +2743,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "fd020316-2761-4400-85aa-5ec8b72741cb",
-          "id": "538",
+          "id": "657",
           "name": "beginning methods",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/422d5ce1f61d93ca253e06132b83c598"
@@ -2742,7 +2752,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b34f2677-3f51-467d-8676-bba907ed9c96",
-          "id": "539",
+          "id": "658",
           "name": "Vuelidate | A Vue.js model validation library",
           "type": "url",
           "url": "https://vuelidate.js.org/"
@@ -2751,7 +2761,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6be5cd80-5187-4acc-983a-37c22bcbddd7",
-          "id": "540",
+          "id": "659",
           "name": "Intro to Vue 3: Deck 2",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/16"
@@ -2760,7 +2770,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "79be5080-b701-4d3b-a644-d27f75fefb90",
-          "id": "541",
+          "id": "660",
           "name": "Intro to Vue 3: Deck 2",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/19"
@@ -2769,7 +2779,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9a3aa6bc-b3bf-4836-88e1-76212415d29a",
-          "id": "542",
+          "id": "661",
           "name": "Methods and Computed Exercise Start",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/WOyjoj/"
@@ -2778,7 +2788,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "419e1c29-b50b-4c40-bbfc-493ac1951b75",
-          "id": "543",
+          "id": "662",
           "name": "Methods and Computed Exercise Solution",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/9405ba833415572d34ec7c3ba13b1608"
@@ -2787,7 +2797,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c61bcc94-a813-4a1f-88dc-890631d92157",
-          "id": "544",
+          "id": "663",
           "name": "cda-locale",
           "type": "url",
           "url": "https://cda-locale.netlify.app/"
@@ -2796,7 +2806,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "7610faed-b015-48b3-b1a5-0bf50dcd12a5",
-          "id": "545",
+          "id": "664",
           "name": "Abel Wang 🦑🎸🤘✊ (@AbelSquidHead) / Twitter",
           "type": "url",
           "url": "https://twitter.com/AbelSquidHead"
@@ -2805,7 +2815,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f91113d8-eb5c-459d-a9fe-dd32f1968b95",
-          "id": "546",
+          "id": "665",
           "name": "The introduction to Reactive Programming you've been missing",
           "type": "url",
           "url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754"
@@ -2814,7 +2824,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "44329e67-e168-45d0-ac2d-664004ed025f",
-          "id": "547",
+          "id": "666",
           "name": "Intro to Vue 3: Deck 2",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/35"
@@ -2823,7 +2833,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "21ce15bd-4521-4c92-b114-95aa4cdf3918",
-          "id": "548",
+          "id": "667",
           "name": "Proxies and Vue's Reactivity Explained Visually",
           "type": "url",
           "url": "https://codepen.io/sdras/full/zYYzjBg"
@@ -2832,7 +2842,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c19eed09-a0fe-49ec-8d35-7a6422af2dad",
-          "id": "549",
+          "id": "668",
           "name": "vue-next/packages/reactivity at master · vuejs/vue-next",
           "type": "url",
           "url": "https://github.com/vuejs/vue-next/tree/master/packages/reactivity"
@@ -2841,7 +2851,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "853a2d01-bcad-4875-8517-b5ab89582de6",
-          "id": "550",
+          "id": "669",
           "name": "Vue Mastery | The Ultimate Learning Resource for Vue.js Developers",
           "type": "url",
           "url": "https://www.vuemastery.com/courses/vue3-reactivity/"
@@ -2850,7 +2860,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a817b3df-6a38-43e4-bb17-9a32ddb177f9",
-          "id": "551",
+          "id": "670",
           "name": "Vue's watchers/axios to add more info on infinite scroll",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/dRqZOy"
@@ -2859,7 +2869,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d672479a-69db-4a16-a14d-4792f95fdf37",
-          "id": "552",
+          "id": "671",
           "name": "Akryum/vue-virtual-scroller: ⚡️ Blazing fast scrolling for any amount of data",
           "type": "url",
           "url": "https://github.com/Akryum/vue-virtual-scroller"
@@ -2868,7 +2878,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8825394a-5feb-415a-9e5e-4ed9584919ef",
-          "id": "553",
+          "id": "672",
           "name": "Watcher Exercise Problem",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/pogBVjr"
@@ -2877,7 +2887,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ef31d96a-5e30-43d7-8453-9b3b0926cb13",
-          "id": "554",
+          "id": "673",
           "name": "Watcher Exercise Solution",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/e62a1fffd1b3a40000011837aee1f5dd"
@@ -2886,7 +2896,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c8486c85-9711-459b-b326-0bcde7f531fe",
-          "id": "555",
+          "id": "674",
           "name": "Intro to Vue 3: Deck 2",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR#/72"
@@ -2895,7 +2905,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "18f8c446-1c38-4026-a22c-c0c0e3651774",
-          "id": "556",
+          "id": "675",
           "name": "intro-to-vue-3-3.pdf",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-3.pdf"
@@ -2904,7 +2914,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ee47bbd1-dd54-4e09-ac31-6ac1cb78b9c1",
-          "id": "557",
+          "id": "676",
           "name": "Intro to Vue 3: Deck 3",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue-3-3?token=NLsRwMvr"
@@ -2913,7 +2923,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "10c58154-808c-406b-8f26-af310df09dea",
-          "id": "558",
+          "id": "677",
           "name": "child component using and not using props",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/5a34f6ed12cf954202c6d38f1ceba633"
@@ -2922,7 +2932,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "972bd7f7-d9ba-4b6f-b6a7-a9eb51e5071a",
-          "id": "559",
+          "id": "678",
           "name": "Emit with Params",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/666f76cb09ab151c13b551a552ed2996"
@@ -2931,7 +2941,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "525d3354-be0e-46ba-b4d4-7bdb162b615f",
-          "id": "560",
+          "id": "679",
           "name": "Slots Example: Named Slots",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/bd5bcb6c54654770994ad02d0b3194d4"
@@ -2940,7 +2950,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "2316dfab-740c-49c9-8524-8130626c9dc7",
-          "id": "561",
+          "id": "680",
           "name": "components exercise problem",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/OgBmYV/"
@@ -2949,7 +2959,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0721ce2a-f7d7-4496-b3a6-d303c6481594",
-          "id": "562",
+          "id": "681",
           "name": "components exercise solution",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/owaWwd"
@@ -2958,7 +2968,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c9ab574b-99e0-4d00-9669-a726881904e7",
-          "id": "563",
+          "id": "682",
           "name": "intro-to-vue-3-4.pdf",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-4.pdf"
@@ -2967,7 +2977,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f141fa31-58f8-4d86-9453-847bf56d2a5f",
-          "id": "564",
+          "id": "683",
           "name": "Intro to Vue 3: Deck 4",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue-3-4?token=0IQFDZvK"
@@ -2976,7 +2986,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1a602e64-1077-46a7-b36f-895007fbb35c",
-          "id": "565",
+          "id": "684",
           "name": "vercel/hyperpower: Hyper particle effects extension",
           "type": "url",
           "url": "https://github.com/vercel/hyperpower"
@@ -2985,7 +2995,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "07a50f87-58f9-4098-bfba-e389ffc1b831",
-          "id": "566",
+          "id": "685",
           "name": "What does the 'h' stand for in Vue's render method? | CSS-Tricks",
           "type": "url",
           "url": "https://css-tricks.com/what-does-the-h-stand-for-in-vues-render-method/"
@@ -2994,7 +3004,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f8f82210-594e-4bbf-9e5b-f439adab6693",
-          "id": "567",
+          "id": "686",
           "name": "Backpack Shop Counter Components 2",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/2751def77693975f59bc72a237f1ba89"
@@ -3003,7 +3013,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6db7a553-4bec-4649-b487-775827db022c",
-          "id": "568",
+          "id": "687",
           "name": "hub · an extension to command-line git",
           "type": "url",
           "url": "https://hub.github.com/"
@@ -3012,7 +3022,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0dfcde2e-863f-4f4b-a1a5-b33cf7161be6",
-          "id": "569",
+          "id": "688",
           "name": "Repository permissions and linking | Netlify Docs",
           "type": "url",
           "url": "https://docs.netlify.com/configure-builds/repo-permissions-linking/"
@@ -3021,7 +3031,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "4279dc85-398d-428a-89a7-95eaa91d6c9a",
-          "id": "570",
+          "id": "689",
           "name": "Intro to Vue 3: Deck 4",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue-3-4?token=0IQFDZvK#/10"
@@ -3030,7 +3040,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "98fd9384-375e-4b9a-aeb7-927edeafe034",
-          "id": "571",
+          "id": "690",
           "name": "intro-to-vue-3-5.pdf",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-5.pdf"
@@ -3039,7 +3049,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "016b58b6-8e6b-426e-b64f-510186249eae",
-          "id": "572",
+          "id": "691",
           "name": "Intro to Vue 3: Deck 5",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue-3-5?token=YXhIwtpW"
@@ -3048,7 +3058,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1846602a-cfaf-4a7e-81a7-07d97b7375d1",
-          "id": "573",
+          "id": "692",
           "name": "Animate.css | A cross-browser library of CSS animations.",
           "type": "url",
           "url": "https://animate.style/"
@@ -3057,7 +3067,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "41b81e17-74a6-4353-a68e-42c9606e2487",
-          "id": "574",
+          "id": "693",
           "name": "Val Head (@vlh) / Twitter",
           "type": "url",
           "url": "https://twitter.com/vlh?lang=en"
@@ -3066,7 +3076,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "35eeab1c-7ac0-448a-a5d8-a6fc43e5ca44",
-          "id": "575",
+          "id": "694",
           "name": "Ball Bouncing Exercise, v3",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/eYZyqrW"
@@ -3075,7 +3085,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "4e6c9ac2-6ea4-49ae-9f81-fcae94bddae2",
-          "id": "576",
+          "id": "695",
           "name": "Vue-controlled Wall-E",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/YZBGNp"
@@ -3084,7 +3094,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e61306a1-9b26-43af-b506-548e534b56f2",
-          "id": "577",
+          "id": "696",
           "name": "Netlify Reaches One Million Devs!",
           "type": "url",
           "url": "https://million-devs.netlify.com/?utm_source=csstricks&utm_medium=milliondevs-sd&utm_campaign=devex"
@@ -3093,7 +3103,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "7e2eabc2-82ee-438d-8364-53614bf736a3",
-          "id": "578",
+          "id": "697",
           "name": "intro-to-vue-3-6.pdf",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-6.pdf"
@@ -3102,7 +3112,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "87928fc2-084b-449c-a244-04d23f2da4d5",
-          "id": "579",
+          "id": "698",
           "name": "Intro to Vue 3: Deck 6",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue-3-6?token=yidUZcRL"
@@ -3111,7 +3121,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8983f738-d047-48d8-8a38-0f4fc16d1337",
-          "id": "580",
+          "id": "699",
           "name": "Vue 3 Live Release Evan You Creator Vuejs - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/watch?v=Vp5ANvd88x0"
@@ -3120,7 +3130,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "41a79ded-b59b-454e-976d-4697d789e561",
-          "id": "581",
+          "id": "700",
           "name": "Introduction | Vue.js",
           "type": "url",
           "url": "https://v3.vuejs.org/guide/composition-api-introduction.html"
@@ -3129,7 +3139,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "16fe1a3e-a0aa-4d93-bd54-b717e4defd7a",
-          "id": "582",
+          "id": "701",
           "name": "antfu/vueuse: 🧰 Collection of essential Vue Composition Utilities for Vue 2 and 3",
           "type": "url",
           "url": "https://github.com/antfu/vueuse"
@@ -3138,7 +3148,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "acdbbbdd-877f-4933-90ab-d4234d3f79ca",
-          "id": "583",
+          "id": "702",
           "name": "Composition API Exercise, Refactor this",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/PoNPdNb"
@@ -3147,7 +3157,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6c12428c-ca14-4096-aa34-ea71c56e559e",
-          "id": "584",
+          "id": "703",
           "name": "Composition API Exercise, Solution",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/zYqvJqy?editors=1010"
@@ -3156,7 +3166,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "71b76c2c-a30b-4ba0-8f43-afb4fb47c440",
-          "id": "585",
+          "id": "704",
           "name": "intro-to-vue-3-7.pdf",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2020-09-23-vue-v2/intro-to-vue-3-7.pdf"
@@ -3165,7 +3175,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "50090714-f596-46dc-9079-c6a75f591237",
-          "id": "586",
+          "id": "705",
           "name": "Intro to Vue 3: Deck 7",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue-3-7?token=YvT8ZUzV"
@@ -3174,7 +3184,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b34f903b-baf6-42ce-937a-7a89182a720a",
-          "id": "587",
+          "id": "706",
           "name": "comment app- x-template",
           "type": "url",
           "url": "https://codepen.io/sdras/pen/xxZeRyg"
@@ -3183,7 +3193,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "223ba129-499f-4ce2-8007-e5a90a0f3be6",
-          "id": "588",
+          "id": "707",
           "name": "Intro to Vue 3: Deck 7",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue-3-7?token=YvT8ZUzV#/21"
@@ -3192,7 +3202,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "56ea61d2-5b9a-4f1e-9879-5fb80b729e2a",
-          "id": "589",
+          "id": "708",
           "name": "sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions",
           "type": "url",
           "url": "https://github.com/sdras/ecommerce-netlify"
@@ -3201,7 +3211,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0aafb9c3-1e65-4fd0-9cc0-d51e3f965f2a",
-          "id": "590",
+          "id": "709",
           "name": "Intro to Vue 3: Deck 7",
           "type": "url",
           "url": "https://slides.com/sdrasner/intro-to-vue-3-7?token=YvT8ZUzV#/24"
@@ -3213,7 +3223,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906468831",
       "guid": "e79b10c8-20e3-45f8-aa0e-f5298a4a0227",
-      "id": "717",
+      "id": "710",
       "name": "JavaScript Testing Practices and Principles",
       "type": "folder",
       "children": [
@@ -3221,7 +3231,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "107ee293-c573-4293-b1d5-e3e0b63d1e4b",
-          "id": "718",
+          "id": "711",
           "name": "FrontendMasters/testing-workshop: A workshop for learning how to test JavaScript applications",
           "type": "url",
           "url": "https://github.com/FrontendMasters/testing-workshop"
@@ -3230,7 +3240,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d33e15e8-4b93-4c0a-a987-71ea13da5d04",
-          "id": "719",
+          "id": "712",
           "name": "Testing Practices and Principles",
           "type": "url",
           "url": "https://slides.com/kentcdodds/testing-principles"
@@ -3239,7 +3249,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "aca2eeb6-93de-43d1-ad23-7329453488a4",
-          "id": "720",
+          "id": "713",
           "name": "JavaScript Learning Path – Write Professional, Modern JavaScript",
           "type": "url",
           "url": "https://frontendmasters.com/learn/javascript/"
@@ -3248,7 +3258,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f1917ed4-2681-4973-bc8d-4272487d0fc8",
-          "id": "721",
+          "id": "714",
           "name": "kentcdodds/ama: Ask me anything!",
           "type": "url",
           "url": "https://github.com/kentcdodds/ama"
@@ -3257,7 +3267,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "22e15078-bdef-41ee-8b35-9bbef5241cdc",
-          "id": "722",
+          "id": "715",
           "name": "Kent C. Dodds 💿 (@kentcdodds) / Twitter",
           "type": "url",
           "url": "https://twitter.com/kentcdodds"
@@ -3266,7 +3276,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9b3fe3c1-b47b-44da-8e76-6ba73ac8653e",
-          "id": "723",
+          "id": "716",
           "name": "Testing Practices and Principles",
           "type": "url",
           "url": "https://slides.com/kentcdodds/testing-principles#/5"
@@ -3275,7 +3285,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "af3dfca7-0823-48be-acb6-d36628a6740a",
-          "id": "724",
+          "id": "717",
           "name": "Learn TypeScript to add strong typing to make your JavaScript apps",
           "type": "url",
           "url": "https://frontendmasters.com/courses/typescript/"
@@ -3284,7 +3294,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0ab8093b-2ec5-4957-8acc-c23b6b522e9d",
-          "id": "725",
+          "id": "718",
           "name": "Flow: A Static Type Checker for JavaScript",
           "type": "url",
           "url": "https://flow.org/"
@@ -3293,7 +3303,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "650bc6f8-20be-4988-ab97-40f04806dfaf",
-          "id": "726",
+          "id": "719",
           "name": "ESLint - Pluggable JavaScript linter",
           "type": "url",
           "url": "https://eslint.org/"
@@ -3302,7 +3312,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "dabed50a-bf93-4e9b-bf14-af1c71ef30bb",
-          "id": "727",
+          "id": "720",
           "name": "Learn to Test React Applications with Jest, react-testing-library and Cypress",
           "type": "url",
           "url": "https://frontendmasters.com/courses/testing-react/"
@@ -3311,7 +3321,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "fd2f1757-4c1e-4e98-a40f-9886ebd644f3",
-          "id": "728",
+          "id": "721",
           "name": "Testing Practices and Principles",
           "type": "url",
           "url": "https://slides.com/kentcdodds/testing-principles#/6"
@@ -3320,7 +3330,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "45310916-f62b-490b-a499-2df0faa8532e",
-          "id": "729",
+          "id": "722",
           "name": "But really, what is a JavaScript test?",
           "type": "url",
           "url": "https://kentcdodds.com/blog/but-really-what-is-a-javascript-test"
@@ -3329,7 +3339,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3bf383b1-6d1e-4c01-9d5f-05603d228766",
-          "id": "730",
+          "id": "723",
           "name": "Jest · 🃏 Delightful JavaScript Testing",
           "type": "url",
           "url": "https://jestjs.io/"
@@ -3338,7 +3348,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c55d1024-16fb-476a-82ec-fb02899bc33b",
-          "id": "731",
+          "id": "724",
           "name": "Expect · Jest",
           "type": "url",
           "url": "https://jestjs.io/docs/expect"
@@ -3347,7 +3357,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "794fcbe1-01d3-4063-a22f-461dd43a04e6",
-          "id": "732",
+          "id": "725",
           "name": "Expect · Jest",
           "type": "url",
           "url": "https://jestjs.io/docs/expect#expectassertionsnumber"
@@ -3356,7 +3366,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "356ed880-7374-4b4f-b716-d0c8f6f9c453",
-          "id": "733",
+          "id": "726",
           "name": "atlassian/jest-in-case: Jest utility for creating variations of the same test",
           "type": "url",
           "url": "https://github.com/atlassian/jest-in-case"
@@ -3365,7 +3375,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "183c233c-b727-4576-b1ca-e20852966595",
-          "id": "734",
+          "id": "727",
           "name": "kentcdodds/rtl-css-js: RTL for CSS in JS",
           "type": "url",
           "url": "https://github.com/kentcdodds/rtl-css-js"
@@ -3374,7 +3384,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e43f7229-f7a9-41f1-893a-a9a8c8ec3cc3",
-          "id": "735",
+          "id": "728",
           "name": "Colocation",
           "type": "url",
           "url": "https://kentcdodds.com/blog/colocation"
@@ -3383,7 +3393,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "698414ed-b9dd-4b0b-a48e-e30d938f7862",
-          "id": "736",
+          "id": "729",
           "name": "Istanbul, a JavaScript test coverage tool.",
           "type": "url",
           "url": "https://istanbul.js.org/"
@@ -3395,7 +3405,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906462744",
       "guid": "28999267-7153-4d91-aee2-9564f97be626",
-      "id": "591",
+      "id": "730",
       "name": "JavaScript: From Fundamentals to Functional JS, v2",
       "type": "folder",
       "children": [
@@ -3403,7 +3413,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "863c790c-115d-48dc-aff0-99612d1e5b4c",
-          "id": "592",
+          "id": "731",
           "name": "Fundamentals to Functional Day 1 v2",
           "type": "url",
           "url": "https://slides.com/bgando/f2f-final-day-1"
@@ -3412,7 +3422,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "91343adc-8ad1-40d6-99aa-8e6ea9672c34",
-          "id": "593",
+          "id": "732",
           "name": "Fundamentals to Functional Day 2 v2",
           "type": "url",
           "url": "https://slides.com/bgando/f2f-final-day-2"
@@ -3424,7 +3434,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906462874",
       "guid": "ad674e35-21f9-4c77-a097-364abef4d1a9",
-      "id": "594",
+      "id": "733",
       "name": "JavaScript: The Hard Parts, v2",
       "type": "folder",
       "children": [
@@ -3432,7 +3442,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a48b4151-5f79-42ed-ad58-c56c09bedea0",
-          "id": "595",
+          "id": "734",
           "name": "javascript-hard-parts-v2.pdf",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2019-09-18-javascript-hard-parts-v2/javascript-hard-parts-v2.pdf"
@@ -3441,7 +3451,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "96c87e4e-8fbc-4e57-95be-4dbb8c812c18",
-          "id": "596",
+          "id": "735",
           "name": "✨ Learn the fundamentals of functional programming in JavaScript to write code at complex scale. – Will Sentance’s Hard Parts course series.",
           "type": "url",
           "url": "https://frontendmasters.com/courses/functional-js-fundamentals/"
@@ -3450,7 +3460,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e9599cb0-d026-461f-8767-b52e387af828",
-          "id": "597",
+          "id": "736",
           "name": "CS Bin",
           "type": "url",
           "url": "http://csbin.io/callbacks"
@@ -3459,7 +3469,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c0fa6afa-aafa-467e-b92b-c41cfeacd4c6",
-          "id": "598",
+          "id": "737",
           "name": "cs-bin-solutions/callbacks.js at master · CodesmithLLC/cs-bin-solutions",
           "type": "url",
           "url": "https://github.com/CodesmithLLC/cs-bin-solutions/blob/master/callbacks.js"
@@ -3468,7 +3478,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c56362b4-21ce-447d-9f3c-d5c8773efde9",
-          "id": "599",
+          "id": "738",
           "name": "Learn from Will Sentance's courses on Frontend Masters",
           "type": "url",
           "url": "https://frontendmasters.com/teachers/will-sentance/"
@@ -3477,7 +3487,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c140560a-b89c-4619-a6c6-5476287c7c46",
-          "id": "600",
+          "id": "739",
           "name": "I never understood JavaScript closures - DailyJS - Medium",
           "type": "url",
           "url": "https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8"
@@ -3486,7 +3496,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3c092b90-b305-4a05-8a72-6a17efbbe413",
-          "id": "601",
+          "id": "740",
           "name": "If Hemingway Wrote JavaScript | No Starch Press",
           "type": "url",
           "url": "https://nostarch.com/hemingway"
@@ -3495,7 +3505,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1a82b166-295a-4915-b892-67601ca7f1ea",
-          "id": "602",
+          "id": "741",
           "name": "CS Bin",
           "type": "url",
           "url": "http://csbin.io/closures"
@@ -3504,7 +3514,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "953477f8-c3d6-477f-bd6d-24f4bb05fc40",
-          "id": "603",
+          "id": "742",
           "name": "cs-bin-solutions/closures.js at master · CodesmithLLC/cs-bin-solutions",
           "type": "url",
           "url": "https://github.com/CodesmithLLC/cs-bin-solutions/blob/master/closures.js"
@@ -3513,7 +3523,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8b33bdc1-9d9d-4900-aa01-0b9cc6bb5334",
-          "id": "604",
+          "id": "743",
           "name": "Tasks, microtasks, queues and schedules - JakeArchibald.com",
           "type": "url",
           "url": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/"
@@ -3522,7 +3532,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0b826910-d00c-47d8-89f0-e8d1bfadb504",
-          "id": "605",
+          "id": "744",
           "name": "CS Bin",
           "type": "url",
           "url": "http://csbin.io/async"
@@ -3531,7 +3541,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "10b59e3d-9b62-4b6e-be87-61c26d4b9803",
-          "id": "606",
+          "id": "745",
           "name": "cs-bin-solutions/async.js at master · CodesmithLLC/cs-bin-solutions",
           "type": "url",
           "url": "https://github.com/CodesmithLLC/cs-bin-solutions/blob/master/async.js"
@@ -3540,7 +3550,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "2601d086-cc08-414b-8148-bd0f96a8d8d5",
-          "id": "607",
+          "id": "746",
           "name": "Web APIs | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/API"
@@ -3549,7 +3559,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "646ffe89-f13f-4b11-8e2f-a2482a7aff43",
-          "id": "608",
+          "id": "747",
           "name": "Learn the Hard Parts of Servers & Node.js with Will Sentance",
           "type": "url",
           "url": "https://frontendmasters.com/courses/servers-node-js/"
@@ -3558,7 +3568,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6bfde83a-663d-476e-8716-d474f53b48a8",
-          "id": "609",
+          "id": "748",
           "name": "Object.getPrototypeOf() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf"
@@ -3567,7 +3577,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ee7f1355-beb5-45f9-8029-5a5797de4151",
-          "id": "610",
+          "id": "749",
           "name": "Learn the Fundamentals of Object Oriented Programming in JavaScript",
           "type": "url",
           "url": "https://frontendmasters.com/courses/object-oriented-js/"
@@ -3579,7 +3589,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906463728",
       "guid": "cbe1c306-6ec3-4cc9-b707-ba64c7261742",
-      "id": "611",
+      "id": "750",
       "name": "JavaScript: The Recent Parts",
       "type": "folder",
       "children": [
@@ -3587,7 +3597,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "7cb50d73-af3f-4658-a4d0-bb51f5ede900",
-          "id": "612",
+          "id": "751",
           "name": "jsrecent",
           "type": "url",
           "url": "https://static.frontendmasters.com/resources/2019-03-09-js-recent-parts/js-recent-parts.pdf"
@@ -3596,7 +3606,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9e742d93-99af-4806-b1fd-2029fda403ea",
-          "id": "613",
+          "id": "752",
           "name": "Kyle Simpson Presents: Code is for Humans",
           "type": "url",
           "url": "https://frontendmasters.com/teachers/kyle-simpson/code-is-for-humans/"
@@ -3605,7 +3615,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "fc727379-41af-40e4-b772-8283c664a700",
-          "id": "614",
+          "id": "753",
           "name": "Babel · The compiler for next generation JavaScript",
           "type": "url",
           "url": "https://babeljs.io/"
@@ -3614,7 +3624,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "af056b84-ccc9-4252-aae8-c0f98e689559",
-          "id": "615",
+          "id": "754",
           "name": "Template literals (Template strings) - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
@@ -3623,7 +3633,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "97bb851b-a223-4766-9be2-bdd2dff2f212",
-          "id": "616",
+          "id": "755",
           "name": "Destructuring assignment - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment"
@@ -3632,7 +3642,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "952e5ccf-870e-4fe6-b1b8-6ed1a6db9dd8",
-          "id": "617",
+          "id": "756",
           "name": "Sublime Text - A sophisticated text editor for code, markup and prose",
           "type": "url",
           "url": "https://www.sublimetext.com/"
@@ -3641,7 +3651,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a724e79d-224a-492e-ac70-7ac62cfff974",
-          "id": "618",
+          "id": "757",
           "name": "JSFiddle - Code Playground",
           "type": "url",
           "url": "https://jsfiddle.net/"
@@ -3650,7 +3660,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e48f76db-c183-48d2-a830-800c2591b929",
-          "id": "619",
+          "id": "758",
           "name": "ESLint - Pluggable JavaScript linter",
           "type": "url",
           "url": "https://eslint.org/"
@@ -3659,7 +3669,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "dad56c72-4928-4717-9fd7-b33d359b2d83",
-          "id": "620",
+          "id": "759",
           "name": "Underscore.js",
           "type": "url",
           "url": "https://underscorejs.org/"
@@ -3668,7 +3678,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c9d79132-0bf8-490e-80d0-3ecf4351055c",
-          "id": "621",
+          "id": "760",
           "name": "Array.prototype.find() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find"
@@ -3677,7 +3687,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c177fbca-558a-43e7-b20d-9cf01235812a",
-          "id": "622",
+          "id": "761",
           "name": "Array.prototype.findIndex() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"
@@ -3686,7 +3696,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1a444c8c-06df-4e93-b532-7e90feffeed4",
-          "id": "623",
+          "id": "762",
           "name": "Array.prototype.includes() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"
@@ -3695,7 +3705,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "65d1bd2e-bf65-4b55-9a30-52e9f7fcae38",
-          "id": "624",
+          "id": "763",
           "name": "Array.prototype.flat() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat"
@@ -3704,7 +3714,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "34856819-bae2-481a-9a3e-505a4ca691d3",
-          "id": "625",
+          "id": "764",
           "name": "Array.prototype.flatMap() - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap"
@@ -3713,7 +3723,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3c36f88b-724a-4dea-bffe-d2f4796527f9",
-          "id": "626",
+          "id": "765",
           "name": "smooshgate - Twitter Search / Twitter",
           "type": "url",
           "url": "https://twitter.com/search?q=smooshgate&src=typd"
@@ -3722,7 +3732,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "91e39403-58f4-4051-b81e-37b5fe08d1ae",
-          "id": "627",
+          "id": "766",
           "name": "Learn Functional Programming in JavaScript (v2) with Kyle Simpson",
           "type": "url",
           "url": "https://frontendmasters.com/courses/functional-javascript-v2/"
@@ -3731,7 +3741,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "4b4e63f4-0ff2-4a25-bce6-a683ba2a684d",
-          "id": "628",
+          "id": "767",
           "name": "Iterators and generators - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators"
@@ -3740,7 +3750,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "78a32c1e-160a-4e92-b6d0-ed287afbea49",
-          "id": "629",
+          "id": "768",
           "name": "RegExp - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
@@ -3749,7 +3759,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c90b2046-3e25-4c4f-8fba-f231dde58fe8",
-          "id": "630",
+          "id": "769",
           "name": "RegExp.prototype.dotAll - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/dotAll"
@@ -3758,7 +3768,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "fc5d61e8-2462-426b-b20a-538b7c6fe56f",
-          "id": "631",
+          "id": "770",
           "name": "tj/co: The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)",
           "type": "url",
           "url": "https://github.com/tj/co"
@@ -3767,7 +3777,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "12b10151-5d3d-4dbe-b895-e395765fdea8",
-          "id": "632",
+          "id": "771",
           "name": "Koa - next generation web framework for node.js",
           "type": "url",
           "url": "https://koajs.com/"
@@ -3776,7 +3786,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "175448ee-dada-46bb-a020-eb7bfabe8616",
-          "id": "633",
+          "id": "772",
           "name": "Getting Started | bluebird",
           "type": "url",
           "url": "http://bluebirdjs.com/docs/getting-started.html"
@@ -3785,7 +3795,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "969884a4-ea0c-47d2-aeff-c6bce7273ab5",
-          "id": "634",
+          "id": "773",
           "name": "async function - JavaScript | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function"
@@ -3794,7 +3804,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "10a37405-5efb-419d-8e8b-42b4674f8021",
-          "id": "635",
+          "id": "774",
           "name": "getify/fasy: FP iterators that are both eager and asynchronous",
           "type": "url",
           "url": "https://github.com/getify/fasy"
@@ -3803,7 +3813,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a73f1d3a-1701-470e-9b1b-a69d5f5ab61f",
-          "id": "636",
+          "id": "775",
           "name": "Communicating sequential processes - Wikipedia",
           "type": "url",
           "url": "https://en.wikipedia.org/wiki/Communicating_sequential_processes"
@@ -3812,7 +3822,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "bff9a4af-f367-4561-a114-604bd6f2da58",
-          "id": "637",
+          "id": "776",
           "name": "YOW! Conference 2018 - Kyle Simpson - Cancel All My Appointments - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/watch?v=VDaKLQE03ss"
@@ -3821,7 +3831,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "90340bfc-7202-4c58-93ec-a2bb80278831",
-          "id": "638",
+          "id": "777",
           "name": "Fetch API - Web APIs | MDN",
           "type": "url",
           "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
@@ -3830,7 +3840,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3b52c99a-9031-4026-90bb-48b8a90bdbca",
-          "id": "639",
+          "id": "778",
           "name": "getify/CAF: Cancelable Async Flows (CAF)",
           "type": "url",
           "url": "https://github.com/getify/caf"
@@ -3842,15 +3852,15 @@
       "date_last_used": "0",
       "date_modified": "13329404906465129",
       "guid": "4ded6cc1-97e3-41c4-89cf-b9ca38672705",
-      "id": "640",
+      "id": "779",
       "name": "Python Fundamentals",
       "type": "folder",
       "children": [
         {
           "date_added": "0",
-          "date_last_used": "13385128890523615",
+          "date_last_used": "13357832867772649",
           "guid": "db093b75-036c-47bc-94fc-a2a2608555f1",
-          "id": "641",
+          "id": "780",
           "name": "Learn Python :: Learn Python by Nina Zakharenko",
           "type": "url",
           "url": "https://www.learnpython.dev/"
@@ -3859,7 +3869,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a9f1f7ad-23d4-48d7-adf2-45ef54055fc2",
-          "id": "642",
+          "id": "781",
           "name": "nnja/python: Front End Masters Python - Course Website at https://learnpython.dev",
           "type": "url",
           "url": "https://github.com/nnja/python"
@@ -3868,7 +3878,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9e54cdfb-6688-491a-abdf-af08ca4f7181",
-          "id": "643",
+          "id": "782",
           "name": "Nina Zakharenko 💜🐍 (@nnja) | Twitter",
           "type": "url",
           "url": "https://twitter.com/nnja"
@@ -3877,7 +3887,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "35fd48ce-836e-455b-a3bc-4ad7f801d693",
-          "id": "644",
+          "id": "783",
           "name": "LinkedIn",
           "type": "url",
           "url": "https://www.linkedin.com/nnja"
@@ -3886,7 +3896,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c18f9bb1-3884-4b2b-b8f9-70e0cd5c8b70",
-          "id": "645",
+          "id": "784",
           "name": "nnja (Nina Zakharenko)",
           "type": "url",
           "url": "https://github.com/nnja/"
@@ -3895,7 +3905,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "c317d667-3200-4e67-8459-864f1dd82cf2",
-          "id": "646",
+          "id": "785",
           "name": "Learn Git In-depth: Master git techniques for commits, branching and merging with Git",
           "type": "url",
           "url": "https://frontendmasters.com/courses/git-in-depth/"
@@ -3904,7 +3914,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "a2b27fc8-bb03-4b33-b847-18ba98618631",
-          "id": "647",
+          "id": "786",
           "name": "Python - Visual Studio Marketplace",
           "type": "url",
           "url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
@@ -3913,7 +3923,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "53299420-8088-4338-9add-a2a87f9b7e9f",
-          "id": "648",
+          "id": "787",
           "name": "python/cpython: The Python programming language",
           "type": "url",
           "url": "https://github.com/python/cpython"
@@ -3922,7 +3932,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "372ead84-5f4d-4f87-97d2-d29cd119cd15",
-          "id": "649",
+          "id": "788",
           "name": "PEP 8: The Style Guide for Python Code",
           "type": "url",
           "url": "https://pep8.org/"
@@ -3931,7 +3941,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "5c276bda-865e-4021-b96e-4812cfed20ff",
-          "id": "650",
+          "id": "789",
           "name": "The Naming of Ducks: Where Dynamic Types Meet Smart Conventions - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/watch?v=YklKUuDpX5c"
@@ -3940,7 +3950,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "84289cdb-2871-4044-b127-be8fadff4c2e",
-          "id": "651",
+          "id": "790",
           "name": "Curses Programming with Python — Python 3.8.1 documentation",
           "type": "url",
           "url": "https://docs.python.org/3/howto/curses.html"
@@ -3949,7 +3959,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1a3214cf-21bc-4e3e-8761-bf48c566da03",
-          "id": "652",
+          "id": "791",
           "name": "Chapter 1: Introduction - An Introduction to APIs | Zapier",
           "type": "url",
           "url": "https://zapier.com/learn/apis/chapter-1-introduction-to-apis/"
@@ -3958,7 +3968,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "2a5586a9-376b-4c1b-a2f2-eb8893646cbb",
-          "id": "653",
+          "id": "792",
           "name": "Learn to Build APIs in Node.js – Model data and REST APIs with Express and MongoDB",
           "type": "url",
           "url": "https://frontendmasters.com/courses/api-design-nodejs-v3/"
@@ -3967,7 +3977,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0c396809-49a2-411c-b747-afb9d8eb5a18",
-          "id": "654",
+          "id": "793",
           "name": "Hyper Text Coffee Pot Control Protocol - Wikipedia",
           "type": "url",
           "url": "https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol"
@@ -3976,7 +3986,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "edf7abd0-ebab-422e-aa78-21bf2a39a640",
-          "id": "655",
+          "id": "794",
           "name": "Requests: HTTP for Humans™ — Requests 2.26.0 documentation",
           "type": "url",
           "url": "https://docs.python-requests.org/en/master/"
@@ -3985,7 +3995,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "534de9a4-61eb-4e38-bc01-5881011d598e",
-          "id": "656",
+          "id": "795",
           "name": "Search | GitHub Developer Guide",
           "type": "url",
           "url": "https://developer.github.com/v3/search/"
@@ -3997,7 +4007,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906467589",
       "guid": "11e76fe0-993e-4e55-9436-b0e29162d7aa",
-      "id": "692",
+      "id": "796",
       "name": "State Management in Pure React, v2",
       "type": "folder",
       "children": [
@@ -4005,7 +4015,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "3f6aee23-525e-4dd2-94fa-75d561fc0b93",
-          "id": "693",
+          "id": "797",
           "name": "React State - Speaker Deck",
           "type": "url",
           "url": "https://speakerdeck.com/stevekinney/react-state"
@@ -4014,7 +4024,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e4d9cdfa-c46d-489e-a910-9c7d80b81dd3",
-          "id": "694",
+          "id": "798",
           "name": "FrontendMasters/pure-react-state-management: Pure React State Management course documentation",
           "type": "url",
           "url": "https://github.com/FrontendMasters/pure-react-state-management"
@@ -4023,7 +4033,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "50096e52-6982-4b1c-b9d8-f3c751e6407d",
-          "id": "695",
+          "id": "799",
           "name": "Steve Kinney (@stevekinney) / Twitter",
           "type": "url",
           "url": "https://twitter.com/stevekinney?lang=en"
@@ -4032,7 +4042,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f1f5fefa-a92b-47ee-9517-8ddb43b7b98b",
-          "id": "696",
+          "id": "800",
           "name": "Learn Redux and MobX for Managing State in Large React Applications",
           "type": "url",
           "url": "https://frontendmasters.com/courses/redux-mobx/"
@@ -4041,7 +4051,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "4b976fd2-7593-4c45-93ad-0e48460cb80b",
-          "id": "697",
+          "id": "801",
           "name": "stevekinney/simple-counter-react-state",
           "type": "url",
           "url": "https://github.com/stevekinney/simple-counter-react-state"
@@ -4050,7 +4060,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d4a1d692-2af8-4e25-99a9-ec0087111fac",
-          "id": "698",
+          "id": "802",
           "name": "simple-counter (boilerplate) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-boilerplate-kdvtq?module=%2Fsrc%2FCounter.js"
@@ -4059,7 +4069,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e830f93b-41de-41a9-be75-458a55a0806c",
-          "id": "699",
+          "id": "803",
           "name": "simple-counter (adds increment, decrement, & reset) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-adds-increment-decrement-reset-rlrc3?module=%2Fsrc%2FCounter.js"
@@ -4068,7 +4078,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "02349a90-c91f-43c3-99bd-181be89bf7fd",
-          "id": "700",
+          "id": "804",
           "name": "simple-counter (setState function and callback) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-setstate-function-and-callback-u0ev5?module=%2Fsrc%2FCounter.js"
@@ -4077,7 +4087,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8c8d59d5-5f3b-47fd-94cf-386c8170c501",
-          "id": "701",
+          "id": "805",
           "name": "simple-counter (adds localStorage support, exercise starter for syncing document.title) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-adds-localstorage-support-exercise-starter-wxubb?module=%2Fsrc%2FCounter.js"
@@ -4086,7 +4096,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "07e15386-0c90-4869-979c-804757f19741",
-          "id": "702",
+          "id": "806",
           "name": "simple-counter - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/github/stevekinney/simple-counter-react-state/tree/exercise-document-title"
@@ -4095,7 +4105,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ae7bd39a-14dc-4638-af97-e42eca686277",
-          "id": "703",
+          "id": "807",
           "name": "simple-counter (syncing document.title solution) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-syncing-documenttitle-solution-in6r9?module=%2Fsrc%2FCounter.js"
@@ -4104,7 +4114,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e1aa8f3f-7ed1-4e7e-89ae-bf7e893dd291",
-          "id": "704",
+          "id": "808",
           "name": "simple-counter (refactored to use hooks) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-refactored-to-use-hooks-ndwcr?module=%2Fsrc%2FCounter.js"
@@ -4113,7 +4123,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "724c135a-3ee8-4d0a-98c2-c373c7267a1e",
-          "id": "705",
+          "id": "809",
           "name": "simple-counter (set value with a function) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-set-value-with-a-function-gxshy?module=%2Fsrc%2FCounter.js"
@@ -4122,7 +4132,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "5f1839e7-893d-4769-bd6a-b71b5e3444ea",
-          "id": "706",
+          "id": "810",
           "name": "simple-counter (update document.title with useEffect) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-update-documenttitle-with-useeffect-hjedr?module=%2Fsrc%2FCounter.js"
@@ -4131,7 +4141,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "bb4cc5e1-660b-4456-bd27-07c6173b3fd9",
-          "id": "707",
+          "id": "811",
           "name": "simple-counter (useEffect local storage exercise) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-useeffect-local-storage-exercise-64x3e?module=%2Fsrc%2FCounter.js"
@@ -4140,7 +4150,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "9ceaf5c3-b4ba-487a-a6bb-290e70ae623e",
-          "id": "708",
+          "id": "812",
           "name": "simple-counter - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/github/stevekinney/simple-counter-react-state/tree/exercise-use-effect"
@@ -4149,7 +4159,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "2f28fda7-f359-4ad7-8303-e276766ad51e",
-          "id": "709",
+          "id": "813",
           "name": "simple-counter (useEffect local storage solution) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-useeffect-local-storage-solution-m854x?module=%2Fsrc%2FCounter.js"
@@ -4158,7 +4168,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "77722d35-b03b-4d50-aa17-ec85534acaa9",
-          "id": "710",
+          "id": "814",
           "name": "simple-counter (useLocalStorage custom hook) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-uselocalstorage-custom-hook-hxvnm?module=%2Fsrc%2FCounter.js"
@@ -4167,7 +4177,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6d9ecb63-002d-49da-a917-cbac88121241",
-          "id": "711",
+          "id": "815",
           "name": "simple-counter - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/github/stevekinney/simple-counter-react-state/tree/example-use-local-storage"
@@ -4176,7 +4186,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "d2ef087e-dfc2-4da9-bd5b-1ef49d909c43",
-          "id": "712",
+          "id": "816",
           "name": "simple-counter (useRef) - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/simple-counter-useref-x7x8p?module=%2Fsrc%2FCounter.js"
@@ -4185,7 +4195,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "8fd9632a-54cf-4e95-830b-1c1cf1aa520c",
-          "id": "713",
+          "id": "817",
           "name": "grudge-list - CodeSandbox",
           "type": "url",
           "url": "https://codesandbox.io/s/github/stevekinney/grudges-react-state"
@@ -4194,7 +4204,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "ac205e1c-8532-4fb4-82d4-744d61e5b18e",
-          "id": "714",
+          "id": "818",
           "name": "[ESLint] Feedback for 'exhaustive-deps' lint rule · Issue #14920 · facebook/react",
           "type": "url",
           "url": "https://github.com/facebook/react/issues/14920"
@@ -4203,7 +4213,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "88ce523f-5fdd-4ed4-8f9b-646614800c09",
-          "id": "715",
+          "id": "819",
           "name": "Collection of React Hooks",
           "type": "url",
           "url": "https://nikgraf.github.io/react-hooks/"
@@ -4212,7 +4222,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "67544ea3-597c-4b93-beec-4bf74534259b",
-          "id": "716",
+          "id": "820",
           "name": "DinosaurJS",
           "type": "url",
           "url": "https://dinosaurjs.org/"
@@ -4224,7 +4234,7 @@
       "date_last_used": "0",
       "date_modified": "13329404906465949",
       "guid": "a2b9b1dd-7063-4d62-87c8-24abf3f3633a",
-      "id": "657",
+      "id": "821",
       "name": "VIM Fundamentals",
       "type": "folder",
       "children": [
@@ -4232,7 +4242,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "dd2df991-1085-43f2-b3da-60d1bb8a2752",
-          "id": "658",
+          "id": "822",
           "name": "Vim Fundamentals",
           "type": "url",
           "url": "https://theprimeagen.github.io/vim-fundamentals/"
@@ -4241,7 +4251,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0a265277-e606-41ac-acd5-689daaecc0e0",
-          "id": "659",
+          "id": "823",
           "name": "ThePrimeagen - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw"
@@ -4250,7 +4260,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "15cad9bf-385c-4545-837e-3afe9db35f7f",
-          "id": "660",
+          "id": "824",
           "name": "ThePrimeagen - Twitch",
           "type": "url",
           "url": "https://www.twitch.tv/theprimeagen?ab_channel=theprimeagen"
@@ -4259,7 +4269,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "f4a8477f-5a64-4960-a3b1-a72105abc91b",
-          "id": "661",
+          "id": "825",
           "name": "Home | SpaceVim",
           "type": "url",
           "url": "https://spacevim.org/"
@@ -4268,7 +4278,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "2332a63c-373b-46f4-b97c-37dd25175442",
-          "id": "662",
+          "id": "826",
           "name": "Onivim 2 - Modal Editing from the Future",
           "type": "url",
           "url": "https://onivim.io/"
@@ -4277,7 +4287,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6d71ab2b-db5b-437b-b374-7de2489764ee",
-          "id": "663",
+          "id": "827",
           "name": "VIM Adventures",
           "type": "url",
           "url": "https://vim-adventures.com/"
@@ -4286,7 +4296,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "6bdb95b0-f5ee-4684-abc8-c6bfbe9667fb",
-          "id": "664",
+          "id": "828",
           "name": "What is a File Format? - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/watch?v=VVdmmN0su6E"
@@ -4295,7 +4305,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1230beb4-75bb-4493-9a63-d8d32d225ec1",
-          "id": "665",
+          "id": "829",
           "name": "ThePrimeagen/vim-fundamentals: a gatsby starter project to help you create educational materials",
           "type": "url",
           "url": "https://github.com/ThePrimeagen/vim-fundamentals"
@@ -4304,7 +4314,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "044b9131-050b-45f1-b0dc-b0084d36a97b",
-          "id": "666",
+          "id": "830",
           "name": "vim-fundamentals/exercise-0-hjkl-x.md at master · ThePrimeagen/vim-fundamentals",
           "type": "url",
           "url": "https://github.com/ThePrimeagen/vim-fundamentals/blob/master/lessons/exercise-0-hjkl-x.md"
@@ -4313,7 +4323,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "1b549486-f8c0-4ddb-970e-c5299bf31ed5",
-          "id": "667",
+          "id": "831",
           "name": "nvim-telescope/telescope.nvim: Find, Filter, Preview, Pick. All lua, all the time.",
           "type": "url",
           "url": "https://github.com/nvim-telescope/telescope.nvim"
@@ -4322,7 +4332,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "44e166ad-d0c6-41df-9a10-32cca441bcf8",
-          "id": "668",
+          "id": "832",
           "name": "junegunn/vim-plug: Minimalist Vim Plugin Manager",
           "type": "url",
           "url": "https://github.com/junegunn/vim-plug"
@@ -4331,7 +4341,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "16095981-b197-46c6-9f7d-0d8c1e43d2bb",
-          "id": "669",
+          "id": "833",
           "name": "junegunn/fzf.vim: fzf vim",
           "type": "url",
           "url": "https://github.com/junegunn/fzf.vim"
@@ -4340,7 +4350,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "0b9e4f68-b532-4e1e-83de-d04c79e24d08",
-          "id": "670",
+          "id": "834",
           "name": "ayu-theme/ayu-vim: Modern theme for modern VIMs",
           "type": "url",
           "url": "https://github.com/ayu-theme/ayu-vim"
@@ -4349,7 +4359,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "b1662c11-e4b6-49fe-9994-563a55077ddd",
-          "id": "671",
+          "id": "835",
           "name": "BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
           "type": "url",
           "url": "https://github.com/BurntSushi/ripgrep"
@@ -4358,7 +4368,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "e71dae33-d99b-473b-9eb4-6265ebcba1b3",
-          "id": "672",
+          "id": "836",
           "name": "Welcome to Regex Licensing! :: Regex Licensing",
           "type": "url",
           "url": "https://regexlicensing.org/"
@@ -4367,7 +4377,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "44c8cf18-ffe4-442e-95b3-7bb42d2819e1",
-          "id": "673",
+          "id": "837",
           "name": "tpope (Tim Pope)",
           "type": "url",
           "url": "https://github.com/tpope"
@@ -4376,7 +4386,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "dd480ad7-76cb-4fd0-9376-d15e8334d770",
-          "id": "674",
+          "id": "838",
           "name": "Vimways ~ Writing a Vim Plugin",
           "type": "url",
           "url": "https://vimways.org/2019/writing-vim-plugin/"
@@ -4385,7 +4395,7 @@
           "date_added": "0",
           "date_last_used": "0",
           "guid": "337fcb6e-c7e1-425c-922b-3e3149e5d4a8",
-          "id": "675",
+          "id": "839",
           "name": "tpope/vim-fugitive: fugitive.vim: A Git wrapper so awesome, it should be illegal",
           "type": "url",
           "url": "https://github.com/tpope/vim-fugitive"
@@ -4396,7 +4406,7 @@
       "date_added": "0",
       "date_last_used": "0",
       "guid": "38515ce6-7c2a-4690-b973-64e0dc38742d",
-      "id": "737",
+      "id": "840",
       "name": "Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!",
       "type": "url",
       "url": "https://frontendmasters.com/"
@@ -4405,7 +4415,7 @@
       "date_added": "0",
       "date_last_used": "13359449308519060",
       "guid": "6e2a8ff8-cfb6-46ab-80d4-6d301706fde4",
-      "id": "738",
+      "id": "841",
       "name": "Frontend Masters Guides",
       "type": "url",
       "url": "https://frontendmasters.com/books/"
