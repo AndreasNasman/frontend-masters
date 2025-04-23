@@ -3,13 +3,13 @@
 To initialize this project, use:
 
 ```sh
-git clone --recurse-submodules https://github.com/AndreasNasman/frontend-masters.git
+git clone --recurse-submodules git@github.com:AndreasNasman/frontend-masters.git
 ```
 
 or
 
 ```git
-git clone https://github.com/AndreasNasman/frontend-masters.git
+git clone git@github.com:AndreasNasman/frontend-masters.git
 cd frontend-masters
 git submodule update --init --recursive --remote
 ```
