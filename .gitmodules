@@ -1,33 +1,33 @@
 [submodule "Advanced Vue.js Features from the Ground Up/vue-advanced-workshop"]
 	path = Advanced Vue.js Features from the Ground Up/vue-advanced-workshop
-	url = https://github.com/AndreasNasman/vue-advanced-workshop.git
+	url = git@github.com:AndreasNasman/vue-advanced-workshop.git
 [submodule "Complete Intro to Linux and the Command-Line/complete-intro-to-linux-and-the-cli"]
 	path = Complete Intro to Linux and the Command-Line/complete-intro-to-linux-and-the-cli
-	url = https://github.com/AndreasNasman/complete-intro-to-linux-and-the-cli.git
+	url = git@github.com:AndreasNasman/complete-intro-to-linux-and-the-cli.git
 [submodule "Complete Intro to Web Development, v2/intro-to-web-dev-v2"]
 	path = Complete Intro to Web Development, v2/intro-to-web-dev-v2
-	url = https://github.com/AndreasNasman/intro-to-web-dev-v2.git
+	url = git@github.com:AndreasNasman/intro-to-web-dev-v2.git
 [submodule "Four Semesters of Computer Science in 5 Hours/four-semesters-of-cs"]
 	path = Four Semesters of Computer Science in 5 Hours/four-semesters-of-cs
-	url = https://github.com/AndreasNasman/four-semesters-of-cs.git
+	url = git@github.com:AndreasNasman/four-semesters-of-cs.git
 [submodule "Introduction to Bash, VIM & Regex/fmmn"]
 	path = Introduction to Bash, VIM & Regex/fmmn
-	url = https://github.com/AndreasNasman/fmmn.git
+	url = git@github.com:AndreasNasman/fmmn.git
 [submodule "Introduction to Vue 3/intro-to-vue"]
 	path = Introduction to Vue 3/intro-to-vue
-	url = https://github.com/AndreasNasman/intro-to-vue.git
+	url = git@github.com:AndreasNasman/intro-to-vue.git
 [submodule "iOS App Development with Swift/coffeemasters-ios"]
 	path = iOS App Development with Swift/coffeemasters-ios
 	url = git@github.com:AndreasNasman/coffeemasters-ios.git
 [submodule "JavaScript Testing Practices and Principles/testing-workshop"]
 	path = JavaScript Testing Practices and Principles/testing-workshop
-	url = https://github.com/AndreasNasman/testing-workshop.git
+	url = git@github.com:AndreasNasman/testing-workshop.git
 [submodule "VIM Fundamentals/vim-fundamentals"]
 	path = VIM Fundamentals/vim-fundamentals
-	url = https://github.com/AndreasNasman/vim-fundamentals.git
+	url = git@github.com:AndreasNasman/vim-fundamentals.git
 [submodule "VIM Fundamentals/vim-nav-playground"]
 	path = VIM Fundamentals/vim-nav-playground
-	url = https://github.com/AndreasNasman/vim-nav-playground.git
+	url = git@github.com:AndreasNasman/vim-nav-playground.git
 [submodule "Visual Studio Code Can Do That?/workshop-vs-code-can-do-that"]
 	path = Visual Studio Code Can Do That?/workshop-vs-code-can-do-that
-	url = https://github.com/AndreasNasman/workshop-vs-code-can-do-that.git
+	url = git@github.com:AndreasNasman/workshop-vs-code-can-do-that.git
