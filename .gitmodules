@@ -16,6 +16,9 @@
 [submodule "Introduction to Vue 3/intro-to-vue"]
 	path = Introduction to Vue 3/intro-to-vue
 	url = https://github.com/AndreasNasman/intro-to-vue.git
+[submodule "iOS App Development with Swift/coffeemasters-ios"]
+	path = iOS App Development with Swift/coffeemasters-ios
+	url = git@github.com:AndreasNasman/coffeemasters-ios.git
 [submodule "JavaScript Testing Practices and Principles/testing-workshop"]
 	path = JavaScript Testing Practices and Principles/testing-workshop
 	url = https://github.com/AndreasNasman/testing-workshop.git
