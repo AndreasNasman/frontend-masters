@@ -652,12 +652,85 @@
     {
       "date_added": "13389868172527206",
       "date_last_used": "0",
-      "date_modified": "13389868172527206",
+      "date_modified": "13390643689844088",
       "guid": "c6ceac64-264e-4cfd-b18a-968f380c8932",
       "id": "1434",
       "name": "💡 iOS App Development with Swift",
       "type": "folder",
-      "children": []
+      "children": [
+        {
+          "date_added": "13389868833148633",
+          "date_last_used": "0",
+          "guid": "69a13e5a-1238-4b23-bfb6-ced871e2226c",
+          "id": "1435",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Introduction to Swift and iOS app development",
+          "type": "url",
+          "url": "https://firtman.github.io/intro-swift/"
+        },
+        {
+          "date_added": "13389868939343366",
+          "date_last_used": "0",
+          "guid": "ebd6f64a-c970-4293-a902-255469c0a95b",
+          "id": "1436",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "firtman/coffeemasters-ios",
+          "type": "url",
+          "url": "https://github.com/firtman/coffeemasters-ios"
+        },
+        {
+          "date_added": "13389869439579585",
+          "date_last_used": "0",
+          "guid": "5b6149b8-b212-4615-bbda-7cdb0ca28d22",
+          "id": "1437",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Maximiliano Firtman (@firt) / X",
+          "type": "url",
+          "url": "https://x.com/firt"
+        },
+        {
+          "date_added": "13389869988815436",
+          "date_last_used": "13389955143671991",
+          "guid": "49d3f5c5-9af9-4451-920e-f20064d35bbb",
+          "id": "1438",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Xcode on the Mac App Store",
+          "type": "url",
+          "url": "https://apps.apple.com/us/app/xcode/id497799835?mt=12"
+        },
+        {
+          "date_added": "13390466163192280",
+          "date_last_used": "0",
+          "guid": "f24ac207-7e9b-4f23-9f17-6b1fea638eb2",
+          "id": "1447",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "SF Symbols - Apple Developer",
+          "type": "url",
+          "url": "https://developer.apple.com/sf-symbols/"
+        },
+        {
+          "date_added": "13390474504744375",
+          "date_last_used": "0",
+          "guid": "8a52075e-8c01-424f-a175-e20de68658ed",
+          "id": "1448",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Alamofire/Alamofire: Elegant HTTP Networking in Swift",
+          "type": "url",
+          "url": "https://github.com/Alamofire/Alamofire"
+        }
+      ]
     },
     {
       "date_added": "13329404906447491",
