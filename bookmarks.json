@@ -298,7 +298,70 @@
       ]
     },
     {
-      "date_added": "13389868172527206",
+      "date_added": "13416500366507980",
+      "date_last_used": "0",
+      "date_modified": "0",
+      "guid": "471811b5-3845-4791-b682-e1430ef6dd7f",
+      "id": "2022",
+      "name": "✅ Introduction to Kotlin and Android Development",
+      "type": "folder",
+      "children": [
+        {
+          "date_added": "13414684692000000",
+          "date_last_used": "0",
+          "guid": "d378ac75-a03c-4d7d-965c-248d9c0d9be9",
+          "id": "2023",
+          "name": "Introduction to Kotlin and Android app development",
+          "type": "url",
+          "url": "https://firtman.github.io/intro-kotlin/"
+        },
+        {
+          "date_added": "13414685137000000",
+          "date_last_used": "0",
+          "guid": "569d12f1-2add-46ee-8089-5bff00f8f448",
+          "id": "2024",
+          "name": "Download Android Studio & App Tools - Android Developers",
+          "type": "url",
+          "url": "https://developer.android.com/studio"
+        },
+        {
+          "date_added": "13415201687000000",
+          "date_last_used": "0",
+          "guid": "75c75f45-6092-479f-be83-ca75e80dbee4",
+          "id": "2025",
+          "name": "JetBrains: Essential tools for software developers and teams",
+          "type": "url",
+          "url": "https://www.jetbrains.com/"
+        },
+        {
+          "date_added": "13415468003000000",
+          "date_last_used": "0",
+          "guid": "8e705444-3168-494d-8ada-24a0b3c55e3f",
+          "id": "2026",
+          "name": "Get started with Jetpack Compose  |  Android Developers",
+          "type": "url",
+          "url": "https://developer.android.com/develop/ui/compose/documentation"
+        },
+        {
+          "date_added": "13415484573000000",
+          "date_last_used": "0",
+          "guid": "56583293-d4d6-41b9-9f51-3a3182234054",
+          "id": "2027",
+          "name": "firtman/coffeemasters-android",
+          "type": "url",
+          "url": "https://github.com/firtman/coffeemasters-android"
+        },
+        {
+          "date_added": "13415490645000000",
+          "date_last_used": "0",
+          "guid": "aa688602-9f3e-497e-b145-1eed058552da",
+          "id": "2028",
+          "name": "App bars  |  Jetpack Compose  |  Android Developers",
+          "type": "url",
+          "url": "https://developer.android.com/develop/ui/compose/components/app-bars"
+        }
+      ]
+    },
     {
       "date_added": "13416500366507302",
       "date_last_used": "0",
