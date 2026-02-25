@@ -13,6 +13,9 @@
 [submodule "Introduction to Bash, VIM & Regex/fmmn"]
 	path = Introduction to Bash, VIM & Regex/fmmn
 	url = git@github.com:AndreasNasman/fmmn.git
+[submodule "Introduction to Kotlin and Android Development/coffeemasters-android"]
+	path = Introduction to Kotlin and Android Development/coffeemasters-android
+	url = git@github.com:AndreasNasman/coffeemasters-android.git
 [submodule "Introduction to Vue 3/intro-to-vue"]
 	path = Introduction to Vue 3/intro-to-vue
 	url = git@github.com:AndreasNasman/intro-to-vue.git
